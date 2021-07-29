@@ -1,5 +1,9 @@
 # Spotify FOSS GitHub Page
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8904624/127524940-37bd6001-647d-40ac-86ec-bb22d1a100c8.gif">
+</p>
+
 This is a rework of the Spotify FOSS GitHub Page documenting the companies Open Source projects. It uses Jekyll to build the website & GitHub Actions with a short Node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
 
 It's strongly based on the code from the current [spotify.github.io Page](https://github.com/spotify/spotify.github.io) (You need to be a member of `spotify-dev` in the Spotify GitHub org to access this). The intention was to abandon the ancient software used while keeping most of the code. The generated website should be the same & the way it is generated as well, but the technology used changed.
