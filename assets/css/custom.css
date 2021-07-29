@@ -1,0 +1,159 @@
+h1,
+h2,
+h3 {
+  letter-spacing: -0.04em;
+}
+
+.navbar-logo {
+  background-image: none;
+}
+
+.navbar-logo svg {
+  position: relative;
+  top: -16px;
+  width: 200px;
+  height: 60px;
+}
+
+a:not([style]),
+a:not([style]) p {
+  color: #2e2f33;
+}
+
+.intro {
+  background-image: url(../img/home.jpg);
+  background-size: cover;
+  background-color: #333;
+}
+
+.jumbotron-hero {
+  text-align: left;
+  padding: 80px 0 110px;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  font-size: 150%;
+  color: #fff;
+  background-color: transparent;
+}
+
+.jumbotron-hero p {
+  font-size: 20px;
+}
+
+.jumbotron-hero a {
+  transition: opacity 0.2s;
+  font-weight: 700;
+  color: #fff;
+}
+
+.jumbotron-hero a:hover {
+  opacity: 0.8;
+}
+
+.jumbotron-hero h1 {
+  color: #fff;
+  font-weight: 900;
+}
+
+.jumbotron-hero fieldset {
+  position: relative;
+}
+
+.jumbotron-hero fieldset legend {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 800;
+  border-bottom: 0;
+}
+
+.jumbotron-hero fieldset legend:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  right: 0;
+  width: 50vw;
+}
+
+.jumbotron-hero fieldset ul {
+  padding: 0;
+}
+
+.jumbotron-hero fieldset ul > li {
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+footer {
+  background: #262626;
+  margin-top: 30px;
+  padding: 30px;
+  color: #919496;
+  text-align: center;
+}
+
+#page h2 {
+  font-weight: 700;
+  padding-top: 110px;
+  font-size: 44px;
+  margin-bottom: 24px;
+}
+
+#page h2,
+#page h2 a {
+  color: #503750;
+}
+
+#page h2 > a > i {
+  position: relative;
+  top: 2px;
+  float: right;
+}
+
+#page h2:first-child {
+  padding-top: 55px;
+}
+
+#page section a {
+  transition: opacity 0.2s;
+  opacity: 1;
+  display: block;
+}
+
+#page section a:hover {
+  opacity: 0.7;
+}
+
+#page section p {
+  font-weight: 400;
+}
+
+#page section:last-child {
+  margin-bottom: 90px;
+}
+
+#page section h3 {
+  font-weight: 700;
+}
+
+.footer .nav-title {
+  text-align: left;
+  font-weight: 800;
+}
+
+.footer li {
+  text-align: left;
+}
+
+.footer .nav a {
+  font-weight: 400;
+}
+
+.footer .nav-small > li > .last-updated:hover {
+  color: #919496;
+}
+
+.repo-stats span {
+  margin-right: 15px;
+  font-weight: 700;
+}

@@ -1,0 +1,132 @@
+- config:
+    id: c_c++
+    name: C / C++
+    icons_html: >
+      <i class="devicon-cplusplus-plain"></i>
+      <i class="devicon-c-plain"></i>
+  projects:
+    - url: https://github.com/spotify/annoy
+    - url: https://github.com/spotify/echoprint-codegen
+    - url: https://github.com/spotify/echoprint-server
+    - url: https://github.com/spotify/JniHelpers
+    - url: https://github.com/spotify/spotify-json
+    - url: https://github.com/spotify/NFDriver
+    - url: https://github.com/spotify/NFParam
+- config:
+    id: cassandra
+    name: Cassandra
+  projects:
+    - url: https://github.com/spotify/cassandra-opstools
+    - url: https://github.com/spotify/cassandra-reaper
+    - url: https://github.com/spotify/cstar
+    - url: https://github.com/spotify/hdfs2cass
+- config:
+    id: docker
+    name: Docker
+    icons_html: >
+      <i class="devicon-docker-plain"></i>
+  projects:
+    - url: https://github.com/spotify/docker-bigtable
+    - url: https://github.com/spotify/docker-client
+    - url: https://github.com/spotify/docker-kafka
+    - url: https://github.com/spotify/docker-maven-plugin
+    - url: https://github.com/spotify/dockerfile-maven
+    - url: https://github.com/spotify/styx
+    - url: https://github.com/spotify/docker_interface
+- config:
+    id: java
+    name: Java
+    icons_html: >
+      <i class="devicon-java-plain-wordmark"></i>
+  projects:
+    - url: https://github.com/spotify/android-auth
+    - url: https://github.com/spotify/android-sdk
+    - url: https://github.com/spotify/apollo
+    - url: https://github.com/spotify/completable-futures
+    - url: https://github.com/spotify/docker-client
+    - url: https://github.com/spotify/docker-maven-plugin
+    - url: https://github.com/spotify/dockerfile-maven
+    - url: https://github.com/spotify/ffwd
+    - url: https://github.com/spotify/folsom
+    - url: https://github.com/spotify/futures-extra
+    - url: https://github.com/spotify/helios
+    - url: https://github.com/spotify/heroic
+    - url: https://github.com/spotify/JniHelpers
+    - url: https://github.com/spotify/missinglink
+    - url: https://github.com/spotify/mobius
+    - url: https://github.com/spotify/spydra
+    - url: https://github.com/spotify/styx
+    - url: https://github.com/spotify/zoltar
+- config:
+    id: javascript
+    name: JavaScript
+    icons_html: >
+      <i class="devicon-javascript-plain"></i>
+  projects:
+    - url: https://github.com/backstage/backstage
+    - url: https://github.com/spotify/bucket-runner
+    - url: https://github.com/spotify/coordinator
+    - url: https://github.com/spotify/lingon
+    - url: https://github.com/spotify/NFGrapher
+    - url: https://github.com/spotify/NFPlayerJS
+    - url: https://github.com/spotify/polly-jest-presets
+    - url: https://github.com/spotify/reactochart
+    - url: https://github.com/spotify/redux-location-state
+    - url: https://github.com/spotify/ts-interface-loader
+    - url: https://github.com/spotify/web-audio-bench
+    - url: https://github.com/spotify/web-scripts
+    - url: https://github.com/spotify/web-scripts-library-template
+- config:
+    id: objective-c
+    name: Objective-C
+  projects:
+    - url: https://github.com/spotify/ios-style
+    - url: https://github.com/spotify/ios-sdk
+    - url: https://github.com/spotify/SPTDataLoader
+    - url: https://github.com/spotify/SPTPersistentCache
+- config:
+    id: python
+    name: Python
+    icons_html: >
+      <i class="devicon-python-plain alt-colored"></i>
+  projects:
+    - url: https://github.com/spotify/annoy
+    - url: https://github.com/spotify/crtauth
+    - url: https://github.com/spotify/cstar
+    - url: https://github.com/spotify/dh-virtualenv
+    - url: https://github.com/spotify/luigi
+    - url: https://github.com/spotify/pyeos
+    - url: https://github.com/spotify/pyfg
+    - url: https://github.com/spotify/pyschema
+    - url: https://github.com/spotify/ramlfications
+    - url: https://github.com/spotify/snakebite
+- config:
+    id: ruby
+    name: Ruby
+    icons_html: >
+      <i class="devicon-ruby-plain"></i>
+  projects:
+    - url: https://github.com/spotify/moob
+    - url: https://github.com/spotify/rspec-dns
+- config:
+    id: scala
+    name: Scala
+  projects:
+    - url: https://github.com/spotify/big-data-rosetta-code
+    - url: https://github.com/spotify/featran
+    - url: https://github.com/spotify/noether
+    - url: https://github.com/spotify/ratatool
+    - url: https://github.com/spotify/scio
+- config:
+    id: swift
+    name: Swift
+    icons_html: >
+      <i class="devicon-swift-plain"></i>
+  projects:
+    - url: https://github.com/spotify/Mobius.swift
+    - url: https://github.com/spotify/SpotifyLogin
+- config:
+    id: other
+    name: Other
+  projects:
+    - url: https://github.com/spotify/git-test

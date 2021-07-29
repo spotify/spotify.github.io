@@ -1,0 +1,14 @@
+{
+  "name": "spotify.github.io",
+  "version": "0.0.1",
+  "description": "Free and Open Source Software projects by Spotify",
+  "dependencies": {
+    "@octokit/graphql": "^4.6.4",
+    "yaml": "^1.10.2"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:spotify/spotify.github.io.git"
+  }
+}

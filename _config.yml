@@ -1,0 +1,16 @@
+title: Spotify Free Software
+description: Free and Open Source Software projects by Spotify
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://spotify.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: SpotifyEng
+github_username: Spotify
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - scripts
+  - assets/html
+  - package.json
+  - yarn.lock
+  - README.md

@@ -1,0 +1,94 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+    <title>{{ site.title }}</title>
+    <meta name="title" content="{{ site.title }}" />
+    <meta name="description" content="{{ site.description }}" />
+    <meta
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+      name="viewport"
+    />
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta content="summary" name="twitter:card" />
+    <meta name="twitter:url" content="{{ site.url }}" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta content="@{{ site.twitter_username }}" name="twitter:site" />
+    <!--[if IE
+      ]><link
+        rel="shortcut icon"
+        href="https://www.scdn.co/i/_global/favicon.ico"
+    /><![endif]-->
+
+    <link href="https://www.scdn.co/i/_global/favicon.png" rel="icon" />
+    <link
+      href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+      rel="stylesheet"
+    />
+    <!-- <link href="assets/octicons/octicons.css" rel="stylesheet" type="text/css"> -->
+    <link
+      rel="stylesheet"
+      href="https://sp-bootstrap.global.ssl.fastly.net/7.2.0/sp-bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="./assets/css/custom.css" />
+  </head>
+
+  <body>
+    {% include_relative /assets/html/intro.html %}
+
+    <div class="container">
+      <ul id="page">
+        {% for language in site.data.projects_generated %}
+        <section>
+          <h2 id="{{ language.config.id }}">
+            <a href="#{{ language.config.id }}">
+              {{ language.config.icons_html }} {{ language.config.name }}
+            </a>
+          </h2>
+          <div class="row">
+            {% assign projects = language.projects | sort: "stargazerCount" |
+            reverse %} {% for project in projects %}
+            <div class="col-sm-6 col-lg-3">
+              <a href="{{ project.url }}">
+                <h3>{{ project.name }}</h3>
+                <p class="repo-stats">
+                  <span>
+                    <i class="fa fa-star"></i>
+                    {{ project.stargazerCount }}</span
+                  >
+                  <span>
+                    <i class="fa fa-code-fork"></i>
+                    {{ project.forkCount }}</span
+                  >
+                </p>
+                <p>{{ project.description }}</p>
+              </a>
+            </div>
+
+            {% assign indexMod2 = forloop.index0 | plus: 1 | modulo: 2 %} {%
+            assign indexMod4 = forloop.index0 | plus: 1 | modulo: 4 %} {% if
+            indexMod2 == 0 %}
+            <div class="clearfix visible-sm-block visible-md-block"></div>
+            {% endif %} {% if indexMod4 == 0 %}
+          </div>
+          <div class="row">{% endif %} {% endfor %}</div>
+        </section>
+        {% endfor %}
+      </ul>
+    </div>
+
+    {% include_relative /assets/html/footer.html %}
+
+    <script src="./assets/js/ga.js"></script>
+  </body>
+</html>
