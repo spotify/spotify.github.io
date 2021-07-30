@@ -100,6 +100,8 @@
     - url: https://github.com/spotify/pyschema
     - url: https://github.com/spotify/ramlfications
     - url: https://github.com/spotify/snakebite
+    - url: https://github.com/spotify/chartify
+    - url: https://github.com/spotify/klio
 - config:
     id: ruby
     name: Ruby
