@@ -9,7 +9,6 @@ _site/
 .ruby-gemset
 .ruby-version
 *.gem
-Gemfile.lock
 
 # Files
 .analysis
