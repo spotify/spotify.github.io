@@ -11,7 +11,7 @@
       forkCount: 942
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 37
+        totalCount: 36
       watchers:
         totalCount: 322
     - name: echoprint-codegen
@@ -128,7 +128,7 @@
     - name: docker-client
       description: "INACTIVE: A simple docker client for the JVM"
       stargazerCount: 1396
-      forkCount: 542
+      forkCount: 541
       url: https://github.com/spotify/docker-client
       openIssues:
         totalCount: 21
@@ -164,7 +164,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 210
+      stargazerCount: 211
       forkCount: 43
       url: https://github.com/spotify/styx
       openIssues:
@@ -209,7 +209,7 @@
     - name: apollo
       description: Java libraries for writing composable microservices
       stargazerCount: 1625
-      forkCount: 220
+      forkCount: 219
       url: https://github.com/spotify/apollo
       openIssues:
         totalCount: 13
@@ -227,7 +227,7 @@
     - name: docker-client
       description: "INACTIVE: A simple docker client for the JVM"
       stargazerCount: 1396
-      forkCount: 542
+      forkCount: 541
       url: https://github.com/spotify/docker-client
       openIssues:
         totalCount: 21
@@ -336,7 +336,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 210
+      stargazerCount: 211
       forkCount: 43
       url: https://github.com/spotify/styx
       openIssues:
@@ -361,13 +361,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 12541
-      forkCount: 1422
+      stargazerCount: 12543
+      forkCount: 1423
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 295
+        totalCount: 297
       watchers:
-        totalCount: 176
+        totalCount: 175
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 12
@@ -428,7 +428,7 @@
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
       stargazerCount: 471
-      forkCount: 54
+      forkCount: 53
       url: https://github.com/spotify/reactochart
       openIssues:
         totalCount: 14
@@ -497,7 +497,7 @@
         totalCount: 137
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 393
+      stargazerCount: 394
       forkCount: 128
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -536,7 +536,7 @@
       forkCount: 942
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 37
+        totalCount: 36
       watchers:
         totalCount: 322
     - name: crtauth
@@ -570,7 +570,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 14829
+      stargazerCount: 14831
       forkCount: 2273
       url: https://github.com/spotify/luigi
       openIssues:
@@ -682,7 +682,7 @@
         totalCount: 30
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 288
+      stargazerCount: 289
       forkCount: 54
       url: https://github.com/spotify/ratatool
       openIssues:
