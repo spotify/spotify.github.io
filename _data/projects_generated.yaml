@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8797
-      forkCount: 942
+      stargazerCount: 8798
+      forkCount: 943
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 35
@@ -25,7 +25,7 @@
         totalCount: 120
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
-      stargazerCount: 367
+      stargazerCount: 368
       forkCount: 95
       url: https://github.com/spotify/echoprint-server
       openIssues:
@@ -199,7 +199,7 @@
         totalCount: 26
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 299
+      stargazerCount: 301
       forkCount: 99
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -280,7 +280,7 @@
         totalCount: 23
     - name: helios
       description: Docker container orchestration platform
-      stargazerCount: 2081
+      stargazerCount: 2084
       forkCount: 255
       url: https://github.com/spotify/helios
       openIssues:
@@ -347,7 +347,7 @@
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
       stargazerCount: 124
-      forkCount: 32
+      forkCount: 33
       url: https://github.com/spotify/zoltar
       openIssues:
         totalCount: 16
@@ -361,11 +361,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 12564
-      forkCount: 1427
+      stargazerCount: 12569
+      forkCount: 1429
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 295
+        totalCount: 294
       watchers:
         totalCount: 175
     - name: bucket-runner
@@ -532,8 +532,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8797
-      forkCount: 942
+      stargazerCount: 8798
+      forkCount: 943
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 35
@@ -563,7 +563,7 @@
       forkCount: 171
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
-        totalCount: 27
+        totalCount: 26
       watchers:
         totalCount: 41
     - name: luigi
@@ -571,7 +571,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 14835
-      forkCount: 2274
+      forkCount: 2275
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 57
@@ -683,7 +683,7 @@
       description: A Scala feature transformation library for data science and machine
         learning
       stargazerCount: 433
-      forkCount: 67
+      forkCount: 68
       url: https://github.com/spotify/featran
       openIssues:
         totalCount: 10
@@ -700,7 +700,7 @@
         totalCount: 30
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 289
+      stargazerCount: 290
       forkCount: 54
       url: https://github.com/spotify/ratatool
       openIssues:
