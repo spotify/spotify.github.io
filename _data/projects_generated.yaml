@@ -7,11 +7,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8830
-      forkCount: 944
+      stargazerCount: 8831
+      forkCount: 945
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 34
+        totalCount: 35
       watchers:
         totalCount: 323
     - name: echoprint-codegen
@@ -43,7 +43,7 @@
         totalCount: 38
     - name: spotify-json
       description: Fast and nice to use C++ JSON library.
-      stargazerCount: 153
+      stargazerCount: 154
       forkCount: 33
       url: https://github.com/spotify/spotify-json
       openIssues:
@@ -145,7 +145,7 @@
         totalCount: 140
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2560
+      stargazerCount: 2561
       forkCount: 556
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
@@ -190,7 +190,7 @@
     - name: android-auth
       description: Spotify authentication and authorization for Android. Part of the
         Spotify Android SDK.
-      stargazerCount: 91
+      stargazerCount: 92
       forkCount: 56
       url: https://github.com/spotify/android-auth
       openIssues:
@@ -199,8 +199,8 @@
         totalCount: 26
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 302
-      forkCount: 100
+      stargazerCount: 304
+      forkCount: 101
       url: https://github.com/spotify/android-sdk
       openIssues:
         totalCount: 107
@@ -235,7 +235,7 @@
         totalCount: 70
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2560
+      stargazerCount: 2561
       forkCount: 556
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
@@ -317,7 +317,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 906
+      stargazerCount: 907
       forkCount: 66
       url: https://github.com/spotify/mobius
       openIssues:
@@ -361,13 +361,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 12661
-      forkCount: 1462
+      stargazerCount: 12686
+      forkCount: 1463
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 303
+        totalCount: 306
       watchers:
-        totalCount: 177
+        totalCount: 178
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 12
@@ -379,7 +379,7 @@
         totalCount: 13
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
-      stargazerCount: 254
+      stargazerCount: 255
       forkCount: 20
       url: https://github.com/spotify/coordinator
       openIssues:
@@ -503,7 +503,7 @@
       openIssues:
         totalCount: 147
       watchers:
-        totalCount: 49
+        totalCount: 48
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
       stargazerCount: 615
@@ -532,11 +532,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8830
-      forkCount: 944
+      stargazerCount: 8831
+      forkCount: 945
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 34
+        totalCount: 35
       watchers:
         totalCount: 323
     - name: crtauth
@@ -559,7 +559,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1474
+      stargazerCount: 1475
       forkCount: 171
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -570,8 +570,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 14868
-      forkCount: 2280
+      stargazerCount: 14869
+      forkCount: 2281
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 60
@@ -616,7 +616,7 @@
         totalCount: 81
     - name: snakebite
       description: A pure python HDFS client
-      stargazerCount: 837
+      stargazerCount: 838
       forkCount: 219
       url: https://github.com/spotify/snakebite
       openIssues:
@@ -625,7 +625,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 2951
+      stargazerCount: 2952
       forkCount: 263
       url: https://github.com/spotify/chartify
       openIssues:
@@ -640,7 +640,7 @@
       openIssues:
         totalCount: 5
       watchers:
-        totalCount: 24
+        totalCount: 23
 - config:
     id: ruby
     name: Ruby
@@ -709,7 +709,7 @@
         totalCount: 35
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2177
+      stargazerCount: 2178
       forkCount: 444
       url: https://github.com/spotify/scio
       openIssues:
