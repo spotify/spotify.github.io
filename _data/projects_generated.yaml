@@ -154,7 +154,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2496
+      stargazerCount: 2497
       forkCount: 407
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -203,7 +203,7 @@
       forkCount: 100
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 107
+        totalCount: 108
       watchers:
         totalCount: 60
     - name: apollo
@@ -244,7 +244,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2496
+      stargazerCount: 2497
       forkCount: 407
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -317,7 +317,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 914
+      stargazerCount: 915
       forkCount: 66
       url: https://github.com/spotify/mobius
       openIssues:
@@ -361,11 +361,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 12879
-      forkCount: 1548
+      stargazerCount: 12893
+      forkCount: 1549
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 307
+        totalCount: 306
       watchers:
         totalCount: 176
     - name: bucket-runner
@@ -570,7 +570,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 14930
+      stargazerCount: 14931
       forkCount: 2286
       url: https://github.com/spotify/luigi
       openIssues:
@@ -599,7 +599,7 @@
       description: Python library for class-based schema definition, object
         serialization and data validation
       stargazerCount: 57
-      forkCount: 20
+      forkCount: 19
       url: https://github.com/spotify/pyschema
       openIssues:
         totalCount: 3
@@ -625,7 +625,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 2969
+      stargazerCount: 2972
       forkCount: 265
       url: https://github.com/spotify/chartify
       openIssues:
@@ -634,7 +634,7 @@
         totalCount: 85
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 634
+      stargazerCount: 635
       forkCount: 35
       url: https://github.com/spotify/klio
       openIssues:
@@ -658,7 +658,7 @@
         totalCount: 136
     - name: rspec-dns
       description: Easily test your DNS with RSpec
-      stargazerCount: 105
+      stargazerCount: 106
       forkCount: 22
       url: https://github.com/spotify/rspec-dns
       openIssues:
