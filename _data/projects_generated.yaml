@@ -7,13 +7,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8919
+      stargazerCount: 8920
       forkCount: 956
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 35
       watchers:
-        totalCount: 322
+        totalCount: 321
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 914
@@ -154,7 +154,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2497
+      stargazerCount: 2496
       forkCount: 407
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -208,7 +208,7 @@
         totalCount: 60
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1626
+      stargazerCount: 1627
       forkCount: 224
       url: https://github.com/spotify/apollo
       openIssues:
@@ -244,7 +244,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2497
+      stargazerCount: 2496
       forkCount: 407
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -352,7 +352,7 @@
       openIssues:
         totalCount: 16
       watchers:
-        totalCount: 31
+        totalCount: 30
 - config:
     id: javascript
     name: JavaScript
@@ -361,11 +361,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 12893
-      forkCount: 1549
+      stargazerCount: 12900
+      forkCount: 1550
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 306
+        totalCount: 304
       watchers:
         totalCount: 176
     - name: bucket-runner
@@ -506,7 +506,7 @@
         totalCount: 47
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
-      stargazerCount: 614
+      stargazerCount: 615
       forkCount: 71
       url: https://github.com/spotify/SPTDataLoader
       openIssues:
@@ -532,13 +532,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8919
+      stargazerCount: 8920
       forkCount: 956
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 35
       watchers:
-        totalCount: 322
+        totalCount: 321
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 109
@@ -560,7 +560,7 @@
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
       stargazerCount: 1479
-      forkCount: 170
+      forkCount: 171
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
         totalCount: 26
@@ -570,8 +570,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 14931
-      forkCount: 2286
+      stargazerCount: 14935
+      forkCount: 2285
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 60
@@ -625,7 +625,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 2972
+      stargazerCount: 2973
       forkCount: 265
       url: https://github.com/spotify/chartify
       openIssues:
@@ -640,7 +640,7 @@
       openIssues:
         totalCount: 5
       watchers:
-        totalCount: 23
+        totalCount: 22
 - config:
     id: ruby
     name: Ruby
@@ -678,7 +678,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 40
+        totalCount: 39
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
@@ -688,7 +688,7 @@
       openIssues:
         totalCount: 10
       watchers:
-        totalCount: 36
+        totalCount: 35
     - name: noether
       description: Scala Aggregators used for ML Model metrics monitoring
       stargazerCount: 80
@@ -697,7 +697,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 29
+        totalCount: 28
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
       stargazerCount: 292
@@ -706,16 +706,16 @@
       openIssues:
         totalCount: 16
       watchers:
-        totalCount: 35
+        totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2186
+      stargazerCount: 2188
       forkCount: 441
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 84
       watchers:
-        totalCount: 123
+        totalCount: 122
 - config:
     id: swift
     name: Swift
