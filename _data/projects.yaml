@@ -12,6 +12,7 @@
     - url: https://github.com/spotify/spotify-json
     - url: https://github.com/spotify/NFDriver
     - url: https://github.com/spotify/NFParam
+    - url: https://github.com/spotify/pedalboard
 - config:
     id: cassandra
     name: Cassandra
@@ -102,6 +103,7 @@
     - url: https://github.com/spotify/snakebite
     - url: https://github.com/spotify/chartify
     - url: https://github.com/spotify/klio
+    - url: https://github.com/spotify/pedalboard
 - config:
     id: ruby
     name: Ruby
