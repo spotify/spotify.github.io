@@ -71,8 +71,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2238
-      forkCount: 48
+      stargazerCount: 2282
+      forkCount: 51
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 5
@@ -173,7 +173,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 213
+      stargazerCount: 214
       forkCount: 43
       url: https://github.com/spotify/styx
       openIssues:
@@ -326,7 +326,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 917
+      stargazerCount: 918
       forkCount: 67
       url: https://github.com/spotify/mobius
       openIssues:
@@ -345,7 +345,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 213
+      stargazerCount: 214
       forkCount: 43
       url: https://github.com/spotify/styx
       openIssues:
@@ -355,7 +355,7 @@
     - name: zoltar
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
-      stargazerCount: 124
+      stargazerCount: 123
       forkCount: 33
       url: https://github.com/spotify/zoltar
       openIssues:
@@ -370,11 +370,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 12963
-      forkCount: 1574
+      stargazerCount: 12965
+      forkCount: 1576
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 308
+        totalCount: 309
       watchers:
         totalCount: 177
     - name: bucket-runner
@@ -572,14 +572,14 @@
       forkCount: 172
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
-        totalCount: 28
+        totalCount: 23
       watchers:
         totalCount: 41
     - name: luigi
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 14955
+      stargazerCount: 14956
       forkCount: 2290
       url: https://github.com/spotify/luigi
       openIssues:
@@ -652,8 +652,8 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2238
-      forkCount: 48
+      stargazerCount: 2282
+      forkCount: 51
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 5
@@ -743,7 +743,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 394
+      stargazerCount: 395
       forkCount: 29
       url: https://github.com/spotify/Mobius.swift
       openIssues:
