@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8944
+      stargazerCount: 8948
       forkCount: 958
       url: https://github.com/spotify/annoy
       openIssues:
@@ -22,7 +22,7 @@
       openIssues:
         totalCount: 48
       watchers:
-        totalCount: 120
+        totalCount: 119
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
       stargazerCount: 371
@@ -34,8 +34,8 @@
         totalCount: 29
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 509
-      forkCount: 102
+      stargazerCount: 510
+      forkCount: 103
       url: https://github.com/spotify/JniHelpers
       openIssues:
         totalCount: 9
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2370
-      forkCount: 53
+      stargazerCount: 2464
+      forkCount: 58
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 7
       watchers:
-        totalCount: 34
+        totalCount: 36
 - config:
     id: cassandra
     name: Cassandra
@@ -154,8 +154,8 @@
         totalCount: 139
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2575
-      forkCount: 559
+      stargazerCount: 2576
+      forkCount: 560
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 9
@@ -169,7 +169,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 131
+        totalCount: 132
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
@@ -226,7 +226,7 @@
         totalCount: 132
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 298
+      stargazerCount: 299
       forkCount: 40
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -244,8 +244,8 @@
         totalCount: 70
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2575
-      forkCount: 559
+      stargazerCount: 2576
+      forkCount: 560
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 9
@@ -259,7 +259,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 131
+        totalCount: 132
     - name: ffwd
       description: a flexible metric forwarding agent
       stargazerCount: 78
@@ -307,8 +307,8 @@
         totalCount: 57
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 509
-      forkCount: 102
+      stargazerCount: 510
+      forkCount: 103
       url: https://github.com/spotify/JniHelpers
       openIssues:
         totalCount: 9
@@ -370,13 +370,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 12979
-      forkCount: 1580
+      stargazerCount: 13000
+      forkCount: 1582
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 302
+        totalCount: 305
       watchers:
-        totalCount: 179
+        totalCount: 178
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 12
@@ -436,7 +436,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 474
+      stargazerCount: 475
       forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -455,7 +455,7 @@
     - name: ts-interface-loader
       description: Webpack support for validating TypeScript definitions at runtime.
       stargazerCount: 18
-      forkCount: 2
+      forkCount: 3
       url: https://github.com/spotify/ts-interface-loader
       openIssues:
         totalCount: 1
@@ -525,7 +525,7 @@
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
-      stargazerCount: 1225
+      stargazerCount: 1226
       forkCount: 83
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
@@ -541,7 +541,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8944
+      stargazerCount: 8948
       forkCount: 958
       url: https://github.com/spotify/annoy
       openIssues:
@@ -568,7 +568,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1485
+      stargazerCount: 1486
       forkCount: 172
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -634,7 +634,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 2996
+      stargazerCount: 2997
       forkCount: 268
       url: https://github.com/spotify/chartify
       openIssues:
@@ -652,13 +652,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2370
-      forkCount: 53
+      stargazerCount: 2464
+      forkCount: 58
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 7
       watchers:
-        totalCount: 34
+        totalCount: 36
 - config:
     id: ruby
     name: Ruby
@@ -731,7 +731,7 @@
       forkCount: 443
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 88
+        totalCount: 86
       watchers:
         totalCount: 122
 - config:
@@ -743,7 +743,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 396
+      stargazerCount: 397
       forkCount: 29
       url: https://github.com/spotify/Mobius.swift
       openIssues:
