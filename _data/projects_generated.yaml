@@ -7,13 +7,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8989
+      stargazerCount: 8991
       forkCount: 963
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 36
       watchers:
-        totalCount: 321
+        totalCount: 320
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 915
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2710
+      stargazerCount: 2719
       forkCount: 63
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
     - name: docker-kafka
       description: Kafka (and Zookeeper) in Docker
       stargazerCount: 1372
-      forkCount: 664
+      forkCount: 663
       url: https://github.com/spotify/docker-kafka
       openIssues:
         totalCount: 32
@@ -208,7 +208,7 @@
         totalCount: 26
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 314
+      stargazerCount: 315
       forkCount: 101
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -316,7 +316,7 @@
         totalCount: 38
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
-      stargazerCount: 118
+      stargazerCount: 120
       forkCount: 20
       url: https://github.com/spotify/missinglink
       openIssues:
@@ -326,7 +326,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 925
+      stargazerCount: 926
       forkCount: 68
       url: https://github.com/spotify/mobius
       openIssues:
@@ -370,11 +370,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13107
-      forkCount: 1617
+      stargazerCount: 13123
+      forkCount: 1618
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 306
+        totalCount: 309
       watchers:
         totalCount: 179
     - name: bucket-runner
@@ -507,7 +507,7 @@
     - name: ios-sdk
       description: Spotify SDK for iOS
       stargazerCount: 414
-      forkCount: 132
+      forkCount: 133
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 151
@@ -541,13 +541,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8989
+      stargazerCount: 8991
       forkCount: 963
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 36
       watchers:
-        totalCount: 321
+        totalCount: 320
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 110
@@ -568,7 +568,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1486
+      stargazerCount: 1487
       forkCount: 173
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -579,8 +579,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15011
-      forkCount: 2298
+      stargazerCount: 15016
+      forkCount: 2299
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 64
@@ -634,7 +634,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3010
+      stargazerCount: 3012
       forkCount: 268
       url: https://github.com/spotify/chartify
       openIssues:
@@ -652,7 +652,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2710
+      stargazerCount: 2719
       forkCount: 63
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -765,7 +765,7 @@
   projects:
     - name: git-test
       description: test your commits
-      stargazerCount: 179
+      stargazerCount: 178
       forkCount: 31
       url: https://github.com/spotify/git-test
       openIssues:
