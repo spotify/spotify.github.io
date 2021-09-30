@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8997
+      stargazerCount: 9004
       forkCount: 963
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2725
+      stargazerCount: 2731
       forkCount: 63
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 9
       watchers:
-        totalCount: 36
+        totalCount: 37
 - config:
     id: cassandra
     name: Cassandra
@@ -154,7 +154,7 @@
         totalCount: 139
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2578
+      stargazerCount: 2580
       forkCount: 561
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
@@ -163,7 +163,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2510
+      stargazerCount: 2511
       forkCount: 413
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -244,7 +244,7 @@
         totalCount: 70
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2578
+      stargazerCount: 2580
       forkCount: 561
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
@@ -253,7 +253,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2510
+      stargazerCount: 2511
       forkCount: 413
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -370,8 +370,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13132
-      forkCount: 1625
+      stargazerCount: 13147
+      forkCount: 1628
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 312
@@ -541,7 +541,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 8997
+      stargazerCount: 9004
       forkCount: 963
       url: https://github.com/spotify/annoy
       openIssues:
@@ -568,7 +568,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1487
+      stargazerCount: 1488
       forkCount: 173
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -579,7 +579,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15021
+      stargazerCount: 15027
       forkCount: 2300
       url: https://github.com/spotify/luigi
       openIssues:
@@ -652,13 +652,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2725
+      stargazerCount: 2731
       forkCount: 63
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 9
       watchers:
-        totalCount: 36
+        totalCount: 37
 - config:
     id: ruby
     name: Ruby
@@ -718,7 +718,7 @@
         totalCount: 28
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 294
+      stargazerCount: 295
       forkCount: 56
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -743,7 +743,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 399
+      stargazerCount: 400
       forkCount: 29
       url: https://github.com/spotify/Mobius.swift
       openIssues:
