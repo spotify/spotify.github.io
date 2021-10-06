@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2756
+      stargazerCount: 2760
       forkCount: 66
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -163,7 +163,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2516
+      stargazerCount: 2517
       forkCount: 412
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -218,7 +218,7 @@
     - name: apollo
       description: Java libraries for writing composable microservices
       stargazerCount: 1630
-      forkCount: 223
+      forkCount: 224
       url: https://github.com/spotify/apollo
       openIssues:
         totalCount: 0
@@ -253,7 +253,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2516
+      stargazerCount: 2517
       forkCount: 412
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -290,7 +290,7 @@
     - name: helios
       description: Docker container orchestration platform
       stargazerCount: 2092
-      forkCount: 256
+      forkCount: 255
       url: https://github.com/spotify/helios
       openIssues:
         totalCount: 3
@@ -370,8 +370,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13197
-      forkCount: 1645
+      stargazerCount: 13210
+      forkCount: 1650
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 317
@@ -389,7 +389,7 @@
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
       stargazerCount: 256
-      forkCount: 19
+      forkCount: 20
       url: https://github.com/spotify/coordinator
       openIssues:
         totalCount: 3
@@ -445,7 +445,7 @@
         totalCount: 21
     - name: redux-location-state
       description: Utilities for reading & writing Redux store state to & from the URL
-      stargazerCount: 108
+      stargazerCount: 109
       forkCount: 24
       url: https://github.com/spotify/redux-location-state
       openIssues:
@@ -579,8 +579,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15033
-      forkCount: 2301
+      stargazerCount: 15036
+      forkCount: 2303
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 64
@@ -603,7 +603,7 @@
       openIssues:
         totalCount: 16
       watchers:
-        totalCount: 107
+        totalCount: 106
     - name: pyschema
       description: Python library for class-based schema definition, object
         serialization and data validation
@@ -634,7 +634,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3021
+      stargazerCount: 3022
       forkCount: 268
       url: https://github.com/spotify/chartify
       openIssues:
@@ -652,7 +652,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2756
+      stargazerCount: 2760
       forkCount: 66
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -700,7 +700,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 435
+      stargazerCount: 436
       forkCount: 70
       url: https://github.com/spotify/featran
       openIssues:
@@ -727,7 +727,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2200
+      stargazerCount: 2202
       forkCount: 445
       url: https://github.com/spotify/scio
       openIssues:
