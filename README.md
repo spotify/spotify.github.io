@@ -8,7 +8,7 @@ Showcase site for hand-picked open-source projects by Spotify. It is build using
 
 ## Development
 
-**Install Jekyll & bunlder gems**
+**Install Jekyll & bundler gems**
 
 ```
 gem install jekyll bundler
