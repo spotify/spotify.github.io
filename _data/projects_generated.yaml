@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9059
-      forkCount: 966
+      stargazerCount: 9067
+      forkCount: 967
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 35
@@ -25,7 +25,7 @@
         totalCount: 119
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
-      stargazerCount: 372
+      stargazerCount: 373
       forkCount: 96
       url: https://github.com/spotify/echoprint-server
       openIssues:
@@ -34,7 +34,7 @@
         totalCount: 29
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 514
+      stargazerCount: 515
       forkCount: 101
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2796
+      stargazerCount: 2801
       forkCount: 71
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -155,7 +155,7 @@
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
       stargazerCount: 2585
-      forkCount: 561
+      forkCount: 562
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 9
@@ -163,8 +163,8 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2522
-      forkCount: 414
+      stargazerCount: 2524
+      forkCount: 415
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -245,7 +245,7 @@
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
       stargazerCount: 2585
-      forkCount: 561
+      forkCount: 562
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 9
@@ -253,8 +253,8 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2522
-      forkCount: 414
+      stargazerCount: 2524
+      forkCount: 415
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -280,7 +280,7 @@
         totalCount: 99
     - name: futures-extra
       description: Java library for working with Guava futures
-      stargazerCount: 122
+      stargazerCount: 121
       forkCount: 26
       url: https://github.com/spotify/futures-extra
       openIssues:
@@ -298,7 +298,7 @@
         totalCount: 89
     - name: heroic
       description: The Heroic Time Series Database
-      stargazerCount: 840
+      stargazerCount: 841
       forkCount: 107
       url: https://github.com/spotify/heroic
       openIssues:
@@ -307,7 +307,7 @@
         totalCount: 57
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 514
+      stargazerCount: 515
       forkCount: 101
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -370,11 +370,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13300
-      forkCount: 1690
+      stargazerCount: 13316
+      forkCount: 1691
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 321
+        totalCount: 319
       watchers:
         totalCount: 180
     - name: bucket-runner
@@ -541,8 +541,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9059
-      forkCount: 966
+      stargazerCount: 9067
+      forkCount: 967
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 35
@@ -572,14 +572,14 @@
       forkCount: 173
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
-        totalCount: 25
+        totalCount: 24
       watchers:
         totalCount: 41
     - name: luigi
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15066
+      stargazerCount: 15069
       forkCount: 2306
       url: https://github.com/spotify/luigi
       openIssues:
@@ -643,7 +643,7 @@
         totalCount: 84
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 650
+      stargazerCount: 649
       forkCount: 36
       url: https://github.com/spotify/klio
       openIssues:
@@ -652,7 +652,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2796
+      stargazerCount: 2801
       forkCount: 71
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -715,7 +715,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 28
+        totalCount: 27
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
       stargazerCount: 296
