@@ -7,11 +7,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9087
-      forkCount: 970
+      stargazerCount: 9089
+      forkCount: 969
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 36
+        totalCount: 37
       watchers:
         totalCount: 321
     - name: echoprint-codegen
@@ -71,8 +71,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2818
-      forkCount: 74
+      stargazerCount: 2823
+      forkCount: 75
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 8
@@ -136,7 +136,7 @@
         totalCount: 15
     - name: docker-client
       description: "INACTIVE: A simple docker client for the JVM"
-      stargazerCount: 1405
+      stargazerCount: 1406
       forkCount: 546
       url: https://github.com/spotify/docker-client
       openIssues:
@@ -163,7 +163,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2530
+      stargazerCount: 2531
       forkCount: 417
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -235,7 +235,7 @@
         totalCount: 106
     - name: docker-client
       description: "INACTIVE: A simple docker client for the JVM"
-      stargazerCount: 1405
+      stargazerCount: 1406
       forkCount: 546
       url: https://github.com/spotify/docker-client
       openIssues:
@@ -253,7 +253,7 @@
         totalCount: 144
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2530
+      stargazerCount: 2531
       forkCount: 417
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -326,8 +326,8 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 936
-      forkCount: 68
+      stargazerCount: 942
+      forkCount: 69
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 6
@@ -370,8 +370,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13417
-      forkCount: 1710
+      stargazerCount: 13422
+      forkCount: 1711
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 334
@@ -506,7 +506,7 @@
         totalCount: 135
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 417
+      stargazerCount: 418
       forkCount: 139
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -541,11 +541,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9087
-      forkCount: 970
+      stargazerCount: 9089
+      forkCount: 969
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 36
+        totalCount: 37
       watchers:
         totalCount: 321
     - name: crtauth
@@ -626,7 +626,7 @@
     - name: snakebite
       description: A pure python HDFS client
       stargazerCount: 841
-      forkCount: 219
+      forkCount: 220
       url: https://github.com/spotify/snakebite
       openIssues:
         totalCount: 58
@@ -643,7 +643,7 @@
         totalCount: 84
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 649
+      stargazerCount: 650
       forkCount: 37
       url: https://github.com/spotify/klio
       openIssues:
@@ -652,8 +652,8 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2818
-      forkCount: 74
+      stargazerCount: 2823
+      forkCount: 75
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 8
@@ -727,7 +727,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2211
+      stargazerCount: 2212
       forkCount: 448
       url: https://github.com/spotify/scio
       openIssues:
