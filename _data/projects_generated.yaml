@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2840
+      stargazerCount: 2843
       forkCount: 77
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 8
       watchers:
-        totalCount: 39
+        totalCount: 40
 - config:
     id: cassandra
     name: Cassandra
@@ -154,7 +154,7 @@
         totalCount: 141
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2587
+      stargazerCount: 2588
       forkCount: 563
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
@@ -163,7 +163,7 @@
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2536
+      stargazerCount: 2537
       forkCount: 418
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -208,7 +208,7 @@
         totalCount: 26
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 325
+      stargazerCount: 326
       forkCount: 103
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -244,7 +244,7 @@
         totalCount: 72
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2587
+      stargazerCount: 2588
       forkCount: 563
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
@@ -253,7 +253,7 @@
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2536
+      stargazerCount: 2537
       forkCount: 418
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -326,7 +326,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 945
+      stargazerCount: 944
       forkCount: 69
       url: https://github.com/spotify/mobius
       openIssues:
@@ -370,13 +370,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13520
-      forkCount: 1737
+      stargazerCount: 13535
+      forkCount: 1739
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 328
       watchers:
-        totalCount: 184
+        totalCount: 186
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 13
@@ -579,7 +579,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15101
+      stargazerCount: 15100
       forkCount: 2304
       url: https://github.com/spotify/luigi
       openIssues:
@@ -652,13 +652,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2840
+      stargazerCount: 2843
       forkCount: 77
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 8
       watchers:
-        totalCount: 39
+        totalCount: 40
 - config:
     id: ruby
     name: Ruby
