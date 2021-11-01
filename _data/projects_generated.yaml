@@ -71,11 +71,11 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2843
+      stargazerCount: 2844
       forkCount: 77
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 8
+        totalCount: 9
       watchers:
         totalCount: 40
 - config:
@@ -146,7 +146,7 @@
     - name: docker-kafka
       description: Kafka (and Zookeeper) in Docker
       stargazerCount: 1373
-      forkCount: 663
+      forkCount: 662
       url: https://github.com/spotify/docker-kafka
       openIssues:
         totalCount: 32
@@ -155,7 +155,7 @@
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
       stargazerCount: 2588
-      forkCount: 563
+      forkCount: 562
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 9
@@ -245,7 +245,7 @@
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
       stargazerCount: 2588
-      forkCount: 563
+      forkCount: 562
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 9
@@ -370,11 +370,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13535
+      stargazerCount: 13539
       forkCount: 1739
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 328
+        totalCount: 331
       watchers:
         totalCount: 186
     - name: bucket-runner
@@ -652,11 +652,11 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2843
+      stargazerCount: 2844
       forkCount: 77
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 8
+        totalCount: 9
       watchers:
         totalCount: 40
 - config:
@@ -727,7 +727,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2216
+      stargazerCount: 2217
       forkCount: 447
       url: https://github.com/spotify/scio
       openIssues:
