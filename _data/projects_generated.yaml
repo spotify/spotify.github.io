@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9106
+      stargazerCount: 9113
       forkCount: 971
       url: https://github.com/spotify/annoy
       openIssues:
@@ -25,7 +25,7 @@
         totalCount: 119
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
-      stargazerCount: 375
+      stargazerCount: 374
       forkCount: 95
       url: https://github.com/spotify/echoprint-server
       openIssues:
@@ -140,7 +140,7 @@
       forkCount: 545
       url: https://github.com/spotify/docker-client
       openIssues:
-        totalCount: 22
+        totalCount: 23
       watchers:
         totalCount: 72
     - name: docker-kafka
@@ -239,7 +239,7 @@
       forkCount: 545
       url: https://github.com/spotify/docker-client
       openIssues:
-        totalCount: 22
+        totalCount: 23
       watchers:
         totalCount: 72
     - name: docker-maven-plugin
@@ -370,8 +370,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13539
-      forkCount: 1739
+      stargazerCount: 13549
+      forkCount: 1742
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 331
@@ -541,7 +541,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9106
+      stargazerCount: 9113
       forkCount: 971
       url: https://github.com/spotify/annoy
       openIssues:
@@ -569,7 +569,7 @@
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
       stargazerCount: 1497
-      forkCount: 173
+      forkCount: 174
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
         totalCount: 24
@@ -635,7 +635,7 @@
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
       stargazerCount: 3032
-      forkCount: 271
+      forkCount: 272
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
