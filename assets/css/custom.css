@@ -108,6 +108,10 @@ footer {
   text-align: center;
 }
 
+#page {
+  padding-left: 0;
+}
+
 #page h2 {
   font-weight: 700;
   padding-top: 110px;
