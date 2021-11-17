@@ -7,13 +7,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9162
+      stargazerCount: 9170
       forkCount: 971
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 36
       watchers:
-        totalCount: 321
+        totalCount: 320
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 921
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2889
+      stargazerCount: 2891
       forkCount: 78
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -99,7 +99,7 @@
       openIssues:
         totalCount: 23
       watchers:
-        totalCount: 123
+        totalCount: 122
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
       stargazerCount: 245
@@ -117,7 +117,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 124
+        totalCount: 123
 - config:
     id: docker
     name: Docker
@@ -151,7 +151,7 @@
       openIssues:
         totalCount: 32
       watchers:
-        totalCount: 142
+        totalCount: 141
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
       stargazerCount: 2592
@@ -163,13 +163,13 @@
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2540
+      stargazerCount: 2542
       forkCount: 418
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 133
+        totalCount: 132
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
@@ -179,11 +179,11 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 76
+        totalCount: 75
     - name: docker_interface
       description: ":whale: Declarative interface for building images and running
         commands in containers using Docker."
-      stargazerCount: 29
+      stargazerCount: 30
       forkCount: 14
       url: https://github.com/spotify/docker_interface
       openIssues:
@@ -232,7 +232,7 @@
       openIssues:
         totalCount: 3
       watchers:
-        totalCount: 106
+        totalCount: 105
     - name: docker-client
       description: "INACTIVE: A simple docker client for the JVM"
       stargazerCount: 1410
@@ -253,13 +253,13 @@
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2540
+      stargazerCount: 2542
       forkCount: 418
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 133
+        totalCount: 132
     - name: ffwd
       description: a flexible metric forwarding agent
       stargazerCount: 78
@@ -275,9 +275,9 @@
       forkCount: 55
       url: https://github.com/spotify/folsom
       openIssues:
-        totalCount: 10
+        totalCount: 11
       watchers:
-        totalCount: 99
+        totalCount: 98
     - name: futures-extra
       description: Java library for working with Guava futures
       stargazerCount: 119
@@ -322,15 +322,15 @@
       openIssues:
         totalCount: 17
       watchers:
-        totalCount: 103
+        totalCount: 102
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 982
+      stargazerCount: 983
       forkCount: 70
       url: https://github.com/spotify/mobius
       openIssues:
-        totalCount: 6
+        totalCount: 5
       watchers:
         totalCount: 47
     - name: spydra
@@ -351,7 +351,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 76
+        totalCount: 75
     - name: zoltar
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
@@ -370,8 +370,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13786
-      forkCount: 1794
+      stargazerCount: 13811
+      forkCount: 1797
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 344
@@ -503,10 +503,10 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 135
+        totalCount: 134
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 429
+      stargazerCount: 430
       forkCount: 139
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -515,13 +515,13 @@
         totalCount: 48
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
-      stargazerCount: 615
+      stargazerCount: 616
       forkCount: 71
       url: https://github.com/spotify/SPTDataLoader
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 121
+        totalCount: 120
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
@@ -541,13 +541,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9162
+      stargazerCount: 9170
       forkCount: 971
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 36
       watchers:
-        totalCount: 321
+        totalCount: 320
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 110
@@ -568,7 +568,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1499
+      stargazerCount: 1500
       forkCount: 175
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -579,8 +579,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15132
-      forkCount: 2308
+      stargazerCount: 15137
+      forkCount: 2310
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 67
@@ -594,7 +594,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 117
+        totalCount: 116
     - name: pyfg
       description: null
       stargazerCount: 56
@@ -603,7 +603,7 @@
       openIssues:
         totalCount: 16
       watchers:
-        totalCount: 106
+        totalCount: 105
     - name: pyschema
       description: Python library for class-based schema definition, object
         serialization and data validation
@@ -613,7 +613,7 @@
       openIssues:
         totalCount: 3
       watchers:
-        totalCount: 118
+        totalCount: 117
     - name: ramlfications
       description: Python parser for RAML
       stargazerCount: 232
@@ -631,7 +631,7 @@
       openIssues:
         totalCount: 58
       watchers:
-        totalCount: 132
+        totalCount: 131
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
       stargazerCount: 3037
@@ -652,7 +652,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2889
+      stargazerCount: 2891
       forkCount: 78
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -673,7 +673,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 135
+        totalCount: 134
     - name: rspec-dns
       description: Easily test your DNS with RSpec
       stargazerCount: 106
@@ -752,7 +752,7 @@
         totalCount: 24
     - name: SpotifyLogin
       description: Swift framework for authenticating with the Spotify API
-      stargazerCount: 336
+      stargazerCount: 337
       forkCount: 41
       url: https://github.com/spotify/SpotifyLogin
       openIssues:
@@ -771,4 +771,4 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 121
+        totalCount: 120
