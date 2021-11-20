@@ -71,8 +71,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2896
-      forkCount: 78
+      stargazerCount: 2897
+      forkCount: 79
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 13
@@ -140,7 +140,7 @@
       forkCount: 548
       url: https://github.com/spotify/docker-client
       openIssues:
-        totalCount: 23
+        totalCount: 24
       watchers:
         totalCount: 72
     - name: docker-kafka
@@ -158,13 +158,13 @@
       forkCount: 562
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
-        totalCount: 9
+        totalCount: 10
       watchers:
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2542
-      forkCount: 419
+      stargazerCount: 2543
+      forkCount: 420
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -239,7 +239,7 @@
       forkCount: 548
       url: https://github.com/spotify/docker-client
       openIssues:
-        totalCount: 23
+        totalCount: 24
       watchers:
         totalCount: 72
     - name: docker-maven-plugin
@@ -248,13 +248,13 @@
       forkCount: 562
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
-        totalCount: 9
+        totalCount: 10
       watchers:
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2542
-      forkCount: 419
+      stargazerCount: 2543
+      forkCount: 420
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -298,7 +298,7 @@
         totalCount: 89
     - name: heroic
       description: The Heroic Time Series Database
-      stargazerCount: 842
+      stargazerCount: 841
       forkCount: 107
       url: https://github.com/spotify/heroic
       openIssues:
@@ -326,7 +326,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 985
+      stargazerCount: 984
       forkCount: 70
       url: https://github.com/spotify/mobius
       openIssues:
@@ -370,13 +370,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13852
-      forkCount: 1812
+      stargazerCount: 13894
+      forkCount: 1817
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 356
+        totalCount: 359
       watchers:
-        totalCount: 186
+        totalCount: 187
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 14
@@ -436,7 +436,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 477
+      stargazerCount: 479
       forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -445,7 +445,7 @@
         totalCount: 21
     - name: redux-location-state
       description: Utilities for reading & writing Redux store state to & from the URL
-      stargazerCount: 112
+      stargazerCount: 111
       forkCount: 24
       url: https://github.com/spotify/redux-location-state
       openIssues:
@@ -474,7 +474,7 @@
     - name: web-scripts
       description: A collection of base configs and CLI wrappers used to speed up
         development @ Spotify.
-      stargazerCount: 317
+      stargazerCount: 316
       forkCount: 51
       url: https://github.com/spotify/web-scripts
       openIssues:
@@ -506,7 +506,7 @@
         totalCount: 134
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 432
+      stargazerCount: 431
       forkCount: 139
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -572,18 +572,18 @@
       forkCount: 175
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
-        totalCount: 24
+        totalCount: 23
       watchers:
         totalCount: 41
     - name: luigi
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15142
+      stargazerCount: 15146
       forkCount: 2307
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 67
+        totalCount: 68
       watchers:
         totalCount: 493
     - name: pyeos
@@ -634,7 +634,7 @@
         totalCount: 131
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3037
+      stargazerCount: 3039
       forkCount: 273
       url: https://github.com/spotify/chartify
       openIssues:
@@ -643,7 +643,7 @@
         totalCount: 83
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 657
+      stargazerCount: 658
       forkCount: 39
       url: https://github.com/spotify/klio
       openIssues:
@@ -652,8 +652,8 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2896
-      forkCount: 78
+      stargazerCount: 2897
+      forkCount: 79
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 13
@@ -727,7 +727,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2226
+      stargazerCount: 2229
       forkCount: 448
       url: https://github.com/spotify/scio
       openIssues:
