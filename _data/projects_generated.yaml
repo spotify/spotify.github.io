@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9178
+      stargazerCount: 9179
       forkCount: 972
       url: https://github.com/spotify/annoy
       openIssues:
@@ -77,7 +77,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 41
+        totalCount: 42
 - config:
     id: cassandra
     name: Cassandra
@@ -164,7 +164,7 @@
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2543
-      forkCount: 420
+      forkCount: 421
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -217,7 +217,7 @@
         totalCount: 61
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1629
+      stargazerCount: 1630
       forkCount: 224
       url: https://github.com/spotify/apollo
       openIssues:
@@ -254,7 +254,7 @@
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2543
-      forkCount: 420
+      forkCount: 421
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -326,7 +326,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 984
+      stargazerCount: 985
       forkCount: 70
       url: https://github.com/spotify/mobius
       openIssues:
@@ -370,13 +370,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13894
-      forkCount: 1817
+      stargazerCount: 13923
+      forkCount: 1820
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 359
       watchers:
-        totalCount: 187
+        totalCount: 188
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 14
@@ -388,8 +388,8 @@
         totalCount: 12
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
-      stargazerCount: 259
-      forkCount: 21
+      stargazerCount: 258
+      forkCount: 22
       url: https://github.com/spotify/coordinator
       openIssues:
         totalCount: 3
@@ -541,7 +541,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9178
+      stargazerCount: 9179
       forkCount: 972
       url: https://github.com/spotify/annoy
       openIssues:
@@ -550,7 +550,7 @@
         totalCount: 320
     - name: crtauth
       description: a public key backed client/server authentication system
-      stargazerCount: 110
+      stargazerCount: 111
       forkCount: 18
       url: https://github.com/spotify/crtauth
       openIssues:
@@ -579,7 +579,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15146
+      stargazerCount: 15149
       forkCount: 2307
       url: https://github.com/spotify/luigi
       openIssues:
@@ -625,7 +625,7 @@
         totalCount: 80
     - name: snakebite
       description: A pure python HDFS client
-      stargazerCount: 842
+      stargazerCount: 843
       forkCount: 220
       url: https://github.com/spotify/snakebite
       openIssues:
@@ -634,7 +634,7 @@
         totalCount: 131
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3039
+      stargazerCount: 3040
       forkCount: 273
       url: https://github.com/spotify/chartify
       openIssues:
@@ -658,7 +658,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 41
+        totalCount: 42
 - config:
     id: ruby
     name: Ruby
