@@ -7,11 +7,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9193
-      forkCount: 972
+      stargazerCount: 9198
+      forkCount: 973
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 36
+        totalCount: 37
       watchers:
         totalCount: 320
     - name: echoprint-codegen
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2897
+      stargazerCount: 2900
       forkCount: 79
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -136,7 +136,7 @@
         totalCount: 15
     - name: docker-client
       description: "INACTIVE: A simple docker client for the JVM"
-      stargazerCount: 1409
+      stargazerCount: 1407
       forkCount: 548
       url: https://github.com/spotify/docker-client
       openIssues:
@@ -145,7 +145,7 @@
         totalCount: 72
     - name: docker-kafka
       description: Kafka (and Zookeeper) in Docker
-      stargazerCount: 1374
+      stargazerCount: 1375
       forkCount: 663
       url: https://github.com/spotify/docker-kafka
       openIssues:
@@ -155,7 +155,7 @@
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
       stargazerCount: 2591
-      forkCount: 563
+      forkCount: 564
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 10
@@ -163,7 +163,7 @@
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2544
+      stargazerCount: 2545
       forkCount: 422
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -173,7 +173,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 219
+      stargazerCount: 220
       forkCount: 43
       url: https://github.com/spotify/styx
       openIssues:
@@ -183,7 +183,7 @@
     - name: docker_interface
       description: ":whale: Declarative interface for building images and running
         commands in containers using Docker."
-      stargazerCount: 30
+      stargazerCount: 29
       forkCount: 14
       url: https://github.com/spotify/docker_interface
       openIssues:
@@ -209,10 +209,10 @@
     - name: android-sdk
       description: Spotify SDK for Android
       stargazerCount: 327
-      forkCount: 103
+      forkCount: 102
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 110
+        totalCount: 111
       watchers:
         totalCount: 61
     - name: apollo
@@ -235,7 +235,7 @@
         totalCount: 105
     - name: docker-client
       description: "INACTIVE: A simple docker client for the JVM"
-      stargazerCount: 1409
+      stargazerCount: 1407
       forkCount: 548
       url: https://github.com/spotify/docker-client
       openIssues:
@@ -245,7 +245,7 @@
     - name: docker-maven-plugin
       description: "INACTIVE: A maven plugin for Docker"
       stargazerCount: 2591
-      forkCount: 563
+      forkCount: 564
       url: https://github.com/spotify/docker-maven-plugin
       openIssues:
         totalCount: 10
@@ -253,7 +253,7 @@
         totalCount: 146
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2544
+      stargazerCount: 2545
       forkCount: 422
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -335,7 +335,7 @@
         totalCount: 47
     - name: spydra
       description: Ephemeral Hadoop clusters using Google Compute Platform
-      stargazerCount: 129
+      stargazerCount: 130
       forkCount: 36
       url: https://github.com/spotify/spydra
       openIssues:
@@ -345,7 +345,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 219
+      stargazerCount: 220
       forkCount: 43
       url: https://github.com/spotify/styx
       openIssues:
@@ -370,13 +370,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 13958
-      forkCount: 1826
+      stargazerCount: 13974
+      forkCount: 1828
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 360
+        totalCount: 361
       watchers:
-        totalCount: 187
+        totalCount: 189
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 14
@@ -515,7 +515,7 @@
         totalCount: 48
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
-      stargazerCount: 616
+      stargazerCount: 615
       forkCount: 71
       url: https://github.com/spotify/SPTDataLoader
       openIssues:
@@ -541,11 +541,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9193
-      forkCount: 972
+      stargazerCount: 9198
+      forkCount: 973
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 36
+        totalCount: 37
       watchers:
         totalCount: 320
     - name: crtauth
@@ -579,8 +579,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15152
-      forkCount: 2307
+      stargazerCount: 15155
+      forkCount: 2308
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 69
@@ -625,7 +625,7 @@
         totalCount: 80
     - name: snakebite
       description: A pure python HDFS client
-      stargazerCount: 843
+      stargazerCount: 844
       forkCount: 220
       url: https://github.com/spotify/snakebite
       openIssues:
@@ -643,7 +643,7 @@
         totalCount: 83
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 661
+      stargazerCount: 662
       forkCount: 39
       url: https://github.com/spotify/klio
       openIssues:
@@ -652,7 +652,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2897
+      stargazerCount: 2900
       forkCount: 79
       url: https://github.com/spotify/pedalboard
       openIssues:
