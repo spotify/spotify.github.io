@@ -71,13 +71,23 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2905
-      forkCount: 79
+      stargazerCount: 2906
+      forkCount: 80
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 13
       watchers:
         totalCount: 43
+    - name: NFHTTP
+      description: A cross platform C++ HTTP library that interfaces natively to other
+        platforms.
+      stargazerCount: 537
+      forkCount: 36
+      url: https://github.com/spotify/NFHTTP
+      openIssues:
+        totalCount: 12
+      watchers:
+        totalCount: 30
 - config:
     id: cassandra
     name: Cassandra
@@ -134,33 +144,15 @@
         totalCount: 1
       watchers:
         totalCount: 15
-    - name: docker-client
-      description: "INACTIVE: A simple docker client for the JVM"
-      stargazerCount: 1407
-      forkCount: 548
-      url: https://github.com/spotify/docker-client
+    - name: dockerfile-maven
+      description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
+      stargazerCount: 2549
+      forkCount: 424
+      url: https://github.com/spotify/dockerfile-maven
       openIssues:
-        totalCount: 24
+        totalCount: 13
       watchers:
-        totalCount: 72
-    - name: docker-kafka
-      description: Kafka (and Zookeeper) in Docker
-      stargazerCount: 1375
-      forkCount: 664
-      url: https://github.com/spotify/docker-kafka
-      openIssues:
-        totalCount: 32
-      watchers:
-        totalCount: 141
-    - name: docker-maven-plugin
-      description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2596
-      forkCount: 564
-      url: https://github.com/spotify/docker-maven-plugin
-      openIssues:
-        totalCount: 10
-      watchers:
-        totalCount: 146
+        totalCount: 132
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2549
@@ -190,6 +182,15 @@
         totalCount: 3
       watchers:
         totalCount: 15
+    - name: dockerfile-mode
+      description: An emacs mode for handling Dockerfiles
+      stargazerCount: 430
+      forkCount: 66
+      url: https://github.com/spotify/dockerfile-mode
+      openIssues:
+        totalCount: 9
+      watchers:
+        totalCount: 20
 - config:
     id: java
     name: Java
@@ -208,7 +209,7 @@
         totalCount: 26
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 330
+      stargazerCount: 331
       forkCount: 103
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -233,24 +234,15 @@
         totalCount: 3
       watchers:
         totalCount: 105
-    - name: docker-client
-      description: "INACTIVE: A simple docker client for the JVM"
-      stargazerCount: 1407
-      forkCount: 548
-      url: https://github.com/spotify/docker-client
+    - name: dockerfile-maven
+      description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
+      stargazerCount: 2549
+      forkCount: 424
+      url: https://github.com/spotify/dockerfile-maven
       openIssues:
-        totalCount: 24
+        totalCount: 13
       watchers:
-        totalCount: 72
-    - name: docker-maven-plugin
-      description: "INACTIVE: A maven plugin for Docker"
-      stargazerCount: 2596
-      forkCount: 564
-      url: https://github.com/spotify/docker-maven-plugin
-      openIssues:
-        totalCount: 10
-      watchers:
-        totalCount: 146
+        totalCount: 132
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2549
@@ -289,7 +281,7 @@
         totalCount: 22
     - name: helios
       description: Docker container orchestration platform
-      stargazerCount: 2091
+      stargazerCount: 2090
       forkCount: 254
       url: https://github.com/spotify/helios
       openIssues:
@@ -370,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14052
-      forkCount: 1839
+      stargazerCount: 14061
+      forkCount: 1841
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 361
       watchers:
         totalCount: 189
     - name: bucket-runner
@@ -507,7 +499,7 @@
     - name: ios-sdk
       description: Spotify SDK for iOS
       stargazerCount: 435
-      forkCount: 139
+      forkCount: 140
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 156
@@ -579,8 +571,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15162
-      forkCount: 2311
+      stargazerCount: 15163
+      forkCount: 2310
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 69
@@ -652,13 +644,31 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2905
-      forkCount: 79
+      stargazerCount: 2906
+      forkCount: 80
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 13
       watchers:
         totalCount: 43
+    - name: confidence
+      description: null
+      stargazerCount: 98
+      forkCount: 8
+      url: https://github.com/spotify/confidence
+      openIssues:
+        totalCount: 0
+      watchers:
+        totalCount: 14
+    - name: postgresql-metrics
+      description: Tool that extracts and provides metrics on your PostgreSQL database
+      stargazerCount: 545
+      forkCount: 40
+      url: https://github.com/spotify/postgresql-metrics
+      openIssues:
+        totalCount: 2
+      watchers:
+        totalCount: 118
 - config:
     id: ruby
     name: Ruby
@@ -759,6 +769,25 @@
         totalCount: 9
       watchers:
         totalCount: 30
+    - name: XCRemoteCache
+      description: null
+      stargazerCount: 502
+      forkCount: 10
+      url: https://github.com/spotify/XCRemoteCache
+      openIssues:
+        totalCount: 4
+      watchers:
+        totalCount: 22
+    - name: XCMetrics
+      description: XCMetrics is the easiest way to collect Xcode build metrics and
+        improve developer productivity.
+      stargazerCount: 845
+      forkCount: 36
+      url: https://github.com/spotify/XCMetrics
+      openIssues:
+        totalCount: 5
+      watchers:
+        totalCount: 25
 - config:
     id: other
     name: Other
@@ -766,7 +795,7 @@
     - name: git-test
       description: test your commits
       stargazerCount: 177
-      forkCount: 30
+      forkCount: 31
       url: https://github.com/spotify/git-test
       openIssues:
         totalCount: 0
