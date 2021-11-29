@@ -13,6 +13,7 @@
     - url: https://github.com/spotify/NFDriver
     - url: https://github.com/spotify/NFParam
     - url: https://github.com/spotify/pedalboard
+    - url: https://github.com/spotify/NFHTTP
 - config:
     id: cassandra
     name: Cassandra
@@ -28,12 +29,11 @@
       <i class="devicon-docker-plain"></i>
   projects:
     - url: https://github.com/spotify/docker-bigtable
-    - url: https://github.com/spotify/docker-client
-    - url: https://github.com/spotify/docker-kafka
-    - url: https://github.com/spotify/docker-maven-plugin
+    - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/styx
     - url: https://github.com/spotify/docker_interface
+    - url: https://github.com/spotify/dockerfile-mode
 - config:
     id: java
     name: Java
@@ -44,8 +44,7 @@
     - url: https://github.com/spotify/android-sdk
     - url: https://github.com/spotify/apollo
     - url: https://github.com/spotify/completable-futures
-    - url: https://github.com/spotify/docker-client
-    - url: https://github.com/spotify/docker-maven-plugin
+    - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/ffwd
     - url: https://github.com/spotify/folsom
@@ -104,6 +103,8 @@
     - url: https://github.com/spotify/chartify
     - url: https://github.com/spotify/klio
     - url: https://github.com/spotify/pedalboard
+    - url: https://github.com/spotify/confidence
+    - url: https://github.com/spotify/postgresql-metrics
 - config:
     id: ruby
     name: Ruby
@@ -129,6 +130,9 @@
   projects:
     - url: https://github.com/spotify/Mobius.swift
     - url: https://github.com/spotify/SpotifyLogin
+    - url: https://github.com/spotify/XCRemoteCache
+    - url: https://github.com/spotify/XCMetrics
+
 - config:
     id: other
     name: Other

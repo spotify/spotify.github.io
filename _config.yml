@@ -1,5 +1,5 @@
-title: Spotify Free Software
-description: Free and Open Source Software projects by Spotify
+title: Spotify Open Source Projects
+description: Open Source Software developed at Spotify
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spotify.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SpotifyEng
