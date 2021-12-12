@@ -7,16 +7,16 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9238
+      stargazerCount: 9242
       forkCount: 975
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 37
       watchers:
-        totalCount: 318
+        totalCount: 319
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 923
+      stargazerCount: 924
       forkCount: 288
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -25,7 +25,7 @@
         totalCount: 117
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
-      stargazerCount: 375
+      stargazerCount: 376
       forkCount: 95
       url: https://github.com/spotify/echoprint-server
       openIssues:
@@ -49,7 +49,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 20
+        totalCount: 21
     - name: NFDriver
       description: A cross platform C++ audio driver with low latency.
       stargazerCount: 100
@@ -58,7 +58,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 16
+        totalCount: 17
     - name: NFParam
       description: A C++ library for defining and evaluating piecewise functions,
         inspired by the Web Audio API AudioParam interface.
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2941
+      stargazerCount: 2942
       forkCount: 84
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,8 +146,8 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2559
-      forkCount: 426
+      stargazerCount: 2560
+      forkCount: 427
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -155,8 +155,8 @@
         totalCount: 132
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2559
-      forkCount: 426
+      stargazerCount: 2560
+      forkCount: 427
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -236,8 +236,8 @@
         totalCount: 105
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2559
-      forkCount: 426
+      stargazerCount: 2560
+      forkCount: 427
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -245,8 +245,8 @@
         totalCount: 132
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2559
-      forkCount: 426
+      stargazerCount: 2560
+      forkCount: 427
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -347,7 +347,7 @@
     - name: zoltar
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
-      stargazerCount: 125
+      stargazerCount: 126
       forkCount: 34
       url: https://github.com/spotify/zoltar
       openIssues:
@@ -362,13 +362,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14197
-      forkCount: 1887
+      stargazerCount: 14207
+      forkCount: 1889
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 363
       watchers:
-        totalCount: 183
+        totalCount: 184
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 14
@@ -415,7 +415,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 14
+        totalCount: 15
     - name: polly-jest-presets
       description: null
       stargazerCount: 60
@@ -462,7 +462,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 13
+        totalCount: 14
     - name: web-scripts
       description: A collection of base configs and CLI wrappers used to speed up
         development @ Spotify.
@@ -513,7 +513,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 120
+        totalCount: 121
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
@@ -533,13 +533,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9238
+      stargazerCount: 9242
       forkCount: 975
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 37
       watchers:
-        totalCount: 318
+        totalCount: 319
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 111
@@ -571,13 +571,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15204
+      stargazerCount: 15209
       forkCount: 2312
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 70
       watchers:
-        totalCount: 493
+        totalCount: 492
     - name: pyeos
       description: null
       stargazerCount: 16
@@ -644,7 +644,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2941
+      stargazerCount: 2942
       forkCount: 84
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -771,11 +771,11 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 532
+      stargazerCount: 533
       forkCount: 12
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 7
+        totalCount: 8
       watchers:
         totalCount: 21
     - name: XCMetrics
