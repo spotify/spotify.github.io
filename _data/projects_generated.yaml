@@ -7,13 +7,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9263
+      stargazerCount: 9265
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
       watchers:
-        totalCount: 318
+        totalCount: 317
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 925
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2967
+      stargazerCount: 2969
       forkCount: 83
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -109,7 +109,7 @@
       openIssues:
         totalCount: 23
       watchers:
-        totalCount: 122
+        totalCount: 121
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
       stargazerCount: 245
@@ -127,7 +127,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 123
+        totalCount: 122
 - config:
     id: docker
     name: Docker
@@ -165,7 +165,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 222
+      stargazerCount: 221
       forkCount: 44
       url: https://github.com/spotify/styx
       openIssues:
@@ -224,7 +224,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 129
+        totalCount: 128
     - name: completable-futures
       description: Utilities for working with futures in Java 8
       stargazerCount: 304
@@ -233,7 +233,7 @@
       openIssues:
         totalCount: 3
       watchers:
-        totalCount: 105
+        totalCount: 104
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2562
@@ -269,10 +269,10 @@
       openIssues:
         totalCount: 11
       watchers:
-        totalCount: 98
+        totalCount: 97
     - name: futures-extra
       description: Java library for working with Guava futures
-      stargazerCount: 119
+      stargazerCount: 120
       forkCount: 26
       url: https://github.com/spotify/futures-extra
       openIssues:
@@ -314,11 +314,11 @@
       openIssues:
         totalCount: 17
       watchers:
-        totalCount: 101
+        totalCount: 100
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 998
+      stargazerCount: 997
       forkCount: 70
       url: https://github.com/spotify/mobius
       openIssues:
@@ -337,7 +337,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 222
+      stargazerCount: 221
       forkCount: 44
       url: https://github.com/spotify/styx
       openIssues:
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14302
-      forkCount: 1910
+      stargazerCount: 14310
+      forkCount: 1916
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 356
+        totalCount: 355
       watchers:
         totalCount: 186
     - name: bucket-runner
@@ -495,7 +495,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 134
+        totalCount: 133
     - name: ios-sdk
       description: Spotify SDK for iOS
       stargazerCount: 440
@@ -513,7 +513,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 121
+        totalCount: 120
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
@@ -533,13 +533,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9263
+      stargazerCount: 9265
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
       watchers:
-        totalCount: 318
+        totalCount: 317
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 111
@@ -571,13 +571,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15226
-      forkCount: 2313
+      stargazerCount: 15230
+      forkCount: 2314
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 71
+        totalCount: 72
       watchers:
-        totalCount: 491
+        totalCount: 490
     - name: pyeos
       description: null
       stargazerCount: 16
@@ -586,7 +586,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 116
+        totalCount: 115
     - name: pyfg
       description: null
       stargazerCount: 56
@@ -595,7 +595,7 @@
       openIssues:
         totalCount: 16
       watchers:
-        totalCount: 105
+        totalCount: 104
     - name: pyschema
       description: Python library for class-based schema definition, object
         serialization and data validation
@@ -605,7 +605,7 @@
       openIssues:
         totalCount: 3
       watchers:
-        totalCount: 117
+        totalCount: 116
     - name: ramlfications
       description: Python parser for RAML
       stargazerCount: 232
@@ -614,7 +614,7 @@
       openIssues:
         totalCount: 40
       watchers:
-        totalCount: 79
+        totalCount: 78
     - name: snakebite
       description: A pure python HDFS client
       stargazerCount: 846
@@ -623,14 +623,14 @@
       openIssues:
         totalCount: 58
       watchers:
-        totalCount: 131
+        totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3054
-      forkCount: 277
+      stargazerCount: 3053
+      forkCount: 276
       url: https://github.com/spotify/chartify
       openIssues:
-        totalCount: 40
+        totalCount: 41
       watchers:
         totalCount: 83
     - name: klio
@@ -644,7 +644,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2967
+      stargazerCount: 2969
       forkCount: 83
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -668,7 +668,7 @@
       openIssues:
         totalCount: 2
       watchers:
-        totalCount: 118
+        totalCount: 117
 - config:
     id: ruby
     name: Ruby
@@ -683,7 +683,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 134
+        totalCount: 133
     - name: rspec-dns
       description: Easily test your DNS with RSpec
       stargazerCount: 107
@@ -743,7 +743,7 @@
       openIssues:
         totalCount: 90
       watchers:
-        totalCount: 121
+        totalCount: 120
 - config:
     id: swift
     name: Swift
@@ -753,7 +753,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 411
+      stargazerCount: 412
       forkCount: 32
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -771,7 +771,7 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 547
+      stargazerCount: 549
       forkCount: 13
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
@@ -800,4 +800,4 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 120
+        totalCount: 119
