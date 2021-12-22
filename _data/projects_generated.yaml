@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9265
+      stargazerCount: 9268
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2969
-      forkCount: 83
+      stargazerCount: 2973
+      forkCount: 84
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 14
       watchers:
-        totalCount: 43
+        totalCount: 44
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -166,7 +166,7 @@
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
       stargazerCount: 221
-      forkCount: 44
+      forkCount: 45
       url: https://github.com/spotify/styx
       openIssues:
         totalCount: 4
@@ -338,7 +338,7 @@
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
       stargazerCount: 221
-      forkCount: 44
+      forkCount: 45
       url: https://github.com/spotify/styx
       openIssues:
         totalCount: 4
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14310
-      forkCount: 1916
+      stargazerCount: 14323
+      forkCount: 1922
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 355
+        totalCount: 352
       watchers:
         totalCount: 186
     - name: bucket-runner
@@ -533,7 +533,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9265
+      stargazerCount: 9268
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
@@ -571,11 +571,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15230
+      stargazerCount: 15232
       forkCount: 2314
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 72
+        totalCount: 71
       watchers:
         totalCount: 490
     - name: pyeos
@@ -626,8 +626,8 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3053
-      forkCount: 276
+      stargazerCount: 3054
+      forkCount: 277
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
@@ -644,13 +644,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2969
-      forkCount: 83
+      stargazerCount: 2973
+      forkCount: 84
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 14
       watchers:
-        totalCount: 43
+        totalCount: 44
     - name: confidence
       description: null
       stargazerCount: 100
@@ -728,7 +728,7 @@
         totalCount: 27
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 301
+      stargazerCount: 302
       forkCount: 57
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -753,7 +753,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 412
+      stargazerCount: 411
       forkCount: 32
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -762,7 +762,7 @@
         totalCount: 24
     - name: SpotifyLogin
       description: Swift framework for authenticating with the Spotify API
-      stargazerCount: 340
+      stargazerCount: 339
       forkCount: 41
       url: https://github.com/spotify/SpotifyLogin
       openIssues:
@@ -771,7 +771,7 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 549
+      stargazerCount: 550
       forkCount: 13
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
@@ -781,8 +781,8 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 866
-      forkCount: 39
+      stargazerCount: 867
+      forkCount: 40
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 4
