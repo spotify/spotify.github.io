@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9280
+      stargazerCount: 9282
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
@@ -75,7 +75,7 @@
       forkCount: 84
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 14
+        totalCount: 15
       watchers:
         totalCount: 44
     - name: NFHTTP
@@ -213,7 +213,7 @@
       forkCount: 104
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 114
+        totalCount: 116
       watchers:
         totalCount: 60
     - name: apollo
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14346
-      forkCount: 1930
+      stargazerCount: 14348
+      forkCount: 1934
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 355
+        totalCount: 354
       watchers:
         totalCount: 184
     - name: bucket-runner
@@ -533,7 +533,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9280
+      stargazerCount: 9282
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
@@ -571,7 +571,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15239
+      stargazerCount: 15240
       forkCount: 2315
       url: https://github.com/spotify/luigi
       openIssues:
@@ -648,7 +648,7 @@
       forkCount: 84
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 14
+        totalCount: 15
       watchers:
         totalCount: 44
     - name: confidence
@@ -771,7 +771,7 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 555
+      stargazerCount: 556
       forkCount: 13
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
