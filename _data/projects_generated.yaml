@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9285
+      stargazerCount: 9291
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,8 +71,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2985
-      forkCount: 85
+      stargazerCount: 2987
+      forkCount: 86
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 15
@@ -210,10 +210,10 @@
     - name: android-sdk
       description: Spotify SDK for Android
       stargazerCount: 335
-      forkCount: 104
+      forkCount: 105
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 116
+        totalCount: 117
       watchers:
         totalCount: 60
     - name: apollo
@@ -227,7 +227,7 @@
         totalCount: 128
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 304
+      stargazerCount: 305
       forkCount: 42
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -362,7 +362,7 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14354
+      stargazerCount: 14372
       forkCount: 1936
       url: https://github.com/backstage/backstage
       openIssues:
@@ -533,7 +533,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9285
+      stargazerCount: 9291
       forkCount: 974
       url: https://github.com/spotify/annoy
       openIssues:
@@ -609,7 +609,7 @@
     - name: ramlfications
       description: Python parser for RAML
       stargazerCount: 232
-      forkCount: 48
+      forkCount: 49
       url: https://github.com/spotify/ramlfications
       openIssues:
         totalCount: 40
@@ -626,7 +626,7 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3054
+      stargazerCount: 3055
       forkCount: 278
       url: https://github.com/spotify/chartify
       openIssues:
@@ -644,8 +644,8 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 2985
-      forkCount: 85
+      stargazerCount: 2987
+      forkCount: 86
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 15
@@ -700,7 +700,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 264
+      stargazerCount: 265
       forkCount: 32
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -710,7 +710,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 441
+      stargazerCount: 442
       forkCount: 72
       url: https://github.com/spotify/featran
       openIssues:
@@ -737,7 +737,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2248
+      stargazerCount: 2247
       forkCount: 454
       url: https://github.com/spotify/scio
       openIssues:
@@ -771,7 +771,7 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 557
+      stargazerCount: 556
       forkCount: 13
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
