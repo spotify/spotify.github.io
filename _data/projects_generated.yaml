@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3022
+      stargazerCount: 3024
       forkCount: 86
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 12
+        totalCount: 13
       watchers:
-        totalCount: 46
+        totalCount: 45
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14441
+      stargazerCount: 14451
       forkCount: 1954
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 351
+        totalCount: 350
       watchers:
         totalCount: 185
     - name: bucket-runner
@@ -498,7 +498,7 @@
         totalCount: 133
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 441
+      stargazerCount: 442
       forkCount: 141
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -571,7 +571,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15261
+      stargazerCount: 15263
       forkCount: 2313
       url: https://github.com/spotify/luigi
       openIssues:
@@ -626,7 +626,7 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3060
+      stargazerCount: 3061
       forkCount: 278
       url: https://github.com/spotify/chartify
       openIssues:
@@ -644,13 +644,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3022
+      stargazerCount: 3024
       forkCount: 86
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 12
+        totalCount: 13
       watchers:
-        totalCount: 46
+        totalCount: 45
     - name: confidence
       description: null
       stargazerCount: 100
@@ -781,7 +781,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 869
+      stargazerCount: 870
       forkCount: 40
       url: https://github.com/spotify/XCMetrics
       openIssues:
