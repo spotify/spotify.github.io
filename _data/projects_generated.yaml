@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9314
+      stargazerCount: 9315
       forkCount: 973
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3028
+      stargazerCount: 3032
       forkCount: 87
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 13
+        totalCount: 12
       watchers:
-        totalCount: 45
+        totalCount: 44
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -318,7 +318,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1000
+      stargazerCount: 1001
       forkCount: 70
       url: https://github.com/spotify/mobius
       openIssues:
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14455
-      forkCount: 1958
+      stargazerCount: 14468
+      forkCount: 1963
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 349
+        totalCount: 347
       watchers:
         totalCount: 185
     - name: bucket-runner
@@ -498,11 +498,11 @@
         totalCount: 133
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 442
+      stargazerCount: 443
       forkCount: 141
       url: https://github.com/spotify/ios-sdk
       openIssues:
-        totalCount: 158
+        totalCount: 159
       watchers:
         totalCount: 49
     - name: SPTDataLoader
@@ -533,7 +533,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9314
+      stargazerCount: 9315
       forkCount: 973
       url: https://github.com/spotify/annoy
       openIssues:
@@ -571,7 +571,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15266
+      stargazerCount: 15271
       forkCount: 2313
       url: https://github.com/spotify/luigi
       openIssues:
@@ -626,7 +626,7 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3060
+      stargazerCount: 3061
       forkCount: 278
       url: https://github.com/spotify/chartify
       openIssues:
@@ -635,7 +635,7 @@
         totalCount: 83
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 671
+      stargazerCount: 672
       forkCount: 42
       url: https://github.com/spotify/klio
       openIssues:
@@ -644,13 +644,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3028
+      stargazerCount: 3032
       forkCount: 87
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 13
+        totalCount: 12
       watchers:
-        totalCount: 45
+        totalCount: 44
     - name: confidence
       description: null
       stargazerCount: 100
@@ -663,7 +663,7 @@
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
       stargazerCount: 547
-      forkCount: 40
+      forkCount: 41
       url: https://github.com/spotify/postgresql-metrics
       openIssues:
         totalCount: 2
@@ -710,7 +710,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 442
+      stargazerCount: 443
       forkCount: 72
       url: https://github.com/spotify/featran
       openIssues:
@@ -753,7 +753,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 412
+      stargazerCount: 413
       forkCount: 32
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -771,7 +771,7 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 558
+      stargazerCount: 559
       forkCount: 14
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
