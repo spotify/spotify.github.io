@@ -7,16 +7,16 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9315
+      stargazerCount: 9320
       forkCount: 973
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 39
       watchers:
-        totalCount: 317
+        totalCount: 318
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 925
+      stargazerCount: 926
       forkCount: 288
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -34,7 +34,7 @@
         totalCount: 29
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 520
+      stargazerCount: 519
       forkCount: 102
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3032
+      stargazerCount: 3035
       forkCount: 87
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 12
       watchers:
-        totalCount: 44
+        totalCount: 43
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2567
+      stargazerCount: 2568
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -155,7 +155,7 @@
         totalCount: 131
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2567
+      stargazerCount: 2568
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -236,7 +236,7 @@
         totalCount: 104
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2567
+      stargazerCount: 2568
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -245,7 +245,7 @@
         totalCount: 131
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2567
+      stargazerCount: 2568
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -272,7 +272,7 @@
         totalCount: 97
     - name: futures-extra
       description: Java library for working with Guava futures
-      stargazerCount: 120
+      stargazerCount: 121
       forkCount: 26
       url: https://github.com/spotify/futures-extra
       openIssues:
@@ -299,7 +299,7 @@
         totalCount: 57
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 520
+      stargazerCount: 519
       forkCount: 102
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -318,7 +318,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1001
+      stargazerCount: 1002
       forkCount: 70
       url: https://github.com/spotify/mobius
       openIssues:
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14468
-      forkCount: 1963
+      stargazerCount: 14483
+      forkCount: 1967
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 347
+        totalCount: 345
       watchers:
         totalCount: 185
     - name: bucket-runner
@@ -389,7 +389,7 @@
         totalCount: 22
     - name: lingon
       description: A user friendly tool for building single-page JavaScript applications
-      stargazerCount: 161
+      stargazerCount: 162
       forkCount: 27
       url: https://github.com/spotify/lingon
       openIssues:
@@ -466,8 +466,8 @@
     - name: web-scripts
       description: A collection of base configs and CLI wrappers used to speed up
         development @ Spotify.
-      stargazerCount: 319
-      forkCount: 53
+      stargazerCount: 320
+      forkCount: 54
       url: https://github.com/spotify/web-scripts
       openIssues:
         totalCount: 5
@@ -498,11 +498,11 @@
         totalCount: 133
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 443
+      stargazerCount: 442
       forkCount: 141
       url: https://github.com/spotify/ios-sdk
       openIssues:
-        totalCount: 159
+        totalCount: 160
       watchers:
         totalCount: 49
     - name: SPTDataLoader
@@ -533,13 +533,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9315
+      stargazerCount: 9320
       forkCount: 973
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 39
       watchers:
-        totalCount: 317
+        totalCount: 318
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 111
@@ -571,7 +571,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15271
+      stargazerCount: 15281
       forkCount: 2313
       url: https://github.com/spotify/luigi
       openIssues:
@@ -627,7 +627,7 @@
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
       stargazerCount: 3061
-      forkCount: 278
+      forkCount: 279
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
@@ -644,13 +644,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3032
+      stargazerCount: 3035
       forkCount: 87
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 12
       watchers:
-        totalCount: 44
+        totalCount: 43
     - name: confidence
       description: null
       stargazerCount: 100
