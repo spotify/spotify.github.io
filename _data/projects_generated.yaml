@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3035
+      stargazerCount: 3036
       forkCount: 87
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2568
+      stargazerCount: 2570
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -155,7 +155,7 @@
         totalCount: 131
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2568
+      stargazerCount: 2570
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -201,7 +201,7 @@
       description: Spotify authentication and authorization for Android. Part of the
         Spotify Android SDK.
       stargazerCount: 101
-      forkCount: 58
+      forkCount: 59
       url: https://github.com/spotify/android-auth
       openIssues:
         totalCount: 0
@@ -218,7 +218,7 @@
         totalCount: 60
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1633
+      stargazerCount: 1634
       forkCount: 223
       url: https://github.com/spotify/apollo
       openIssues:
@@ -236,7 +236,7 @@
         totalCount: 104
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2568
+      stargazerCount: 2570
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -245,7 +245,7 @@
         totalCount: 131
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2568
+      stargazerCount: 2570
       forkCount: 433
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -264,7 +264,7 @@
     - name: folsom
       description: An asynchronous memcache client for Java
       stargazerCount: 127
-      forkCount: 55
+      forkCount: 54
       url: https://github.com/spotify/folsom
       openIssues:
         totalCount: 11
@@ -353,7 +353,7 @@
       openIssues:
         totalCount: 16
       watchers:
-        totalCount: 30
+        totalCount: 29
 - config:
     id: javascript
     name: JavaScript
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14483
-      forkCount: 1967
+      stargazerCount: 14498
+      forkCount: 1971
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 345
+        totalCount: 348
       watchers:
         totalCount: 185
     - name: bucket-runner
@@ -571,7 +571,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15281
+      stargazerCount: 15288
       forkCount: 2313
       url: https://github.com/spotify/luigi
       openIssues:
@@ -626,7 +626,7 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3061
+      stargazerCount: 3062
       forkCount: 279
       url: https://github.com/spotify/chartify
       openIssues:
@@ -644,7 +644,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3035
+      stargazerCount: 3036
       forkCount: 87
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -706,7 +706,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 39
+        totalCount: 38
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
@@ -716,7 +716,7 @@
       openIssues:
         totalCount: 10
       watchers:
-        totalCount: 35
+        totalCount: 34
     - name: noether
       description: Scala Aggregators used for ML Model metrics monitoring
       stargazerCount: 82
@@ -725,7 +725,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 27
+        totalCount: 26
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
       stargazerCount: 303
@@ -734,16 +734,16 @@
       openIssues:
         totalCount: 17
       watchers:
-        totalCount: 34
+        totalCount: 33
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2247
+      stargazerCount: 2248
       forkCount: 455
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 90
+        totalCount: 91
       watchers:
-        totalCount: 120
+        totalCount: 119
 - config:
     id: swift
     name: Swift
@@ -771,7 +771,7 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 559
+      stargazerCount: 560
       forkCount: 14
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
@@ -785,7 +785,7 @@
       forkCount: 40
       url: https://github.com/spotify/XCMetrics
       openIssues:
-        totalCount: 4
+        totalCount: 5
       watchers:
         totalCount: 25
 - config:
