@@ -75,6 +75,11 @@
     - url: https://github.com/spotify/web-scripts
     - url: https://github.com/spotify/web-scripts-library-template
 - config:
+    id: kotlin
+    name: Kotlin
+  projects:
+    - url: https://github.com/spotify/ruler
+- config:
     id: objective-c
     name: Objective-C
   projects:
