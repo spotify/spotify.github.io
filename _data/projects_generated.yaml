@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9387
+      stargazerCount: 9389
       forkCount: 982
       url: https://github.com/spotify/annoy
       openIssues:
@@ -16,7 +16,7 @@
         totalCount: 318
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 928
+      stargazerCount: 929
       forkCount: 287
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -34,7 +34,7 @@
         totalCount: 29
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 521
+      stargazerCount: 522
       forkCount: 102
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3110
-      forkCount: 94
+      stargazerCount: 3112
+      forkCount: 93
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 14
+        totalCount: 13
       watchers:
-        totalCount: 45
+        totalCount: 44
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -215,7 +215,7 @@
       openIssues:
         totalCount: 117
       watchers:
-        totalCount: 58
+        totalCount: 57
     - name: apollo
       description: Java libraries for writing composable microservices
       stargazerCount: 1639
@@ -299,7 +299,7 @@
         totalCount: 57
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 521
+      stargazerCount: 522
       forkCount: 102
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -362,11 +362,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 14770
-      forkCount: 2043
+      stargazerCount: 14782
+      forkCount: 2047
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 355
+        totalCount: 354
       watchers:
         totalCount: 184
     - name: bucket-runner
@@ -533,7 +533,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9387
+      stargazerCount: 9389
       forkCount: 982
       url: https://github.com/spotify/annoy
       openIssues:
@@ -560,7 +560,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1510
+      stargazerCount: 1511
       forkCount: 175
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -571,7 +571,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15356
+      stargazerCount: 15343
       forkCount: 2314
       url: https://github.com/spotify/luigi
       openIssues:
@@ -626,7 +626,7 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3078
+      stargazerCount: 3080
       forkCount: 279
       url: https://github.com/spotify/chartify
       openIssues:
@@ -644,13 +644,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3110
-      forkCount: 94
+      stargazerCount: 3112
+      forkCount: 93
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 14
+        totalCount: 13
       watchers:
-        totalCount: 45
+        totalCount: 44
     - name: confidence
       description: null
       stargazerCount: 103
@@ -719,7 +719,7 @@
         totalCount: 34
     - name: noether
       description: Scala Aggregators used for ML Model metrics monitoring
-      stargazerCount: 83
+      stargazerCount: 84
       forkCount: 13
       url: https://github.com/spotify/noether
       openIssues:
@@ -728,7 +728,7 @@
         totalCount: 26
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 304
+      stargazerCount: 306
       forkCount: 58
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -771,21 +771,21 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 582
-      forkCount: 20
+      stargazerCount: 583
+      forkCount: 19
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 12
+        totalCount: 11
       watchers:
         totalCount: 22
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 887
+      stargazerCount: 888
       forkCount: 42
       url: https://github.com/spotify/XCMetrics
       openIssues:
-        totalCount: 5
+        totalCount: 6
       watchers:
         totalCount: 25
 - config:
