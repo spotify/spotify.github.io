@@ -486,6 +486,8 @@
 - config:
     id: objective-c
     name: Objective-C
+    icons_html: |
+      <i class="devicon-objectivec-plain"></i>
   projects:
     - name: ios-style
       description: Guidelines for iOS development in use at Spotify
@@ -696,6 +698,8 @@
 - config:
     id: scala
     name: Scala
+    icons_html: |
+      <i class="devicon-scala-plain"></i>
   projects:
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
