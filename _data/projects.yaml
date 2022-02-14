@@ -30,7 +30,6 @@
   projects:
     - url: https://github.com/spotify/docker-bigtable
     - url: https://github.com/spotify/dockerfile-maven
-    - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/styx
     - url: https://github.com/spotify/docker_interface
     - url: https://github.com/spotify/dockerfile-mode
@@ -44,7 +43,6 @@
     - url: https://github.com/spotify/android-sdk
     - url: https://github.com/spotify/apollo
     - url: https://github.com/spotify/completable-futures
-    - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/ffwd
     - url: https://github.com/spotify/folsom
@@ -76,6 +74,11 @@
     - url: https://github.com/spotify/web-audio-bench
     - url: https://github.com/spotify/web-scripts
     - url: https://github.com/spotify/web-scripts-library-template
+- config:
+    id: kotlin
+    name: Kotlin
+  projects:
+    - url: https://github.com/spotify/ruler
 - config:
     id: objective-c
     name: Objective-C

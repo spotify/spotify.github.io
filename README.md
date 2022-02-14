@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/8904624/127524940-37bd6001-647d-40ac-86ec-bb22d1a100c8.gif">
 </p>
 
-Showcase site for hand-picked open-source projects by Spotify. It is build using Jekyll & GitHub Actions with a node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
+Showcase site for hand-picked open-source projects by Spotify. It is built using Jekyll & GitHub Actions with a node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
 
 ## Development
 
