@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9497
+      stargazerCount: 9501
       forkCount: 992
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,8 +71,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3165
-      forkCount: 97
+      stargazerCount: 3168
+      forkCount: 98
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 12
@@ -200,7 +200,7 @@
         totalCount: 26
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 351
+      stargazerCount: 352
       forkCount: 107
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -249,7 +249,7 @@
       forkCount: 56
       url: https://github.com/spotify/folsom
       openIssues:
-        totalCount: 12
+        totalCount: 11
       watchers:
         totalCount: 97
     - name: futures-extra
@@ -344,8 +344,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 15173
-      forkCount: 2171
+      stargazerCount: 15186
+      forkCount: 2181
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 361
@@ -471,13 +471,13 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 721
+      stargazerCount: 732
       forkCount: 24
       url: https://github.com/spotify/ruler
       openIssues:
         totalCount: 3
       watchers:
-        totalCount: 17
+        totalCount: 18
 - config:
     id: objective-c
     name: Objective-C
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9497
+      stargazerCount: 9501
       forkCount: 992
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15415
-      forkCount: 2319
+      stargazerCount: 15418
+      forkCount: 2320
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 65
@@ -630,7 +630,7 @@
         totalCount: 84
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 692
+      stargazerCount: 693
       forkCount: 46
       url: https://github.com/spotify/klio
       openIssues:
@@ -639,8 +639,8 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3165
-      forkCount: 97
+      stargazerCount: 3168
+      forkCount: 98
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 12
@@ -649,7 +649,7 @@
     - name: confidence
       description: null
       stargazerCount: 106
-      forkCount: 7
+      forkCount: 8
       url: https://github.com/spotify/confidence
       openIssues:
         totalCount: 0
@@ -658,7 +658,7 @@
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
       stargazerCount: 556
-      forkCount: 42
+      forkCount: 43
       url: https://github.com/spotify/postgresql-metrics
       openIssues:
         totalCount: 2
@@ -724,7 +724,7 @@
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
       stargazerCount: 313
-      forkCount: 58
+      forkCount: 59
       url: https://github.com/spotify/ratatool
       openIssues:
         totalCount: 18
@@ -766,8 +766,8 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 606
-      forkCount: 21
+      stargazerCount: 607
+      forkCount: 22
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
         totalCount: 17
