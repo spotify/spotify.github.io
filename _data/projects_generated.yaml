@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9538
+      stargazerCount: 9541
       forkCount: 996
       url: https://github.com/spotify/annoy
       openIssues:
@@ -34,7 +34,7 @@
         totalCount: 29
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 528
+      stargazerCount: 529
       forkCount: 103
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3190
+      stargazerCount: 3191
       forkCount: 101
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -156,7 +156,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 231
+      stargazerCount: 233
       forkCount: 46
       url: https://github.com/spotify/styx
       openIssues:
@@ -281,7 +281,7 @@
         totalCount: 57
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 528
+      stargazerCount: 529
       forkCount: 103
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -306,7 +306,7 @@
       openIssues:
         totalCount: 6
       watchers:
-        totalCount: 46
+        totalCount: 47
     - name: spydra
       description: Ephemeral Hadoop clusters using Google Compute Platform
       stargazerCount: 132
@@ -319,7 +319,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 231
+      stargazerCount: 233
       forkCount: 46
       url: https://github.com/spotify/styx
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 15471
-      forkCount: 2253
+      stargazerCount: 15500
+      forkCount: 2259
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 365
+        totalCount: 363
       watchers:
         totalCount: 185
     - name: bucket-runner
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 774
+      stargazerCount: 775
       forkCount: 27
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9538
+      stargazerCount: 9541
       forkCount: 996
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15471
+      stargazerCount: 15473
       forkCount: 2324
       url: https://github.com/spotify/luigi
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3190
+      stargazerCount: 3191
       forkCount: 101
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -657,7 +657,7 @@
         totalCount: 14
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
-      stargazerCount: 557
+      stargazerCount: 558
       forkCount: 43
       url: https://github.com/spotify/postgresql-metrics
       openIssues:
@@ -695,7 +695,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 267
+      stargazerCount: 268
       forkCount: 32
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -733,7 +733,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2278
-      forkCount: 464
+      forkCount: 465
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 104
@@ -754,7 +754,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 24
+        totalCount: 25
     - name: SpotifyLogin
       description: Swift framework for authenticating with the Spotify API
       stargazerCount: 342
@@ -770,7 +770,7 @@
       forkCount: 24
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 22
+        totalCount: 23
       watchers:
         totalCount: 20
     - name: XCMetrics
@@ -790,7 +790,7 @@
     - name: git-test
       description: test your commits
       stargazerCount: 179
-      forkCount: 34
+      forkCount: 35
       url: https://github.com/spotify/git-test
       openIssues:
         totalCount: 0
