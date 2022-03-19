@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9543
-      forkCount: 996
+      stargazerCount: 9548
+      forkCount: 997
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
@@ -17,7 +17,7 @@
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 934
-      forkCount: 287
+      forkCount: 288
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
         totalCount: 48
@@ -43,7 +43,7 @@
         totalCount: 38
     - name: spotify-json
       description: Fast and nice to use C++ JSON library.
-      stargazerCount: 170
+      stargazerCount: 169
       forkCount: 34
       url: https://github.com/spotify/spotify-json
       openIssues:
@@ -53,7 +53,7 @@
     - name: NFDriver
       description: A cross platform C++ audio driver with low latency.
       stargazerCount: 104
-      forkCount: 17
+      forkCount: 18
       url: https://github.com/spotify/NFDriver
       openIssues:
         totalCount: 0
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3196
+      stargazerCount: 3198
       forkCount: 102
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -113,7 +113,7 @@
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
       stargazerCount: 249
-      forkCount: 34
+      forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
         totalCount: 10
@@ -146,8 +146,8 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2607
-      forkCount: 448
+      stargazerCount: 2608
+      forkCount: 449
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -157,7 +157,7 @@
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
       stargazerCount: 233
-      forkCount: 46
+      forkCount: 47
       url: https://github.com/spotify/styx
       openIssues:
         totalCount: 4
@@ -175,8 +175,8 @@
         totalCount: 15
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 443
-      forkCount: 68
+      stargazerCount: 444
+      forkCount: 70
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
         totalCount: 10
@@ -192,7 +192,7 @@
       description: Spotify authentication and authorization for Android. Part of the
         Spotify Android SDK.
       stargazerCount: 107
-      forkCount: 60
+      forkCount: 61
       url: https://github.com/spotify/android-auth
       openIssues:
         totalCount: 0
@@ -210,7 +210,7 @@
     - name: apollo
       description: Java libraries for writing composable microservices
       stargazerCount: 1639
-      forkCount: 224
+      forkCount: 225
       url: https://github.com/spotify/apollo
       openIssues:
         totalCount: 0
@@ -219,7 +219,7 @@
     - name: completable-futures
       description: Utilities for working with futures in Java 8
       stargazerCount: 312
-      forkCount: 42
+      forkCount: 43
       url: https://github.com/spotify/completable-futures
       openIssues:
         totalCount: 3
@@ -227,8 +227,8 @@
         totalCount: 104
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2607
-      forkCount: 448
+      stargazerCount: 2608
+      forkCount: 449
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -255,7 +255,7 @@
     - name: futures-extra
       description: Java library for working with Guava futures
       stargazerCount: 123
-      forkCount: 26
+      forkCount: 27
       url: https://github.com/spotify/futures-extra
       openIssues:
         totalCount: 0
@@ -264,7 +264,7 @@
     - name: helios
       description: Docker container orchestration platform
       stargazerCount: 2085
-      forkCount: 255
+      forkCount: 256
       url: https://github.com/spotify/helios
       openIssues:
         totalCount: 3
@@ -291,7 +291,7 @@
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
       stargazerCount: 124
-      forkCount: 20
+      forkCount: 21
       url: https://github.com/spotify/missinglink
       openIssues:
         totalCount: 17
@@ -310,7 +310,7 @@
     - name: spydra
       description: Ephemeral Hadoop clusters using Google Compute Platform
       stargazerCount: 132
-      forkCount: 36
+      forkCount: 37
       url: https://github.com/spotify/spydra
       openIssues:
         totalCount: 3
@@ -320,7 +320,7 @@
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
       stargazerCount: 233
-      forkCount: 46
+      forkCount: 47
       url: https://github.com/spotify/styx
       openIssues:
         totalCount: 4
@@ -330,7 +330,7 @@
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
       stargazerCount: 127
-      forkCount: 35
+      forkCount: 36
       url: https://github.com/spotify/zoltar
       openIssues:
         totalCount: 16
@@ -344,17 +344,17 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 15537
-      forkCount: 2266
+      stargazerCount: 15564
+      forkCount: 2269
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 369
+        totalCount: 372
       watchers:
-        totalCount: 187
+        totalCount: 188
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 14
-      forkCount: 4
+      forkCount: 5
       url: https://github.com/spotify/bucket-runner
       openIssues:
         totalCount: 1
@@ -363,7 +363,7 @@
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
       stargazerCount: 262
-      forkCount: 22
+      forkCount: 23
       url: https://github.com/spotify/coordinator
       openIssues:
         totalCount: 3
@@ -381,7 +381,7 @@
     - name: NFGrapher
       description: Implementation and spec for the Native Format Score Library
       stargazerCount: 11
-      forkCount: 5
+      forkCount: 6
       url: https://github.com/spotify/NFGrapher
       openIssues:
         totalCount: 1
@@ -391,8 +391,8 @@
       description: A JavaScript/TypeScript audio engine for the Web and Server capable
         of multitrack time stretching, pitch shifting, declarative effects,
         faster than realtime processing, and more!
-      stargazerCount: 87
-      forkCount: 8
+      stargazerCount: 88
+      forkCount: 9
       url: https://github.com/spotify/NFPlayerJS
       openIssues:
         totalCount: 13
@@ -401,7 +401,7 @@
     - name: polly-jest-presets
       description: null
       stargazerCount: 61
-      forkCount: 8
+      forkCount: 9
       url: https://github.com/spotify/polly-jest-presets
       openIssues:
         totalCount: 5
@@ -411,7 +411,7 @@
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
       stargazerCount: 483
-      forkCount: 54
+      forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
         totalCount: 7
@@ -420,7 +420,7 @@
     - name: redux-location-state
       description: Utilities for reading & writing Redux store state to & from the URL
       stargazerCount: 112
-      forkCount: 24
+      forkCount: 25
       url: https://github.com/spotify/redux-location-state
       openIssues:
         totalCount: 4
@@ -429,7 +429,7 @@
     - name: ts-interface-loader
       description: Webpack support for validating TypeScript definitions at runtime.
       stargazerCount: 21
-      forkCount: 4
+      forkCount: 5
       url: https://github.com/spotify/ts-interface-loader
       openIssues:
         totalCount: 1
@@ -449,7 +449,7 @@
       description: A collection of base configs and CLI wrappers used to speed up
         development @ Spotify.
       stargazerCount: 334
-      forkCount: 57
+      forkCount: 58
       url: https://github.com/spotify/web-scripts
       openIssues:
         totalCount: 4
@@ -471,8 +471,8 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 778
-      forkCount: 27
+      stargazerCount: 779
+      forkCount: 28
       url: https://github.com/spotify/ruler
       openIssues:
         totalCount: 1
@@ -493,7 +493,7 @@
         totalCount: 133
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 463
+      stargazerCount: 464
       forkCount: 151
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -503,7 +503,7 @@
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
       stargazerCount: 617
-      forkCount: 72
+      forkCount: 73
       url: https://github.com/spotify/SPTDataLoader
       openIssues:
         totalCount: 1
@@ -528,8 +528,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9543
-      forkCount: 996
+      stargazerCount: 9548
+      forkCount: 997
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
@@ -547,7 +547,7 @@
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
       stargazerCount: 249
-      forkCount: 34
+      forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
         totalCount: 10
@@ -556,7 +556,7 @@
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
       stargazerCount: 1518
-      forkCount: 176
+      forkCount: 177
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
         totalCount: 24
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15476
-      forkCount: 2324
+      stargazerCount: 15480
+      forkCount: 2325
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 64
@@ -604,7 +604,7 @@
     - name: ramlfications
       description: Python parser for RAML
       stargazerCount: 232
-      forkCount: 50
+      forkCount: 51
       url: https://github.com/spotify/ramlfications
       openIssues:
         totalCount: 40
@@ -612,7 +612,7 @@
         totalCount: 77
     - name: snakebite
       description: A pure python HDFS client
-      stargazerCount: 851
+      stargazerCount: 852
       forkCount: 218
       url: https://github.com/spotify/snakebite
       openIssues:
@@ -621,7 +621,7 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3112
+      stargazerCount: 3113
       forkCount: 284
       url: https://github.com/spotify/chartify
       openIssues:
@@ -631,7 +631,7 @@
     - name: klio
       description: Smarter data pipelines for audio.
       stargazerCount: 699
-      forkCount: 47
+      forkCount: 48
       url: https://github.com/spotify/klio
       openIssues:
         totalCount: 5
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for adding effects to audio.
-      stargazerCount: 3196
+      stargazerCount: 3198
       forkCount: 102
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -649,7 +649,7 @@
     - name: confidence
       description: null
       stargazerCount: 106
-      forkCount: 8
+      forkCount: 9
       url: https://github.com/spotify/confidence
       openIssues:
         totalCount: 0
@@ -696,7 +696,7 @@
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
       stargazerCount: 268
-      forkCount: 32
+      forkCount: 33
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
         totalCount: 1
@@ -706,7 +706,7 @@
       description: A Scala feature transformation library for data science and machine
         learning
       stargazerCount: 445
-      forkCount: 72
+      forkCount: 73
       url: https://github.com/spotify/featran
       openIssues:
         totalCount: 10
@@ -715,7 +715,7 @@
     - name: noether
       description: Scala Aggregators used for ML Model metrics monitoring
       stargazerCount: 84
-      forkCount: 13
+      forkCount: 14
       url: https://github.com/spotify/noether
       openIssues:
         totalCount: 4
@@ -749,7 +749,7 @@
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
       stargazerCount: 425
-      forkCount: 33
+      forkCount: 34
       url: https://github.com/spotify/Mobius.swift
       openIssues:
         totalCount: 1
@@ -766,8 +766,8 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 620
-      forkCount: 24
+      stargazerCount: 621
+      forkCount: 25
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
         totalCount: 23
@@ -776,8 +776,8 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 913
-      forkCount: 45
+      stargazerCount: 914
+      forkCount: 46
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 6
