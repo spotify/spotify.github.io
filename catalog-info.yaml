@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: spotify.github.io
+  description: Public Website showcasing select OSS projects
+spec:
+  type: resource
+  owner: foss
