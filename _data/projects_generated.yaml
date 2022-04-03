@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9581
+      stargazerCount: 9583
       forkCount: 1001
       url: https://github.com/spotify/annoy
       openIssues:
@@ -16,7 +16,7 @@
         totalCount: 319
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 933
+      stargazerCount: 934
       forkCount: 288
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for manipulating audio.
-      stargazerCount: 3231
+      stargazerCount: 3232
       forkCount: 104
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -156,7 +156,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 241
+      stargazerCount: 242
       forkCount: 47
       url: https://github.com/spotify/styx
       openIssues:
@@ -209,7 +209,7 @@
         totalCount: 57
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1640
+      stargazerCount: 1639
       forkCount: 225
       url: https://github.com/spotify/apollo
       openIssues:
@@ -319,7 +319,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 241
+      stargazerCount: 242
       forkCount: 47
       url: https://github.com/spotify/styx
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 15827
-      forkCount: 2324
+      stargazerCount: 15836
+      forkCount: 2325
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 386
+        totalCount: 387
       watchers:
         totalCount: 190
     - name: bucket-runner
@@ -410,7 +410,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 485
+      stargazerCount: 484
       forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 797
+      stargazerCount: 798
       forkCount: 29
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9581
+      stargazerCount: 9583
       forkCount: 1001
       url: https://github.com/spotify/annoy
       openIssues:
@@ -612,8 +612,8 @@
         totalCount: 77
     - name: snakebite
       description: A pure python HDFS client
-      stargazerCount: 853
-      forkCount: 218
+      stargazerCount: 854
+      forkCount: 217
       url: https://github.com/spotify/snakebite
       openIssues:
         totalCount: 58
@@ -622,7 +622,7 @@
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
       stargazerCount: 3119
-      forkCount: 287
+      forkCount: 286
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for manipulating audio.
-      stargazerCount: 3231
+      stargazerCount: 3232
       forkCount: 104
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -776,7 +776,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 921
+      stargazerCount: 922
       forkCount: 47
       url: https://github.com/spotify/XCMetrics
       openIssues:
