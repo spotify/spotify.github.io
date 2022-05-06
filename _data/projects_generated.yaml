@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9832
+      stargazerCount: 9835
       forkCount: 1017
       url: https://github.com/spotify/annoy
       openIssues:
@@ -209,7 +209,7 @@
         totalCount: 57
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1638
+      stargazerCount: 1639
       forkCount: 225
       url: https://github.com/spotify/apollo
       openIssues:
@@ -300,7 +300,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1048
+      stargazerCount: 1047
       forkCount: 73
       url: https://github.com/spotify/mobius
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 16278
-      forkCount: 2453
+      stargazerCount: 16297
+      forkCount: 2457
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 423
+        totalCount: 421
       watchers:
         totalCount: 192
     - name: bucket-runner
@@ -391,7 +391,7 @@
       description: A JavaScript/TypeScript audio engine for the Web and Server capable
         of multitrack time stretching, pitch shifting, declarative effects,
         faster than realtime processing, and more!
-      stargazerCount: 87
+      stargazerCount: 88
       forkCount: 9
       url: https://github.com/spotify/NFPlayerJS
       openIssues:
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 814
+      stargazerCount: 816
       forkCount: 32
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9832
+      stargazerCount: 9835
       forkCount: 1017
       url: https://github.com/spotify/annoy
       openIssues:
@@ -556,7 +556,7 @@
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
       stargazerCount: 1528
-      forkCount: 180
+      forkCount: 181
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
         totalCount: 25
@@ -621,7 +621,7 @@
         totalCount: 133
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3141
+      stargazerCount: 3142
       forkCount: 289
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 46
     - name: confidence
       description: null
-      stargazerCount: 117
+      stargazerCount: 118
       forkCount: 11
       url: https://github.com/spotify/confidence
       openIssues:
@@ -732,8 +732,8 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2299
-      forkCount: 470
+      stargazerCount: 2300
+      forkCount: 471
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 94
@@ -777,7 +777,7 @@
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
       stargazerCount: 932
-      forkCount: 51
+      forkCount: 50
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 6
@@ -790,7 +790,7 @@
     - name: git-test
       description: test your commits
       stargazerCount: 183
-      forkCount: 37
+      forkCount: 38
       url: https://github.com/spotify/git-test
       openIssues:
         totalCount: 0
