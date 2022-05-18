@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9865
-      forkCount: 1022
+      stargazerCount: 9872
+      forkCount: 1023
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
@@ -71,11 +71,11 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for manipulating audio.
-      stargazerCount: 3327
+      stargazerCount: 3328
       forkCount: 112
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 10
+        totalCount: 11
       watchers:
         totalCount: 46
     - name: NFHTTP
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2633
+      stargazerCount: 2632
       forkCount: 451
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -218,7 +218,7 @@
         totalCount: 128
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 313
+      stargazerCount: 314
       forkCount: 43
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 107
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2633
+      stargazerCount: 2632
       forkCount: 451
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 16406
-      forkCount: 2496
+      stargazerCount: 16417
+      forkCount: 2501
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 435
+        totalCount: 436
       watchers:
         totalCount: 193
     - name: bucket-runner
@@ -391,7 +391,7 @@
       description: A JavaScript/TypeScript audio engine for the Web and Server capable
         of multitrack time stretching, pitch shifting, declarative effects,
         faster than realtime processing, and more!
-      stargazerCount: 92
+      stargazerCount: 93
       forkCount: 9
       url: https://github.com/spotify/NFPlayerJS
       openIssues:
@@ -528,8 +528,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9865
-      forkCount: 1022
+      stargazerCount: 9872
+      forkCount: 1023
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15677
-      forkCount: 2333
+      stargazerCount: 15680
+      forkCount: 2334
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 64
@@ -621,7 +621,7 @@
         totalCount: 133
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3154
+      stargazerCount: 3155
       forkCount: 288
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,11 +639,11 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for manipulating audio.
-      stargazerCount: 3327
+      stargazerCount: 3328
       forkCount: 112
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 10
+        totalCount: 11
       watchers:
         totalCount: 46
     - name: confidence
@@ -723,7 +723,7 @@
         totalCount: 25
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 318
+      stargazerCount: 319
       forkCount: 59
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -732,7 +732,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2306
+      stargazerCount: 2307
       forkCount: 471
       url: https://github.com/spotify/scio
       openIssues:
@@ -770,7 +770,7 @@
       forkCount: 29
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 14
+        totalCount: 11
       watchers:
         totalCount: 21
     - name: XCMetrics
