@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9881
+      stargazerCount: 9883
       forkCount: 1026
       url: https://github.com/spotify/annoy
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2633
+      stargazerCount: 2632
       forkCount: 451
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -200,7 +200,7 @@
         totalCount: 27
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 366
+      stargazerCount: 367
       forkCount: 110
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 107
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2633
+      stargazerCount: 2632
       forkCount: 451
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 16450
-      forkCount: 2509
+      stargazerCount: 16461
+      forkCount: 2514
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 441
+        totalCount: 442
       watchers:
         totalCount: 192
     - name: bucket-runner
@@ -410,7 +410,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 490
+      stargazerCount: 491
       forkCount: 56
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9881
+      stargazerCount: 9883
       forkCount: 1026
       url: https://github.com/spotify/annoy
       openIssues:
@@ -555,7 +555,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1531
+      stargazerCount: 1532
       forkCount: 181
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -733,7 +733,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2308
-      forkCount: 471
+      forkCount: 472
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 96
@@ -770,7 +770,7 @@
       forkCount: 30
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 9
+        totalCount: 10
       watchers:
         totalCount: 21
     - name: XCMetrics
@@ -789,8 +789,8 @@
   projects:
     - name: git-test
       description: test your commits
-      stargazerCount: 184
-      forkCount: 38
+      stargazerCount: 185
+      forkCount: 40
       url: https://github.com/spotify/git-test
       openIssues:
         totalCount: 0
