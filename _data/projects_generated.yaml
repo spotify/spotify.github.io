@@ -11,7 +11,7 @@
       forkCount: 1025
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 38
+        totalCount: 37
       watchers:
         totalCount: 328
     - name: echoprint-codegen
@@ -192,7 +192,7 @@
       description: Spotify authentication and authorization for Android. Part of the
         Spotify Android SDK.
       stargazerCount: 115
-      forkCount: 62
+      forkCount: 63
       url: https://github.com/spotify/android-auth
       openIssues:
         totalCount: 0
@@ -201,10 +201,10 @@
     - name: android-sdk
       description: Spotify SDK for Android
       stargazerCount: 366
-      forkCount: 110
+      forkCount: 111
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 119
+        totalCount: 120
       watchers:
         totalCount: 57
     - name: apollo
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 16589
-      forkCount: 2544
+      stargazerCount: 16612
+      forkCount: 2550
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 442
+        totalCount: 444
       watchers:
         totalCount: 194
     - name: bucket-runner
@@ -471,11 +471,11 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 824
+      stargazerCount: 825
       forkCount: 33
       url: https://github.com/spotify/ruler
       openIssues:
-        totalCount: 1
+        totalCount: 4
       watchers:
         totalCount: 19
 - config:
@@ -532,7 +532,7 @@
       forkCount: 1025
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 38
+        totalCount: 37
       watchers:
         totalCount: 328
     - name: crtauth
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15726
-      forkCount: 2335
+      stargazerCount: 15732
+      forkCount: 2336
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 66
@@ -732,11 +732,11 @@
         totalCount: 35
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2311
-      forkCount: 472
+      stargazerCount: 2312
+      forkCount: 473
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 96
+        totalCount: 97
       watchers:
         totalCount: 122
 - config:
@@ -766,7 +766,7 @@
         totalCount: 30
     - name: XCRemoteCache
       description: null
-      stargazerCount: 654
+      stargazerCount: 655
       forkCount: 30
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
