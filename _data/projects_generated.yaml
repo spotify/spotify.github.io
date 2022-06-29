@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9985
+      stargazerCount: 9987
       forkCount: 1035
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for manipulating audio.
-      stargazerCount: 3430
+      stargazerCount: 3432
       forkCount: 122
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -94,7 +94,7 @@
   projects:
     - name: cassandra-opstools
       description: Generic tools and script to help operating Cassandra cluster
-      stargazerCount: 53
+      stargazerCount: 54
       forkCount: 9
       url: https://github.com/spotify/cassandra-opstools
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2641
+      stargazerCount: 2642
       forkCount: 455
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -156,7 +156,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 249
+      stargazerCount: 248
       forkCount: 49
       url: https://github.com/spotify/styx
       openIssues:
@@ -201,7 +201,7 @@
     - name: android-sdk
       description: Spotify SDK for Android
       stargazerCount: 368
-      forkCount: 111
+      forkCount: 112
       url: https://github.com/spotify/android-sdk
       openIssues:
         totalCount: 121
@@ -227,7 +227,7 @@
         totalCount: 107
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2641
+      stargazerCount: 2642
       forkCount: 455
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -300,7 +300,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1068
+      stargazerCount: 1069
       forkCount: 76
       url: https://github.com/spotify/mobius
       openIssues:
@@ -319,7 +319,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 249
+      stargazerCount: 248
       forkCount: 49
       url: https://github.com/spotify/styx
       openIssues:
@@ -344,16 +344,16 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17093
-      forkCount: 2664
+      stargazerCount: 17107
+      forkCount: 2675
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 456
+        totalCount: 462
       watchers:
         totalCount: 196
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
-      stargazerCount: 17
+      stargazerCount: 18
       forkCount: 5
       url: https://github.com/spotify/bucket-runner
       openIssues:
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 849
+      stargazerCount: 852
       forkCount: 34
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 9985
+      stargazerCount: 9987
       forkCount: 1035
       url: https://github.com/spotify/annoy
       openIssues:
@@ -555,7 +555,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1533
+      stargazerCount: 1534
       forkCount: 182
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15776
-      forkCount: 2342
+      stargazerCount: 15778
+      forkCount: 2341
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 66
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for manipulating audio.
-      stargazerCount: 3430
+      stargazerCount: 3432
       forkCount: 122
       url: https://github.com/spotify/pedalboard
       openIssues:
