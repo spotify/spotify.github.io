@@ -142,6 +142,10 @@
     - url: https://github.com/spotify/noether
     - url: https://github.com/spotify/ratatool
     - url: https://github.com/spotify/scio
+    - url: https://github.com/spotify/magnolify
+    - url: https://github.com/spotify/elitzur
+    - url: https://github.com/spotify/tfreader
+    - url: https://github.com/spotify/scio.g8
 - config:
     id: swift
     name: Swift
@@ -159,3 +163,4 @@
   projects:
     - url: https://github.com/spotify/git-test
     - url: https://github.com/spotify/spotify.github.io
+    - url: https://github.com/spotify/web-api-auth-examples
