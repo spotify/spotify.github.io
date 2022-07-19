@@ -100,6 +100,8 @@
 - config:
     id: jupyter_notebook
     name: Jupyter Notebook
+    icons_html: >
+      <i class="devicon-jupyter-plain-wordmark"></i>
   projects:
     - url: https://github.com/spotify/ieee-spm-vocals-tutorial
 - config:
