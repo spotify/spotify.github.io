@@ -133,6 +133,7 @@
     - url: https://github.com/spotify/moob
     - url: https://github.com/spotify/rspec-dns
     - url: https://github.com/spotify/puppet-talos
+    - url: https://github.com/spotify/homebrew-public
 - config:
     id: scala
     name: Scala
@@ -156,7 +157,6 @@
     - url: https://github.com/spotify/SpotifyLogin
     - url: https://github.com/spotify/XCRemoteCache
     - url: https://github.com/spotify/XCMetrics
-
 - config:
     id: other
     name: Other
