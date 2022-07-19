@@ -34,6 +34,22 @@
     - url: https://github.com/spotify/docker_interface
     - url: https://github.com/spotify/dockerfile-mode
 - config:
+    id: go
+    name: Go 
+    icons_html: >
+      <i class="devicon-go-plain"></i>
+  projects:
+    - url: https://github.com/spotify/flink-on-k8s-operator
+    - url: https://github.com/spotify/flyte-flink-plugin
+    - url: https://github.com/spotify/heroic-client-go
+    - url: https://github.com/spotify/docker-bigtable
+- config:
+    id: hcl
+    name: HCL
+  projects:
+    - url: https://github.com/spotify/terraform-google-aws-hybrid-cloud-vpn
+    - url: https://github.com/spotify/terraform-gke-kubeflow-cluster
+- config:
     id: java
     name: Java
     icons_html: >
@@ -116,6 +132,7 @@
   projects:
     - url: https://github.com/spotify/moob
     - url: https://github.com/spotify/rspec-dns
+    - url: https://github.com/spotify/puppet-talos
 - config:
     id: scala
     name: Scala
@@ -141,3 +158,4 @@
     name: Other
   projects:
     - url: https://github.com/spotify/git-test
+    - url: https://github.com/spotify/spotify.github.io
