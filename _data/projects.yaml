@@ -44,6 +44,13 @@
     - url: https://github.com/spotify/heroic-client-go
     - url: https://github.com/spotify/docker-bigtable
 - config:
+    id: groovy
+    name: Groovy
+    icons_html: >
+      <i class="devicon-groovy-plain"></i>
+  projects:
+    - url: https://github.com/spotify/jenkins-coverage-poster
+- config:
     id: hcl
     name: HCL
   projects:
@@ -95,6 +102,7 @@
     name: Kotlin
   projects:
     - url: https://github.com/spotify/ruler
+    - url: https://github.com/spotify/squashing-census-exporter
 - config:
     id: objective-c
     name: Objective-C
