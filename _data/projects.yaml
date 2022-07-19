@@ -112,6 +112,11 @@
     - url: https://github.com/spotify/SPTDataLoader
     - url: https://github.com/spotify/SPTPersistentCache
 - config:
+    id: puppet
+    name: Puppet
+  projects:
+    - url: https://github.com/spotify/puppet-talos
+- config:
     id: python
     name: Python
     icons_html: >
@@ -142,6 +147,7 @@
     - url: https://github.com/spotify/rspec-dns
     - url: https://github.com/spotify/puppet-talos
     - url: https://github.com/spotify/homebrew-public
+    - url: https://github.com/spotify/spotify.github.io
 - config:
     id: scala
     name: Scala
