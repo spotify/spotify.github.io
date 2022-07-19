@@ -98,6 +98,11 @@
     - url: https://github.com/spotify/web-scripts
     - url: https://github.com/spotify/web-scripts-library-template
 - config:
+    id: jupyter_notebook
+    name: Jupyter Notebook
+  projects:
+    - url: https://github.com/spotify/ieee-spm-vocals-tutorial
+- config:
     id: kotlin
     name: Kotlin
   projects:
