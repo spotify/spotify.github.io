@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10074
+      stargazerCount: 10076
       forkCount: 1043
       url: https://github.com/spotify/annoy
       openIssues:
@@ -72,7 +72,7 @@
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
       stargazerCount: 3511
-      forkCount: 125
+      forkCount: 126
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 7
@@ -201,7 +201,7 @@
     - name: android-sdk
       description: Spotify SDK for Android
       stargazerCount: 373
-      forkCount: 112
+      forkCount: 113
       url: https://github.com/spotify/android-sdk
       openIssues:
         totalCount: 124
@@ -290,8 +290,8 @@
         totalCount: 37
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
-      stargazerCount: 126
-      forkCount: 21
+      stargazerCount: 127
+      forkCount: 22
       url: https://github.com/spotify/missinglink
       openIssues:
         totalCount: 17
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17467
-      forkCount: 2807
+      stargazerCount: 17472
+      forkCount: 2808
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 459
+        totalCount: 458
       watchers:
         totalCount: 201
     - name: bucket-runner
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 857
+      stargazerCount: 858
       forkCount: 35
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10074
+      stargazerCount: 10076
       forkCount: 1043
       url: https://github.com/spotify/annoy
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 84
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 727
+      stargazerCount: 729
       forkCount: 48
       url: https://github.com/spotify/klio
       openIssues:
@@ -640,7 +640,7 @@
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
       stargazerCount: 3511
-      forkCount: 125
+      forkCount: 126
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 7
@@ -789,7 +789,7 @@
   projects:
     - name: git-test
       description: test your commits
-      stargazerCount: 188
+      stargazerCount: 189
       forkCount: 39
       url: https://github.com/spotify/git-test
       openIssues:
