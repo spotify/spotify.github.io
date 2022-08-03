@@ -77,11 +77,15 @@
 - config:
     id: kotlin
     name: Kotlin
+    icons_html: >
+      <i class="devicon-kotlin-plain"></i>
   projects:
     - url: https://github.com/spotify/ruler
 - config:
     id: objective-c
     name: Objective-C
+    icons_html: >
+      <i class="devicon-objectivec-plain"></i>
   projects:
     - url: https://github.com/spotify/ios-style
     - url: https://github.com/spotify/ios-sdk
@@ -119,6 +123,8 @@
 - config:
     id: scala
     name: Scala
+    icons_html: >
+      <i class=devicon-scala-plain"></i>
   projects:
     - url: https://github.com/spotify/big-data-rosetta-code
     - url: https://github.com/spotify/featran
