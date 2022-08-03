@@ -34,6 +34,29 @@
     - url: https://github.com/spotify/docker_interface
     - url: https://github.com/spotify/dockerfile-mode
 - config:
+    id: go
+    name: Go 
+    icons_html: >
+      <i class="devicon-go-plain"></i>
+  projects:
+    - url: https://github.com/spotify/flink-on-k8s-operator
+    - url: https://github.com/spotify/flyte-flink-plugin
+    - url: https://github.com/spotify/heroic-client-go
+    - url: https://github.com/spotify/docker-bigtable
+- config:
+    id: groovy
+    name: Groovy
+    icons_html: >
+      <i class="devicon-groovy-plain"></i>
+  projects:
+    - url: https://github.com/spotify/jenkins-coverage-poster
+- config:
+    id: hcl
+    name: HCL
+  projects:
+    - url: https://github.com/spotify/terraform-google-aws-hybrid-cloud-vpn
+    - url: https://github.com/spotify/terraform-gke-kubeflow-cluster
+- config:
     id: java
     name: Java
     icons_html: >
@@ -75,10 +98,18 @@
     - url: https://github.com/spotify/web-scripts
     - url: https://github.com/spotify/web-scripts-library-template
 - config:
+    id: jupyter_notebook
+    name: Jupyter Notebook
+    icons_html: >
+      <i class="devicon-jupyter-plain-wordmark"></i>
+  projects:
+    - url: https://github.com/spotify/ieee-spm-vocals-tutorial
+- config:
     id: kotlin
     name: Kotlin
   projects:
     - url: https://github.com/spotify/ruler
+    - url: https://github.com/spotify/squashing-census-exporter
 - config:
     id: objective-c
     name: Objective-C
@@ -87,6 +118,11 @@
     - url: https://github.com/spotify/ios-sdk
     - url: https://github.com/spotify/SPTDataLoader
     - url: https://github.com/spotify/SPTPersistentCache
+- config:
+    id: puppet
+    name: Puppet
+  projects:
+    - url: https://github.com/spotify/puppet-talos
 - config:
     id: python
     name: Python
@@ -116,6 +152,9 @@
   projects:
     - url: https://github.com/spotify/moob
     - url: https://github.com/spotify/rspec-dns
+    - url: https://github.com/spotify/puppet-talos
+    - url: https://github.com/spotify/homebrew-public
+    - url: https://github.com/spotify/spotify.github.io
 - config:
     id: scala
     name: Scala
@@ -125,6 +164,10 @@
     - url: https://github.com/spotify/noether
     - url: https://github.com/spotify/ratatool
     - url: https://github.com/spotify/scio
+    - url: https://github.com/spotify/magnolify
+    - url: https://github.com/spotify/elitzur
+    - url: https://github.com/spotify/tfreader
+    - url: https://github.com/spotify/scio.g8
 - config:
     id: swift
     name: Swift
@@ -135,9 +178,10 @@
     - url: https://github.com/spotify/SpotifyLogin
     - url: https://github.com/spotify/XCRemoteCache
     - url: https://github.com/spotify/XCMetrics
-
 - config:
     id: other
     name: Other
   projects:
     - url: https://github.com/spotify/git-test
+    - url: https://github.com/spotify/spotify.github.io
+    - url: https://github.com/spotify/web-api-auth-examples
