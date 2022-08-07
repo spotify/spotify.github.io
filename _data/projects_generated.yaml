@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10086
+      stargazerCount: 10087
       forkCount: 1044
       url: https://github.com/spotify/annoy
       openIssues:
@@ -82,7 +82,7 @@
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
       stargazerCount: 554
-      forkCount: 37
+      forkCount: 36
       url: https://github.com/spotify/NFHTTP
       openIssues:
         totalCount: 12
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17533
+      stargazerCount: 17540
       forkCount: 2827
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 462
+        totalCount: 463
       watchers:
         totalCount: 201
     - name: bucket-runner
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10086
+      stargazerCount: 10087
       forkCount: 1044
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15873
+      stargazerCount: 15876
       forkCount: 2347
       url: https://github.com/spotify/luigi
       openIssues:
@@ -695,7 +695,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 272
+      stargazerCount: 271
       forkCount: 34
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -723,7 +723,7 @@
         totalCount: 26
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 324
+      stargazerCount: 323
       forkCount: 60
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -732,7 +732,7 @@
         totalCount: 35
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2351
+      stargazerCount: 2350
       forkCount: 481
       url: https://github.com/spotify/scio
       openIssues:
@@ -777,7 +777,7 @@
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
       stargazerCount: 952
-      forkCount: 54
+      forkCount: 55
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 6
