@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10099
+      stargazerCount: 10102
       forkCount: 1043
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,11 +71,11 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3526
+      stargazerCount: 3528
       forkCount: 127
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 7
+        totalCount: 8
       watchers:
         totalCount: 48
     - name: NFHTTP
@@ -112,7 +112,7 @@
         totalCount: 124
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 250
+      stargazerCount: 251
       forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
@@ -218,7 +218,7 @@
         totalCount: 128
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 321
+      stargazerCount: 322
       forkCount: 42
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17586
-      forkCount: 2844
+      stargazerCount: 17602
+      forkCount: 2847
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 471
+        totalCount: 469
       watchers:
         totalCount: 201
     - name: bucket-runner
@@ -428,7 +428,7 @@
         totalCount: 16
     - name: ts-interface-loader
       description: Webpack support for validating TypeScript definitions at runtime.
-      stargazerCount: 23
+      stargazerCount: 22
       forkCount: 5
       url: https://github.com/spotify/ts-interface-loader
       openIssues:
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 864
+      stargazerCount: 865
       forkCount: 35
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10099
+      stargazerCount: 10102
       forkCount: 1043
       url: https://github.com/spotify/annoy
       openIssues:
@@ -546,7 +546,7 @@
         totalCount: 8
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 250
+      stargazerCount: 251
       forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15885
+      stargazerCount: 15890
       forkCount: 2347
       url: https://github.com/spotify/luigi
       openIssues:
@@ -639,16 +639,16 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3526
+      stargazerCount: 3528
       forkCount: 127
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 7
+        totalCount: 8
       watchers:
         totalCount: 48
     - name: confidence
       description: null
-      stargazerCount: 128
+      stargazerCount: 129
       forkCount: 12
       url: https://github.com/spotify/confidence
       openIssues:
@@ -723,7 +723,7 @@
         totalCount: 27
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 325
+      stargazerCount: 324
       forkCount: 59
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -736,7 +736,7 @@
       forkCount: 481
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 95
+        totalCount: 96
       watchers:
         totalCount: 120
 - config:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 438
+      stargazerCount: 439
       forkCount: 36
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -766,7 +766,7 @@
         totalCount: 32
     - name: XCRemoteCache
       description: null
-      stargazerCount: 692
+      stargazerCount: 694
       forkCount: 37
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
