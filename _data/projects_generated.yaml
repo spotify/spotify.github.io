@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3529
+      stargazerCount: 3531
       forkCount: 126
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2650
+      stargazerCount: 2651
       forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -200,7 +200,7 @@
         totalCount: 28
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 373
+      stargazerCount: 374
       forkCount: 114
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 108
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2650
+      stargazerCount: 2651
       forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17618
-      forkCount: 2852
+      stargazerCount: 17619
+      forkCount: 2853
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 467
+        totalCount: 466
       watchers:
         totalCount: 201
     - name: bucket-runner
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 865
+      stargazerCount: 866
       forkCount: 35
       url: https://github.com/spotify/ruler
       openIssues:
@@ -493,7 +493,7 @@
         totalCount: 137
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 503
+      stargazerCount: 504
       forkCount: 161
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -612,7 +612,7 @@
         totalCount: 78
     - name: snakebite
       description: A pure python HDFS client
-      stargazerCount: 855
+      stargazerCount: 854
       forkCount: 219
       url: https://github.com/spotify/snakebite
       openIssues:
@@ -621,8 +621,8 @@
         totalCount: 133
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3197
-      forkCount: 287
+      stargazerCount: 3198
+      forkCount: 288
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3529
+      stargazerCount: 3531
       forkCount: 126
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -732,7 +732,7 @@
         totalCount: 36
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2353
+      stargazerCount: 2354
       forkCount: 482
       url: https://github.com/spotify/scio
       openIssues:
