@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10115
+      stargazerCount: 10119
       forkCount: 1043
       url: https://github.com/spotify/annoy
       openIssues:
@@ -156,7 +156,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 253
+      stargazerCount: 252
       forkCount: 51
       url: https://github.com/spotify/styx
       openIssues:
@@ -319,7 +319,7 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 253
+      stargazerCount: 252
       forkCount: 51
       url: https://github.com/spotify/styx
       openIssues:
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17636
-      forkCount: 2865
+      stargazerCount: 17648
+      forkCount: 2872
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 463
+        totalCount: 471
       watchers:
-        totalCount: 201
+        totalCount: 200
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 866
+      stargazerCount: 869
       forkCount: 36
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10115
+      stargazerCount: 10119
       forkCount: 1043
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,13 +566,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15904
+      stargazerCount: 15905
       forkCount: 2347
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 68
+        totalCount: 69
       watchers:
-        totalCount: 490
+        totalCount: 489
     - name: pyeos
       description: null
       stargazerCount: 16
@@ -705,7 +705,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 455
+      stargazerCount: 456
       forkCount: 73
       url: https://github.com/spotify/featran
       openIssues:
@@ -723,7 +723,7 @@
         totalCount: 27
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 325
+      stargazerCount: 326
       forkCount: 59
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -732,11 +732,11 @@
         totalCount: 36
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2354
-      forkCount: 482
+      stargazerCount: 2355
+      forkCount: 483
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 97
+        totalCount: 99
       watchers:
         totalCount: 120
 - config:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 441
+      stargazerCount: 442
       forkCount: 36
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -767,7 +767,7 @@
     - name: XCRemoteCache
       description: null
       stargazerCount: 696
-      forkCount: 37
+      forkCount: 38
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
         totalCount: 10
