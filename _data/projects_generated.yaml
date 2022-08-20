@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10121
+      stargazerCount: 10124
       forkCount: 1045
       url: https://github.com/spotify/annoy
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2651
+      stargazerCount: 2652
       forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -166,7 +166,7 @@
     - name: docker_interface
       description: ":whale: Declarative interface for building images and running
         commands in containers using Docker."
-      stargazerCount: 33
+      stargazerCount: 34
       forkCount: 15
       url: https://github.com/spotify/docker_interface
       openIssues:
@@ -209,7 +209,7 @@
         totalCount: 58
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1644
+      stargazerCount: 1643
       forkCount: 224
       url: https://github.com/spotify/apollo
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 108
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2651
+      stargazerCount: 2652
       forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17658
-      forkCount: 2879
+      stargazerCount: 17670
+      forkCount: 2881
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 476
+        totalCount: 471
       watchers:
         totalCount: 200
     - name: bucket-runner
@@ -475,7 +475,7 @@
       forkCount: 36
       url: https://github.com/spotify/ruler
       openIssues:
-        totalCount: 3
+        totalCount: 4
       watchers:
         totalCount: 20
 - config:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10121
+      stargazerCount: 10124
       forkCount: 1045
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15905
+      stargazerCount: 15909
       forkCount: 2347
       url: https://github.com/spotify/luigi
       openIssues:
@@ -621,7 +621,7 @@
         totalCount: 133
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3199
+      stargazerCount: 3198
       forkCount: 289
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 48
     - name: confidence
       description: null
-      stargazerCount: 129
+      stargazerCount: 130
       forkCount: 12
       url: https://github.com/spotify/confidence
       openIssues:
@@ -732,11 +732,11 @@
         totalCount: 36
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2357
+      stargazerCount: 2358
       forkCount: 483
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 99
+        totalCount: 97
       watchers:
         totalCount: 120
 - config:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 442
+      stargazerCount: 443
       forkCount: 36
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -766,7 +766,7 @@
         totalCount: 32
     - name: XCRemoteCache
       description: null
-      stargazerCount: 698
+      stargazerCount: 699
       forkCount: 38
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
@@ -776,7 +776,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 955
+      stargazerCount: 956
       forkCount: 55
       url: https://github.com/spotify/XCMetrics
       openIssues:
