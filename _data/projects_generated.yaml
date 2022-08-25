@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10136
+      stargazerCount: 10138
       forkCount: 1045
       url: https://github.com/spotify/annoy
       openIssues:
@@ -75,7 +75,7 @@
       forkCount: 128
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 8
+        totalCount: 9
       watchers:
         totalCount: 48
     - name: NFHTTP
@@ -200,7 +200,7 @@
         totalCount: 28
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 374
+      stargazerCount: 375
       forkCount: 114
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17704
-      forkCount: 2888
+      stargazerCount: 17723
+      forkCount: 2893
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 461
+        totalCount: 466
       watchers:
-        totalCount: 199
+        totalCount: 198
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -475,7 +475,7 @@
       forkCount: 36
       url: https://github.com/spotify/ruler
       openIssues:
-        totalCount: 5
+        totalCount: 6
       watchers:
         totalCount: 20
 - config:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10136
+      stargazerCount: 10138
       forkCount: 1045
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15920
+      stargazerCount: 15922
       forkCount: 2347
       url: https://github.com/spotify/luigi
       openIssues:
@@ -621,7 +621,7 @@
         totalCount: 133
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3200
+      stargazerCount: 3201
       forkCount: 289
       url: https://github.com/spotify/chartify
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 85
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 731
+      stargazerCount: 730
       forkCount: 48
       url: https://github.com/spotify/klio
       openIssues:
@@ -643,13 +643,13 @@
       forkCount: 128
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 8
+        totalCount: 9
       watchers:
         totalCount: 48
     - name: confidence
       description: null
-      stargazerCount: 130
-      forkCount: 12
+      stargazerCount: 131
+      forkCount: 13
       url: https://github.com/spotify/confidence
       openIssues:
         totalCount: 0
