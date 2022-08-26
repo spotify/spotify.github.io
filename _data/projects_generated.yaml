@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10138
+      stargazerCount: 10141
       forkCount: 1045
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3546
+      stargazerCount: 3549
       forkCount: 128
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -82,7 +82,7 @@
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
       stargazerCount: 553
-      forkCount: 36
+      forkCount: 35
       url: https://github.com/spotify/NFHTTP
       openIssues:
         totalCount: 12
@@ -146,8 +146,8 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2652
-      forkCount: 466
+      stargazerCount: 2653
+      forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -175,7 +175,7 @@
         totalCount: 15
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 458
+      stargazerCount: 459
       forkCount: 73
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
@@ -219,7 +219,7 @@
     - name: completable-futures
       description: Utilities for working with futures in Java 8
       stargazerCount: 324
-      forkCount: 42
+      forkCount: 43
       url: https://github.com/spotify/completable-futures
       openIssues:
         totalCount: 3
@@ -227,8 +227,8 @@
         totalCount: 108
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2652
-      forkCount: 466
+      stargazerCount: 2653
+      forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17723
-      forkCount: 2893
+      stargazerCount: 17740
+      forkCount: 2897
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 466
+        totalCount: 463
       watchers:
         totalCount: 198
     - name: bucket-runner
@@ -508,7 +508,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 126
+        totalCount: 125
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10138
+      stargazerCount: 10141
       forkCount: 1045
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15922
-      forkCount: 2347
+      stargazerCount: 15925
+      forkCount: 2346
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 69
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3546
+      stargazerCount: 3549
       forkCount: 128
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -695,7 +695,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 272
+      stargazerCount: 271
       forkCount: 35
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 443
+      stargazerCount: 444
       forkCount: 36
       url: https://github.com/spotify/Mobius.swift
       openIssues:
