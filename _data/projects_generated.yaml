@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10208
+      stargazerCount: 10211
       forkCount: 1048
       url: https://github.com/spotify/annoy
       openIssues:
@@ -16,7 +16,7 @@
         totalCount: 326
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 934
+      stargazerCount: 935
       forkCount: 289
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3554
+      stargazerCount: 3555
       forkCount: 130
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -210,7 +210,7 @@
     - name: apollo
       description: Java libraries for writing composable microservices
       stargazerCount: 1642
-      forkCount: 224
+      forkCount: 223
       url: https://github.com/spotify/apollo
       openIssues:
         totalCount: 0
@@ -254,7 +254,7 @@
         totalCount: 102
     - name: futures-extra
       description: Java library for working with Guava futures
-      stargazerCount: 126
+      stargazerCount: 127
       forkCount: 29
       url: https://github.com/spotify/futures-extra
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17830
-      forkCount: 2930
+      stargazerCount: 17843
+      forkCount: 2932
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 453
+        totalCount: 451
       watchers:
         totalCount: 199
     - name: bucket-runner
@@ -391,7 +391,7 @@
       description: A JavaScript/TypeScript audio engine for the Web and Server capable
         of multitrack time stretching, pitch shifting, declarative effects,
         faster than realtime processing, and more!
-      stargazerCount: 103
+      stargazerCount: 104
       forkCount: 9
       url: https://github.com/spotify/NFPlayerJS
       openIssues:
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 877
+      stargazerCount: 878
       forkCount: 37
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10208
+      stargazerCount: 10211
       forkCount: 1048
       url: https://github.com/spotify/annoy
       openIssues:
@@ -621,7 +621,7 @@
         totalCount: 133
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3202
+      stargazerCount: 3200
       forkCount: 289
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3554
+      stargazerCount: 3555
       forkCount: 130
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 46
     - name: confidence
       description: null
-      stargazerCount: 131
+      stargazerCount: 132
       forkCount: 13
       url: https://github.com/spotify/confidence
       openIssues:
@@ -732,11 +732,11 @@
         totalCount: 36
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2364
+      stargazerCount: 2365
       forkCount: 482
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 96
+        totalCount: 98
       watchers:
         totalCount: 121
 - config:
@@ -766,17 +766,17 @@
         totalCount: 32
     - name: XCRemoteCache
       description: null
-      stargazerCount: 704
+      stargazerCount: 705
       forkCount: 39
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 11
+        totalCount: 10
       watchers:
         totalCount: 22
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 961
+      stargazerCount: 962
       forkCount: 57
       url: https://github.com/spotify/XCMetrics
       openIssues:
