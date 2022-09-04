@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10211
+      stargazerCount: 10214
       forkCount: 1048
       url: https://github.com/spotify/annoy
       openIssues:
@@ -34,7 +34,7 @@
         totalCount: 29
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 545
+      stargazerCount: 546
       forkCount: 103
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2655
+      stargazerCount: 2654
       forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 109
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2655
+      stargazerCount: 2654
       forkCount: 465
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -281,7 +281,7 @@
         totalCount: 60
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 545
+      stargazerCount: 546
       forkCount: 103
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -344,8 +344,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17843
-      forkCount: 2932
+      stargazerCount: 17844
+      forkCount: 2935
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 451
@@ -362,7 +362,7 @@
         totalCount: 12
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
-      stargazerCount: 262
+      stargazerCount: 263
       forkCount: 24
       url: https://github.com/spotify/coordinator
       openIssues:
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 878
+      stargazerCount: 879
       forkCount: 37
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10211
+      stargazerCount: 10214
       forkCount: 1048
       url: https://github.com/spotify/annoy
       openIssues:
@@ -555,7 +555,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1538
+      stargazerCount: 1539
       forkCount: 183
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -567,7 +567,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 15940
-      forkCount: 2346
+      forkCount: 2345
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 70
