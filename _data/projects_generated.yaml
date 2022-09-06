@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10217
-      forkCount: 1048
+      stargazerCount: 10227
+      forkCount: 1046
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 37
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3558
+      stargazerCount: 3562
       forkCount: 131
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -81,7 +81,7 @@
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
-      stargazerCount: 553
+      stargazerCount: 554
       forkCount: 35
       url: https://github.com/spotify/NFHTTP
       openIssues:
@@ -162,7 +162,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 79
+        totalCount: 78
     - name: docker_interface
       description: ":whale: Declarative interface for building images and running
         commands in containers using Docker."
@@ -325,7 +325,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 79
+        totalCount: 78
     - name: zoltar
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 17850
+      stargazerCount: 17854
       forkCount: 2939
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 450
+        totalCount: 451
       watchers:
         totalCount: 199
     - name: bucket-runner
@@ -502,7 +502,7 @@
         totalCount: 49
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
-      stargazerCount: 621
+      stargazerCount: 622
       forkCount: 76
       url: https://github.com/spotify/SPTDataLoader
       openIssues:
@@ -512,7 +512,7 @@
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
-      stargazerCount: 1243
+      stargazerCount: 1244
       forkCount: 82
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
@@ -528,8 +528,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10217
-      forkCount: 1048
+      stargazerCount: 10227
+      forkCount: 1046
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 37
@@ -621,8 +621,8 @@
         totalCount: 133
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3200
-      forkCount: 289
+      stargazerCount: 3201
+      forkCount: 290
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3558
+      stargazerCount: 3562
       forkCount: 131
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -733,7 +733,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2365
-      forkCount: 482
+      forkCount: 483
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 98
@@ -766,11 +766,11 @@
         totalCount: 32
     - name: XCRemoteCache
       description: null
-      stargazerCount: 705
+      stargazerCount: 707
       forkCount: 39
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 10
+        totalCount: 11
       watchers:
         totalCount: 22
     - name: XCMetrics
