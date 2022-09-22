@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10287
+      stargazerCount: 10290
       forkCount: 1051
       url: https://github.com/spotify/annoy
       openIssues:
@@ -52,7 +52,7 @@
         totalCount: 21
     - name: NFDriver
       description: A cross platform C++ audio driver with low latency.
-      stargazerCount: 110
+      stargazerCount: 111
       forkCount: 18
       url: https://github.com/spotify/NFDriver
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3588
+      stargazerCount: 3590
       forkCount: 137
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -251,7 +251,7 @@
       openIssues:
         totalCount: 12
       watchers:
-        totalCount: 102
+        totalCount: 103
     - name: futures-extra
       description: Java library for working with Guava futures
       stargazerCount: 128
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 18042
-      forkCount: 2998
+      stargazerCount: 18084
+      forkCount: 3004
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 421
+        totalCount: 430
       watchers:
-        totalCount: 199
+        totalCount: 200
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10287
+      stargazerCount: 10290
       forkCount: 1051
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15972
+      stargazerCount: 15975
       forkCount: 2350
       url: https://github.com/spotify/luigi
       openIssues:
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3206
+      stargazerCount: 3207
       forkCount: 291
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3588
+      stargazerCount: 3590
       forkCount: 137
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -732,11 +732,11 @@
         totalCount: 36
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2375
+      stargazerCount: 2376
       forkCount: 483
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 101
+        totalCount: 102
       watchers:
         totalCount: 122
 - config:
