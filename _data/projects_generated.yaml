@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10290
+      stargazerCount: 10293
       forkCount: 1051
       url: https://github.com/spotify/annoy
       openIssues:
@@ -16,7 +16,7 @@
         totalCount: 326
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 936
+      stargazerCount: 935
       forkCount: 288
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3590
+      stargazerCount: 3592
       forkCount: 137
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -147,7 +147,7 @@
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2657
-      forkCount: 465
+      forkCount: 466
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -175,7 +175,7 @@
         totalCount: 15
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 461
+      stargazerCount: 462
       forkCount: 73
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
@@ -228,7 +228,7 @@
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2657
-      forkCount: 465
+      forkCount: 466
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 18084
-      forkCount: 3004
+      stargazerCount: 18232
+      forkCount: 3009
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 430
+        totalCount: 428
       watchers:
-        totalCount: 200
+        totalCount: 199
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -362,7 +362,7 @@
         totalCount: 12
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
-      stargazerCount: 264
+      stargazerCount: 265
       forkCount: 23
       url: https://github.com/spotify/coordinator
       openIssues:
@@ -493,7 +493,7 @@
         totalCount: 137
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 505
+      stargazerCount: 506
       forkCount: 164
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10290
+      stargazerCount: 10293
       forkCount: 1051
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15975
+      stargazerCount: 15981
       forkCount: 2350
       url: https://github.com/spotify/luigi
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 85
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 737
+      stargazerCount: 738
       forkCount: 47
       url: https://github.com/spotify/klio
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3590
+      stargazerCount: 3592
       forkCount: 137
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -732,11 +732,11 @@
         totalCount: 36
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2376
+      stargazerCount: 2377
       forkCount: 483
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 102
+        totalCount: 101
       watchers:
         totalCount: 122
 - config:
@@ -777,7 +777,7 @@
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
       stargazerCount: 968
-      forkCount: 58
+      forkCount: 59
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 7
