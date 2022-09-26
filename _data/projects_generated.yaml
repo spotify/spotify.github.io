@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10300
+      stargazerCount: 10302
       forkCount: 1050
       url: https://github.com/spotify/annoy
       openIssues:
@@ -22,7 +22,7 @@
       openIssues:
         totalCount: 48
       watchers:
-        totalCount: 115
+        totalCount: 116
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
       stargazerCount: 383
@@ -31,7 +31,7 @@
       openIssues:
         totalCount: 10
       watchers:
-        totalCount: 29
+        totalCount: 30
     - name: JniHelpers
       description: Tools for writing great JNI code
       stargazerCount: 548
@@ -77,7 +77,7 @@
       openIssues:
         totalCount: 10
       watchers:
-        totalCount: 42
+        totalCount: 43
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 18328
-      forkCount: 3015
+      stargazerCount: 18353
+      forkCount: 3014
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 424
+        totalCount: 425
       watchers:
         totalCount: 199
     - name: bucket-runner
@@ -508,11 +508,11 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 125
+        totalCount: 124
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
-      stargazerCount: 1244
+      stargazerCount: 1245
       forkCount: 83
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10300
+      stargazerCount: 10302
       forkCount: 1050
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 15987
+      stargazerCount: 15988
       forkCount: 2351
       url: https://github.com/spotify/luigi
       openIssues:
@@ -621,8 +621,8 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3207
-      forkCount: 290
+      stargazerCount: 3206
+      forkCount: 291
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
@@ -630,7 +630,7 @@
         totalCount: 85
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 738
+      stargazerCount: 739
       forkCount: 47
       url: https://github.com/spotify/klio
       openIssues:
@@ -645,10 +645,10 @@
       openIssues:
         totalCount: 10
       watchers:
-        totalCount: 42
+        totalCount: 43
     - name: confidence
       description: null
-      stargazerCount: 134
+      stargazerCount: 135
       forkCount: 14
       url: https://github.com/spotify/confidence
       openIssues:
