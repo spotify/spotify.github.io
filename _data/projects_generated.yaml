@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10320
-      forkCount: 1050
+      stargazerCount: 10323
+      forkCount: 1051
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
@@ -166,7 +166,7 @@
     - name: docker_interface
       description: ":whale: Declarative interface for building images and running
         commands in containers using Docker."
-      stargazerCount: 34
+      stargazerCount: 35
       forkCount: 15
       url: https://github.com/spotify/docker_interface
       openIssues:
@@ -175,7 +175,7 @@
         totalCount: 15
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 464
+      stargazerCount: 465
       forkCount: 74
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
@@ -218,7 +218,7 @@
         totalCount: 128
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 322
+      stargazerCount: 323
       forkCount: 45
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -300,7 +300,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1106
+      stargazerCount: 1108
       forkCount: 77
       url: https://github.com/spotify/mobius
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 18504
-      forkCount: 3043
+      stargazerCount: 18516
+      forkCount: 3044
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 392
+        totalCount: 386
       watchers:
         totalCount: 201
     - name: bucket-runner
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 887
+      stargazerCount: 890
       forkCount: 38
       url: https://github.com/spotify/ruler
       openIssues:
@@ -493,7 +493,7 @@
         totalCount: 137
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 506
+      stargazerCount: 507
       forkCount: 166
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -528,8 +528,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10320
-      forkCount: 1050
+      stargazerCount: 10323
+      forkCount: 1051
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 38
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16007
+      stargazerCount: 16010
       forkCount: 2351
       url: https://github.com/spotify/luigi
       openIssues:
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3207
+      stargazerCount: 3208
       forkCount: 291
       url: https://github.com/spotify/chartify
       openIssues:
@@ -732,7 +732,7 @@
         totalCount: 36
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2380
+      stargazerCount: 2381
       forkCount: 483
       url: https://github.com/spotify/scio
       openIssues:
