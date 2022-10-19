@@ -16,7 +16,7 @@
         totalCount: 327
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 937
+      stargazerCount: 938
       forkCount: 288
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -175,7 +175,7 @@
         totalCount: 15
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 466
+      stargazerCount: 467
       forkCount: 74
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
@@ -263,7 +263,7 @@
         totalCount: 22
     - name: helios
       description: Docker container orchestration platform
-      stargazerCount: 2091
+      stargazerCount: 2090
       forkCount: 254
       url: https://github.com/spotify/helios
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 18763
-      forkCount: 3121
+      stargazerCount: 18788
+      forkCount: 3126
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 386
+        totalCount: 387
       watchers:
         totalCount: 205
     - name: bucket-runner
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16053
+      stargazerCount: 16060
       forkCount: 2351
       url: https://github.com/spotify/luigi
       openIssues:
@@ -621,13 +621,13 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3219
+      stargazerCount: 3218
       forkCount: 293
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 41
       watchers:
-        totalCount: 87
+        totalCount: 86
     - name: klio
       description: Smarter data pipelines for audio.
       stargazerCount: 744
@@ -732,7 +732,7 @@
         totalCount: 35
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2381
+      stargazerCount: 2382
       forkCount: 486
       url: https://github.com/spotify/scio
       openIssues:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 447
+      stargazerCount: 449
       forkCount: 37
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -758,7 +758,7 @@
     - name: SpotifyLogin
       description: Swift framework for authenticating with the Spotify API
       stargazerCount: 342
-      forkCount: 43
+      forkCount: 42
       url: https://github.com/spotify/SpotifyLogin
       openIssues:
         totalCount: 9
@@ -766,8 +766,8 @@
         totalCount: 32
     - name: XCRemoteCache
       description: null
-      stargazerCount: 714
-      forkCount: 39
+      stargazerCount: 715
+      forkCount: 40
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
         totalCount: 13
