@@ -468,6 +468,8 @@
 - config:
     id: kotlin
     name: Kotlin
+    icons_html: |
+      <i class="devicon-kotlin-plain"></i>
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.

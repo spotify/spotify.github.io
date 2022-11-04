@@ -77,6 +77,8 @@
 - config:
     id: kotlin
     name: Kotlin
+    icons_html: >
+      <i class="devicon-kotlin-plain"></i>
   projects:
     - url: https://github.com/spotify/ruler
 - config:
