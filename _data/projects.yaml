@@ -84,6 +84,8 @@
 - config:
     id: objective-c
     name: Objective-C
+    icons_html: >
+      <i class="devicon-objectivec-plain"></i>  
   projects:
     - url: https://github.com/spotify/ios-style
     - url: https://github.com/spotify/ios-sdk

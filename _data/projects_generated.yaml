@@ -483,6 +483,8 @@
 - config:
     id: objective-c
     name: Objective-C
+    icons_html: >
+      <i class="devicon-objectivec-plain"></i>  
   projects:
     - name: ios-style
       description: Guidelines for iOS development in use at Spotify
