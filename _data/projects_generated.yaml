@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10434
+      stargazerCount: 10436
       forkCount: 1060
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3683
+      stargazerCount: 3686
       forkCount: 141
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -191,7 +191,7 @@
     - name: android-auth
       description: Spotify authentication and authorization for Android. Part of the
         Spotify Android SDK.
-      stargazerCount: 124
+      stargazerCount: 125
       forkCount: 64
       url: https://github.com/spotify/android-auth
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19070
-      forkCount: 3206
+      stargazerCount: 19078
+      forkCount: 3209
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 375
+        totalCount: 373
       watchers:
         totalCount: 205
     - name: bucket-runner
@@ -410,7 +410,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 516
+      stargazerCount: 517
       forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 904
+      stargazerCount: 905
       forkCount: 39
       url: https://github.com/spotify/ruler
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10434
+      stargazerCount: 10436
       forkCount: 1060
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16103
+      stargazerCount: 16104
       forkCount: 2349
       url: https://github.com/spotify/luigi
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3683
+      stargazerCount: 3686
       forkCount: 141
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 451
+      stargazerCount: 452
       forkCount: 37
       url: https://github.com/spotify/Mobius.swift
       openIssues:
