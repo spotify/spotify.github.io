@@ -7,11 +7,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10492
+      stargazerCount: 10496
       forkCount: 1061
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 42
+        totalCount: 41
       watchers:
         totalCount: 325
     - name: echoprint-codegen
@@ -75,7 +75,7 @@
       forkCount: 142
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 15
+        totalCount: 14
       watchers:
         totalCount: 44
     - name: NFHTTP
@@ -147,7 +147,7 @@
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2671
-      forkCount: 471
+      forkCount: 472
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -228,7 +228,7 @@
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
       stargazerCount: 2671
-      forkCount: 471
+      forkCount: 472
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
         totalCount: 13
@@ -329,7 +329,7 @@
     - name: zoltar
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
-      stargazerCount: 135
+      stargazerCount: 136
       forkCount: 37
       url: https://github.com/spotify/zoltar
       openIssues:
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19363
-      forkCount: 3299
+      stargazerCount: 19378
+      forkCount: 3303
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 350
+        totalCount: 349
       watchers:
-        totalCount: 206
+        totalCount: 207
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -528,11 +528,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10492
+      stargazerCount: 10496
       forkCount: 1061
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 42
+        totalCount: 41
       watchers:
         totalCount: 325
     - name: crtauth
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16142
+      stargazerCount: 16144
       forkCount: 2351
       url: https://github.com/spotify/luigi
       openIssues:
@@ -643,12 +643,12 @@
       forkCount: 142
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 15
+        totalCount: 14
       watchers:
         totalCount: 44
     - name: confidence
       description: null
-      stargazerCount: 146
+      stargazerCount: 147
       forkCount: 15
       url: https://github.com/spotify/confidence
       openIssues:
@@ -705,7 +705,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 460
+      stargazerCount: 461
       forkCount: 73
       url: https://github.com/spotify/featran
       openIssues:
@@ -770,13 +770,13 @@
       forkCount: 38
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 14
+        totalCount: 13
       watchers:
         totalCount: 24
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 987
+      stargazerCount: 988
       forkCount: 62
       url: https://github.com/spotify/XCMetrics
       openIssues:
