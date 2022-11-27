@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3727
+      stargazerCount: 3728
       forkCount: 142
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -245,7 +245,7 @@
         totalCount: 27
     - name: folsom
       description: An asynchronous memcache client for Java
-      stargazerCount: 139
+      stargazerCount: 138
       forkCount: 61
       url: https://github.com/spotify/folsom
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19397
+      stargazerCount: 19403
       forkCount: 3308
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 340
+        totalCount: 339
       watchers:
         totalCount: 206
     - name: bucket-runner
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16146
-      forkCount: 2351
+      stargazerCount: 16143
+      forkCount: 2352
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 77
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3228
+      stargazerCount: 3229
       forkCount: 295
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3727
+      stargazerCount: 3728
       forkCount: 142
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 44
     - name: confidence
       description: null
-      stargazerCount: 148
+      stargazerCount: 149
       forkCount: 15
       url: https://github.com/spotify/confidence
       openIssues:
@@ -732,7 +732,7 @@
         totalCount: 35
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2396
+      stargazerCount: 2397
       forkCount: 489
       url: https://github.com/spotify/scio
       openIssues:
