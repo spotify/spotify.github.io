@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10528
+      stargazerCount: 10527
       forkCount: 1062
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,11 +71,11 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3739
+      stargazerCount: 3746
       forkCount: 144
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 15
+        totalCount: 14
       watchers:
         totalCount: 44
     - name: NFHTTP
@@ -263,7 +263,7 @@
         totalCount: 26
     - name: helios
       description: Docker container orchestration platform
-      stargazerCount: 2089
+      stargazerCount: 2090
       forkCount: 253
       url: https://github.com/spotify/helios
       openIssues:
@@ -301,7 +301,7 @@
       description: A functional reactive framework for managing state evolution and
         side-effects.
       stargazerCount: 1124
-      forkCount: 78
+      forkCount: 79
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 3
@@ -344,8 +344,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19499
-      forkCount: 3331
+      stargazerCount: 19506
+      forkCount: 3332
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 337
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10528
+      stargazerCount: 10527
       forkCount: 1062
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16169
+      stargazerCount: 16171
       forkCount: 2353
       url: https://github.com/spotify/luigi
       openIssues:
@@ -604,7 +604,7 @@
     - name: ramlfications
       description: Python parser for RAML
       stargazerCount: 236
-      forkCount: 51
+      forkCount: 52
       url: https://github.com/jdiegodcp/ramlfications
       openIssues:
         totalCount: 40
@@ -639,11 +639,11 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3739
+      stargazerCount: 3746
       forkCount: 144
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 15
+        totalCount: 14
       watchers:
         totalCount: 44
     - name: confidence
