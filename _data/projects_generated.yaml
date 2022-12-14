@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10554
+      stargazerCount: 10555
       forkCount: 1065
       url: https://github.com/spotify/annoy
       openIssues:
@@ -52,7 +52,7 @@
         totalCount: 21
     - name: NFDriver
       description: A cross platform C++ audio driver with low latency.
-      stargazerCount: 115
+      stargazerCount: 116
       forkCount: 20
       url: https://github.com/spotify/NFDriver
       openIssues:
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3771
+      stargazerCount: 3777
       forkCount: 147
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 14
       watchers:
-        totalCount: 46
+        totalCount: 47
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -112,7 +112,7 @@
         totalCount: 123
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 250
+      stargazerCount: 251
       forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19630
-      forkCount: 3359
+      stargazerCount: 19637
+      forkCount: 3358
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 338
+        totalCount: 339
       watchers:
-        totalCount: 206
+        totalCount: 205
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10554
+      stargazerCount: 10555
       forkCount: 1065
       url: https://github.com/spotify/annoy
       openIssues:
@@ -546,7 +546,7 @@
         totalCount: 9
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 250
+      stargazerCount: 251
       forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
@@ -555,7 +555,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1545
+      stargazerCount: 1546
       forkCount: 184
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -566,8 +566,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16182
-      forkCount: 2352
+      stargazerCount: 16184
+      forkCount: 2353
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 79
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3239
+      stargazerCount: 3241
       forkCount: 297
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,13 +639,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3771
+      stargazerCount: 3777
       forkCount: 147
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 14
       watchers:
-        totalCount: 46
+        totalCount: 47
     - name: confidence
       description: null
       stargazerCount: 151
@@ -736,7 +736,7 @@
       forkCount: 490
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 105
+        totalCount: 106
       watchers:
         totalCount: 124
 - config:
