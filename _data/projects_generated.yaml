@@ -11,9 +11,9 @@
       forkCount: 1066
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 42
+        totalCount: 43
       watchers:
-        totalCount: 327
+        totalCount: 325
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 938
@@ -52,8 +52,8 @@
         totalCount: 21
     - name: NFDriver
       description: A cross platform C++ audio driver with low latency.
-      stargazerCount: 116
-      forkCount: 20
+      stargazerCount: 117
+      forkCount: 21
       url: https://github.com/spotify/NFDriver
       openIssues:
         totalCount: 0
@@ -71,13 +71,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3796
-      forkCount: 152
+      stargazerCount: 3798
+      forkCount: 153
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 14
+        totalCount: 15
       watchers:
-        totalCount: 47
+        totalCount: 46
     - name: NFHTTP
       description: A cross platform C++ HTTP library that interfaces natively to other
         platforms.
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2678
+      stargazerCount: 2679
       forkCount: 476
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 113
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2678
+      stargazerCount: 2679
       forkCount: 476
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19730
-      forkCount: 3377
+      stargazerCount: 19754
+      forkCount: 3380
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 350
+        totalCount: 346
       watchers:
         totalCount: 205
     - name: bucket-runner
@@ -410,7 +410,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 519
+      stargazerCount: 520
       forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -493,7 +493,7 @@
         totalCount: 136
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 518
+      stargazerCount: 519
       forkCount: 170
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -532,9 +532,9 @@
       forkCount: 1066
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 42
+        totalCount: 43
       watchers:
-        totalCount: 327
+        totalCount: 325
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 114
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3242
+      stargazerCount: 3244
       forkCount: 298
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,13 +639,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3796
-      forkCount: 152
+      stargazerCount: 3798
+      forkCount: 153
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 14
+        totalCount: 15
       watchers:
-        totalCount: 47
+        totalCount: 46
     - name: confidence
       description: null
       stargazerCount: 151
@@ -738,7 +738,7 @@
       openIssues:
         totalCount: 107
       watchers:
-        totalCount: 124
+        totalCount: 123
 - config:
     id: swift
     name: Swift
