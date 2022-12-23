@@ -8,7 +8,7 @@
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
       stargazerCount: 10586
-      forkCount: 1066
+      forkCount: 1067
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 42
@@ -71,11 +71,11 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3812
+      stargazerCount: 3815
       forkCount: 155
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 16
+        totalCount: 13
       watchers:
         totalCount: 46
     - name: NFHTTP
@@ -167,7 +167,7 @@
       description: ":whale: Declarative interface for building images and running
         commands in containers using Docker."
       stargazerCount: 36
-      forkCount: 15
+      forkCount: 16
       url: https://github.com/spotify/docker_interface
       openIssues:
         totalCount: 3
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19920
-      forkCount: 3399
+      stargazerCount: 19961
+      forkCount: 3404
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 354
       watchers:
-        totalCount: 205
+        totalCount: 204
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 911
+      stargazerCount: 912
       forkCount: 43
       url: https://github.com/spotify/ruler
       openIssues:
@@ -493,8 +493,8 @@
         totalCount: 136
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 519
-      forkCount: 170
+      stargazerCount: 520
+      forkCount: 171
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 178
@@ -529,7 +529,7 @@
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
       stargazerCount: 10586
-      forkCount: 1066
+      forkCount: 1067
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 42
@@ -639,11 +639,11 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3812
+      stargazerCount: 3815
       forkCount: 155
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 16
+        totalCount: 13
       watchers:
         totalCount: 46
     - name: confidence
@@ -705,7 +705,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 461
+      stargazerCount: 460
       forkCount: 73
       url: https://github.com/spotify/featran
       openIssues:
@@ -766,7 +766,7 @@
         totalCount: 31
     - name: XCRemoteCache
       description: null
-      stargazerCount: 736
+      stargazerCount: 737
       forkCount: 39
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
