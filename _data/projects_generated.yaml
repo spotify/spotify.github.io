@@ -8,12 +8,12 @@
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
       stargazerCount: 10588
-      forkCount: 1067
+      forkCount: 1066
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 42
       watchers:
-        totalCount: 325
+        totalCount: 326
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 939
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3819
+      stargazerCount: 3820
       forkCount: 155
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -200,7 +200,7 @@
         totalCount: 28
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 384
+      stargazerCount: 385
       forkCount: 117
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 19982
+      stargazerCount: 19988
       forkCount: 3410
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 353
+        totalCount: 354
       watchers:
-        totalCount: 204
+        totalCount: 203
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -410,7 +410,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 525
+      stargazerCount: 528
       forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -493,13 +493,13 @@
         totalCount: 136
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 521
+      stargazerCount: 522
       forkCount: 171
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 178
       watchers:
-        totalCount: 49
+        totalCount: 50
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
       stargazerCount: 625
@@ -529,12 +529,12 @@
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
       stargazerCount: 10588
-      forkCount: 1067
+      forkCount: 1066
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 42
       watchers:
-        totalCount: 325
+        totalCount: 326
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 114
@@ -566,13 +566,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16199
+      stargazerCount: 16201
       forkCount: 2353
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 79
       watchers:
-        totalCount: 486
+        totalCount: 487
     - name: pyeos
       description: null
       stargazerCount: 16
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3244
+      stargazerCount: 3245
       forkCount: 298
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3819
+      stargazerCount: 3820
       forkCount: 155
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -790,7 +790,7 @@
     - name: git-test
       description: test your commits
       stargazerCount: 191
-      forkCount: 42
+      forkCount: 43
       url: https://github.com/spotify/git-test
       openIssues:
         totalCount: 1
