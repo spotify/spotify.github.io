@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10635
+      stargazerCount: 10638
       forkCount: 1067
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
     - name: JniHelpers
       description: Tools for writing great JNI code
       stargazerCount: 559
-      forkCount: 106
+      forkCount: 105
       url: https://github.com/spotify/JniHelpers
       openIssues:
         totalCount: 10
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3865
+      stargazerCount: 3867
       forkCount: 158
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -112,7 +112,7 @@
         totalCount: 123
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 251
+      stargazerCount: 252
       forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
@@ -282,7 +282,7 @@
     - name: JniHelpers
       description: Tools for writing great JNI code
       stargazerCount: 559
-      forkCount: 106
+      forkCount: 105
       url: https://github.com/spotify/JniHelpers
       openIssues:
         totalCount: 10
@@ -335,7 +335,7 @@
       openIssues:
         totalCount: 17
       watchers:
-        totalCount: 27
+        totalCount: 28
 - config:
     id: javascript
     name: JavaScript
@@ -344,8 +344,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20178
-      forkCount: 3430
+      stargazerCount: 20183
+      forkCount: 3432
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 350
@@ -391,7 +391,7 @@
       description: A JavaScript/TypeScript audio engine for the Web and Server capable
         of multitrack time stretching, pitch shifting, declarative effects,
         faster than realtime processing, and more!
-      stargazerCount: 111
+      stargazerCount: 112
       forkCount: 9
       url: https://github.com/spotify/NFPlayerJS
       openIssues:
@@ -410,7 +410,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 530
+      stargazerCount: 531
       forkCount: 56
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10635
+      stargazerCount: 10638
       forkCount: 1067
       url: https://github.com/spotify/annoy
       openIssues:
@@ -546,7 +546,7 @@
         totalCount: 9
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 251
+      stargazerCount: 252
       forkCount: 35
       url: https://github.com/spotify/cstar
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 88
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 754
+      stargazerCount: 755
       forkCount: 49
       url: https://github.com/spotify/klio
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3865
+      stargazerCount: 3867
       forkCount: 158
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -732,7 +732,7 @@
         totalCount: 35
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2412
+      stargazerCount: 2413
       forkCount: 493
       url: https://github.com/spotify/scio
       openIssues:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 472
+      stargazerCount: 473
       forkCount: 38
       url: https://github.com/spotify/Mobius.swift
       openIssues:
