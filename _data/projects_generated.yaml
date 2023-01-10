@@ -13,7 +13,7 @@
       openIssues:
         totalCount: 44
       watchers:
-        totalCount: 326
+        totalCount: 325
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 941
@@ -34,8 +34,8 @@
         totalCount: 30
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 559
-      forkCount: 105
+      stargazerCount: 560
+      forkCount: 106
       url: https://github.com/spotify/JniHelpers
       openIssues:
         totalCount: 10
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3869
+      stargazerCount: 3872
       forkCount: 158
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2685
+      stargazerCount: 2686
       forkCount: 476
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 113
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2685
+      stargazerCount: 2686
       forkCount: 476
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -281,8 +281,8 @@
         totalCount: 61
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 559
-      forkCount: 105
+      stargazerCount: 560
+      forkCount: 106
       url: https://github.com/spotify/JniHelpers
       openIssues:
         totalCount: 10
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20189
-      forkCount: 3434
+      stargazerCount: 20206
+      forkCount: 3442
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 351
+        totalCount: 352
       watchers:
         totalCount: 202
     - name: bucket-runner
@@ -448,7 +448,7 @@
     - name: web-scripts
       description: A collection of base configs and CLI wrappers used to speed up
         development @ Spotify.
-      stargazerCount: 360
+      stargazerCount: 359
       forkCount: 64
       url: https://github.com/spotify/web-scripts
       openIssues:
@@ -534,7 +534,7 @@
       openIssues:
         totalCount: 44
       watchers:
-        totalCount: 326
+        totalCount: 325
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 114
@@ -566,13 +566,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16222
-      forkCount: 2354
+      stargazerCount: 16225
+      forkCount: 2356
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 79
       watchers:
-        totalCount: 486
+        totalCount: 487
     - name: pyeos
       description: null
       stargazerCount: 16
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3869
+      stargazerCount: 3872
       forkCount: 158
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -748,7 +748,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 473
+      stargazerCount: 474
       forkCount: 38
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -770,7 +770,7 @@
       forkCount: 39
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 16
+        totalCount: 15
       watchers:
         totalCount: 24
     - name: XCMetrics
