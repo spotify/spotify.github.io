@@ -16,7 +16,7 @@
         totalCount: 325
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 941
+      stargazerCount: 942
       forkCount: 289
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20306
-      forkCount: 3478
+      stargazerCount: 20315
+      forkCount: 3479
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 359
+        totalCount: 357
       watchers:
         totalCount: 201
     - name: bucket-runner
@@ -567,7 +567,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 16243
-      forkCount: 2354
+      forkCount: 2355
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 79
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3255
+      stargazerCount: 3257
       forkCount: 298
       url: https://github.com/spotify/chartify
       openIssues:
