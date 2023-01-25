@@ -14,6 +14,7 @@
     - url: https://github.com/spotify/NFParam
     - url: https://github.com/spotify/pedalboard
     - url: https://github.com/spotify/NFHTTP
+    
 - config:
     id: cassandra
     name: Cassandra
@@ -22,6 +23,7 @@
     - url: https://github.com/spotify/cassandra-reaper
     - url: https://github.com/spotify/cstar
     - url: https://github.com/spotify/hdfs2cass
+
 - config:
     id: docker
     name: Docker
@@ -33,6 +35,7 @@
     - url: https://github.com/spotify/styx
     - url: https://github.com/spotify/docker_interface
     - url: https://github.com/spotify/dockerfile-mode
+
 - config:
     id: java
     name: Java
@@ -55,6 +58,7 @@
     - url: https://github.com/spotify/spydra
     - url: https://github.com/spotify/styx
     - url: https://github.com/spotify/zoltar
+
 - config:
     id: javascript
     name: JavaScript
@@ -74,19 +78,26 @@
     - url: https://github.com/spotify/web-audio-bench
     - url: https://github.com/spotify/web-scripts
     - url: https://github.com/spotify/web-scripts-library-template
+
 - config:
     id: kotlin
     name: Kotlin
+    icons_html: >
+      <i class="devicon-kotlin-plain"></i>
   projects:
     - url: https://github.com/spotify/ruler
+
 - config:
     id: objective-c
     name: Objective-C
+    icons_html: >
+      <i class="devicon-objectivec-plain"></i>
   projects:
     - url: https://github.com/spotify/ios-style
     - url: https://github.com/spotify/ios-sdk
     - url: https://github.com/spotify/SPTDataLoader
     - url: https://github.com/spotify/SPTPersistentCache
+
 - config:
     id: python
     name: Python
@@ -108,6 +119,7 @@
     - url: https://github.com/spotify/pedalboard
     - url: https://github.com/spotify/confidence
     - url: https://github.com/spotify/postgresql-metrics
+
 - config:
     id: ruby
     name: Ruby
@@ -116,15 +128,19 @@
   projects:
     - url: https://github.com/spotify/moob
     - url: https://github.com/spotify/rspec-dns
+
 - config:
     id: scala
     name: Scala
+    icons_html: >
+      <i class="devicon-scala-plain"></i>
   projects:
     - url: https://github.com/spotify/big-data-rosetta-code
     - url: https://github.com/spotify/featran
     - url: https://github.com/spotify/noether
     - url: https://github.com/spotify/ratatool
     - url: https://github.com/spotify/scio
+
 - config:
     id: swift
     name: Swift

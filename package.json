@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Free and Open Source Software projects by Spotify",
   "dependencies": {
-    "@octokit/graphql": "^4.6.4",
-    "yaml": "^1.10.2"
+    "@octokit/graphql": "^5.0.5",
+    "yaml": "^2.2.1"
   },
   "type": "module",
   "repository": {
