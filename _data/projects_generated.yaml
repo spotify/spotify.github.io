@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10693
+      stargazerCount: 10697
       forkCount: 1067
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3915
+      stargazerCount: 3917
       forkCount: 159
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -175,7 +175,7 @@
         totalCount: 15
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 482
+      stargazerCount: 481
       forkCount: 75
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
@@ -209,7 +209,7 @@
         totalCount: 55
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1643
+      stargazerCount: 1644
       forkCount: 222
       url: https://github.com/spotify/apollo
       openIssues:
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20455
-      forkCount: 3527
+      stargazerCount: 20475
+      forkCount: 3535
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 355
+        totalCount: 358
       watchers:
-        totalCount: 204
+        totalCount: 203
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -493,7 +493,7 @@
         totalCount: 136
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 525
+      stargazerCount: 526
       forkCount: 175
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10693
+      stargazerCount: 10697
       forkCount: 1067
       url: https://github.com/spotify/annoy
       openIssues:
@@ -559,15 +559,15 @@
       forkCount: 186
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
-        totalCount: 29
+        totalCount: 30
       watchers:
         totalCount: 43
     - name: luigi
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16264
-      forkCount: 2353
+      stargazerCount: 16268
+      forkCount: 2354
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 80
@@ -621,7 +621,7 @@
         totalCount: 134
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3259
+      stargazerCount: 3260
       forkCount: 298
       url: https://github.com/spotify/chartify
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3915
+      stargazerCount: 3917
       forkCount: 159
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -652,7 +652,7 @@
       forkCount: 15
       url: https://github.com/spotify/confidence
       openIssues:
-        totalCount: 3
+        totalCount: 2
       watchers:
         totalCount: 13
     - name: postgresql-metrics
