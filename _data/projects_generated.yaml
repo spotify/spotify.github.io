@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10727
-      forkCount: 1070
+      stargazerCount: 10731
+      forkCount: 1071
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 48
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3946
+      stargazerCount: 3952
       forkCount: 161
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2688
+      stargazerCount: 2689
       forkCount: 477
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 113
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2688
+      stargazerCount: 2689
       forkCount: 477
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20612
-      forkCount: 3594
+      stargazerCount: 20614
+      forkCount: 3595
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 361
+        totalCount: 360
       watchers:
         totalCount: 204
     - name: bucket-runner
@@ -411,7 +411,7 @@
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
       stargazerCount: 533
-      forkCount: 56
+      forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
         totalCount: 7
@@ -528,8 +528,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10727
-      forkCount: 1070
+      stargazerCount: 10731
+      forkCount: 1071
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 48
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16292
+      stargazerCount: 16294
       forkCount: 2354
       url: https://github.com/spotify/luigi
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3946
+      stargazerCount: 3952
       forkCount: 161
       url: https://github.com/spotify/pedalboard
       openIssues:
