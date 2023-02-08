@@ -71,8 +71,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3961
-      forkCount: 162
+      stargazerCount: 3965
+      forkCount: 163
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 14
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2689
+      stargazerCount: 2690
       forkCount: 477
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -206,7 +206,7 @@
       openIssues:
         totalCount: 135
       watchers:
-        totalCount: 57
+        totalCount: 58
     - name: apollo
       description: Java libraries for writing composable microservices
       stargazerCount: 1647
@@ -218,7 +218,7 @@
         totalCount: 128
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 342
+      stargazerCount: 343
       forkCount: 46
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 113
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2689
+      stargazerCount: 2690
       forkCount: 477
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -344,13 +344,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20643
-      forkCount: 3601
+      stargazerCount: 20668
+      forkCount: 3603
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 355
+        totalCount: 354
       watchers:
-        totalCount: 205
+        totalCount: 206
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 21
@@ -397,7 +397,7 @@
       openIssues:
         totalCount: 14
       watchers:
-        totalCount: 14
+        totalCount: 13
     - name: polly-jest-presets
       description: null
       stargazerCount: 62
@@ -512,7 +512,7 @@
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
-      stargazerCount: 1246
+      stargazerCount: 1245
       forkCount: 82
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
@@ -556,7 +556,7 @@
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
       stargazerCount: 1551
-      forkCount: 188
+      forkCount: 187
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
         totalCount: 30
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16297
+      stargazerCount: 16298
       forkCount: 2354
       url: https://github.com/spotify/luigi
       openIssues:
@@ -639,8 +639,8 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3961
-      forkCount: 162
+      stargazerCount: 3965
+      forkCount: 163
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 14
@@ -732,7 +732,7 @@
         totalCount: 35
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2425
+      stargazerCount: 2427
       forkCount: 493
       url: https://github.com/spotify/scio
       openIssues:
@@ -777,7 +777,7 @@
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
       stargazerCount: 998
-      forkCount: 65
+      forkCount: 66
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 7
