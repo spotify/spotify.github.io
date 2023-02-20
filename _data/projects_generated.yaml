@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3986
+      stargazerCount: 3988
       forkCount: 166
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20806
-      forkCount: 3664
+      stargazerCount: 20811
+      forkCount: 3663
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 361
+        totalCount: 362
       watchers:
         totalCount: 206
     - name: bucket-runner
@@ -471,7 +471,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 921
+      stargazerCount: 922
       forkCount: 44
       url: https://github.com/spotify/ruler
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16330
+      stargazerCount: 16331
       forkCount: 2356
       url: https://github.com/spotify/luigi
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 3986
+      stargazerCount: 3988
       forkCount: 166
       url: https://github.com/spotify/pedalboard
       openIssues:
