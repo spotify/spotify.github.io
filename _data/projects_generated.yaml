@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10812
+      stargazerCount: 10820
       forkCount: 1074
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4019
+      stargazerCount: 4022
       forkCount: 167
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -344,11 +344,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 20883
+      stargazerCount: 20887
       forkCount: 3696
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 361
+        totalCount: 360
       watchers:
         totalCount: 206
     - name: bucket-runner
@@ -497,7 +497,7 @@
       forkCount: 176
       url: https://github.com/spotify/ios-sdk
       openIssues:
-        totalCount: 179
+        totalCount: 180
       watchers:
         totalCount: 55
     - name: SPTDataLoader
@@ -528,7 +528,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 10812
+      stargazerCount: 10820
       forkCount: 1074
       url: https://github.com/spotify/annoy
       openIssues:
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16345
+      stargazerCount: 16346
       forkCount: 2356
       url: https://github.com/spotify/luigi
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 88
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 761
+      stargazerCount: 762
       forkCount: 49
       url: https://github.com/spotify/klio
       openIssues:
@@ -639,7 +639,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4019
+      stargazerCount: 4022
       forkCount: 167
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -695,7 +695,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 279
+      stargazerCount: 278
       forkCount: 34
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
