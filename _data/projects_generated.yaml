@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11125
-      forkCount: 1088
+      stargazerCount: 11133
+      forkCount: 1089
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 48
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4120
+      stargazerCount: 4121
       forkCount: 182
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2696
+      stargazerCount: 2697
       forkCount: 488
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -209,7 +209,7 @@
         totalCount: 59
     - name: apollo
       description: Java libraries for writing composable microservices
-      stargazerCount: 1649
+      stargazerCount: 1650
       forkCount: 221
       url: https://github.com/spotify/apollo
       openIssues:
@@ -227,7 +227,7 @@
         totalCount: 110
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2696
+      stargazerCount: 2697
       forkCount: 488
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -263,7 +263,7 @@
         totalCount: 26
     - name: helios
       description: Docker container orchestration platform
-      stargazerCount: 2095
+      stargazerCount: 2094
       forkCount: 251
       url: https://github.com/spotify/helios
       openIssues:
@@ -291,7 +291,7 @@
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
       stargazerCount: 136
-      forkCount: 26
+      forkCount: 27
       url: https://github.com/spotify/missinglink
       openIssues:
         totalCount: 17
@@ -344,8 +344,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 21464
-      forkCount: 3929
+      stargazerCount: 21476
+      forkCount: 3930
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 357
@@ -528,8 +528,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11125
-      forkCount: 1088
+      stargazerCount: 11133
+      forkCount: 1089
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 48
@@ -566,7 +566,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16471
+      stargazerCount: 16472
       forkCount: 2368
       url: https://github.com/spotify/luigi
       openIssues:
@@ -621,8 +621,8 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3315
-      forkCount: 302
+      stargazerCount: 3316
+      forkCount: 303
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 42
@@ -639,7 +639,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4120
+      stargazerCount: 4121
       forkCount: 182
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -658,7 +658,7 @@
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
       stargazerCount: 573
-      forkCount: 51
+      forkCount: 52
       url: https://github.com/spotify/postgresql-metrics
       openIssues:
         totalCount: 2
