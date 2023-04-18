@@ -43,6 +43,7 @@
     - url: https://github.com/spotify/android-sdk
     - url: https://github.com/spotify/apollo
     - url: https://github.com/spotify/completable-futures
+    - url: https://github.com/spotify/dbeam
     - url: https://github.com/spotify/dockerfile-maven
     - url: https://github.com/spotify/ffwd
     - url: https://github.com/spotify/folsom
