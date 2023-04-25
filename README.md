@@ -4,31 +4,31 @@
   <img src="https://user-images.githubusercontent.com/8904624/127524940-37bd6001-647d-40ac-86ec-bb22d1a100c8.gif">
 </p>
 
-Showcase site for hand-picked open-source projects by Spotify. It is built using Jekyll & GitHub Actions with a node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
+Showcase site for hand-picked open-source projects by Spotify. It is built using Jekyll & GitHub Actions with a Node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
 
 ## Development
 
 **Install Jekyll & bundler gems**
 
-```
+```sh
 gem install jekyll bundler
 ```
 
 **Install yarn**
 
-```
+```sh
 npm install --global yarn
 ```
 
 **Install dependencies** inside of the project folder
 
-```
+```sh
 yarn & bundle install
 ```
 
 **Build & serve**
 
-```
+```sh
 bundle exec jekyll serve
 ```
 
@@ -36,7 +36,7 @@ bundle exec jekyll serve
 
 [Create a personal GitHub Access Token](https://github.com/settings/tokens) to fetch & update the repository data locally. As the data is updated automatically using GitHub Actions `_data/projects_generated.yaml` should not be added to Git.
 
-```
+```sh
 GH_TOKEN=YOUR_TOKEN node ./scripts/nightly.js
 ```
 
