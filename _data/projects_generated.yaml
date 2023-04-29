@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11211
-      forkCount: 1092
+      stargazerCount: 11219
+      forkCount: 1093
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4148
+      stargazerCount: 4149
       forkCount: 183
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2696
+      stargazerCount: 2697
       forkCount: 490
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -200,7 +200,7 @@
         totalCount: 32
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 412
+      stargazerCount: 413
       forkCount: 121
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -236,7 +236,7 @@
         totalCount: 19
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2696
+      stargazerCount: 2697
       forkCount: 490
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -309,7 +309,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1150
+      stargazerCount: 1149
       forkCount: 84
       url: https://github.com/spotify/mobius
       openIssues:
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 21651
-      forkCount: 3981
+      stargazerCount: 21664
+      forkCount: 3986
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 349
+        totalCount: 348
       watchers:
         totalCount: 212
     - name: bucket-runner
@@ -537,8 +537,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11211
-      forkCount: 1092
+      stargazerCount: 11219
+      forkCount: 1093
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16501
+      stargazerCount: 16503
       forkCount: 2370
       url: https://github.com/spotify/luigi
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3318
+      stargazerCount: 3319
       forkCount: 303
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4148
+      stargazerCount: 4149
       forkCount: 183
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -704,7 +704,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 280
+      stargazerCount: 281
       forkCount: 35
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -742,7 +742,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2452
-      forkCount: 499
+      forkCount: 500
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 114
