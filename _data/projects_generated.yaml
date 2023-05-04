@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11245
+      stargazerCount: 11253
       forkCount: 1096
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4153
+      stargazerCount: 4156
       forkCount: 183
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -156,8 +156,8 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 265
-      forkCount: 56
+      stargazerCount: 266
+      forkCount: 57
       url: https://github.com/spotify/styx
       openIssues:
         totalCount: 4
@@ -328,8 +328,8 @@
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
-      stargazerCount: 265
-      forkCount: 56
+      stargazerCount: 266
+      forkCount: 57
       url: https://github.com/spotify/styx
       openIssues:
         totalCount: 4
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 21696
-      forkCount: 3998
+      stargazerCount: 21711
+      forkCount: 4003
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 345
+        totalCount: 351
       watchers:
         totalCount: 214
     - name: bucket-runner
@@ -502,7 +502,7 @@
         totalCount: 133
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 545
+      stargazerCount: 547
       forkCount: 178
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -537,7 +537,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11245
+      stargazerCount: 11253
       forkCount: 1096
       url: https://github.com/spotify/annoy
       openIssues:
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16510
+      stargazerCount: 16517
       forkCount: 2371
       url: https://github.com/spotify/luigi
       openIssues:
@@ -612,7 +612,7 @@
         totalCount: 116
     - name: ramlfications
       description: Python parser for RAML
-      stargazerCount: 235
+      stargazerCount: 236
       forkCount: 51
       url: https://github.com/jdiegodcp/ramlfications
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3320
+      stargazerCount: 3321
       forkCount: 303
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4153
+      stargazerCount: 4156
       forkCount: 183
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -741,11 +741,11 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2452
+      stargazerCount: 2451
       forkCount: 500
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 114
+        totalCount: 116
       watchers:
         totalCount: 120
 - config:
@@ -779,7 +779,7 @@
       forkCount: 43
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
-        totalCount: 17
+        totalCount: 18
       watchers:
         totalCount: 24
     - name: XCMetrics
