@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11334
+      stargazerCount: 11341
       forkCount: 1096
       url: https://github.com/spotify/annoy
       openIssues:
@@ -26,7 +26,7 @@
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
       stargazerCount: 388
-      forkCount: 95
+      forkCount: 96
       url: https://github.com/spotify/echoprint-server
       openIssues:
         totalCount: 10
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4176
+      stargazerCount: 4179
       forkCount: 186
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -219,7 +219,7 @@
     - name: completable-futures
       description: Utilities for working with futures in Java 8
       stargazerCount: 353
-      forkCount: 50
+      forkCount: 51
       url: https://github.com/spotify/completable-futures
       openIssues:
         totalCount: 3
@@ -282,7 +282,7 @@
     - name: heroic
       description: The Heroic Time Series Database
       stargazerCount: 844
-      forkCount: 110
+      forkCount: 111
       url: https://github.com/spotify/heroic
       openIssues:
         totalCount: 67
@@ -309,8 +309,8 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1152
-      forkCount: 84
+      stargazerCount: 1153
+      forkCount: 83
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 3
@@ -339,7 +339,7 @@
       description: Common library for serving TensorFlow, XGBoost and scikit-learn
         models in production.
       stargazerCount: 142
-      forkCount: 38
+      forkCount: 39
       url: https://github.com/spotify/zoltar
       openIssues:
         totalCount: 17
@@ -353,13 +353,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 21915
-      forkCount: 4065
+      stargazerCount: 21925
+      forkCount: 4069
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 347
+        totalCount: 355
       watchers:
-        totalCount: 215
+        totalCount: 214
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 20
@@ -371,7 +371,7 @@
         totalCount: 12
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
-      stargazerCount: 275
+      stargazerCount: 276
       forkCount: 24
       url: https://github.com/spotify/coordinator
       openIssues:
@@ -502,7 +502,7 @@
         totalCount: 134
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 552
+      stargazerCount: 553
       forkCount: 178
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -537,7 +537,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11334
+      stargazerCount: 11341
       forkCount: 1096
       url: https://github.com/spotify/annoy
       openIssues:
@@ -575,13 +575,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16543
-      forkCount: 2372
+      stargazerCount: 16545
+      forkCount: 2373
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 88
       watchers:
-        totalCount: 484
+        totalCount: 483
     - name: pyeos
       description: null
       stargazerCount: 16
@@ -622,7 +622,7 @@
     - name: snakebite
       description: A pure python HDFS client
       stargazerCount: 863
-      forkCount: 221
+      forkCount: 222
       url: https://github.com/spotify/snakebite
       openIssues:
         totalCount: 58
@@ -630,7 +630,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3332
+      stargazerCount: 3333
       forkCount: 304
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4176
+      stargazerCount: 4179
       forkCount: 186
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -775,7 +775,7 @@
         totalCount: 32
     - name: XCRemoteCache
       description: null
-      stargazerCount: 774
+      stargazerCount: 775
       forkCount: 43
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
@@ -785,7 +785,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1024
+      stargazerCount: 1025
       forkCount: 69
       url: https://github.com/spotify/XCMetrics
       openIssues:
