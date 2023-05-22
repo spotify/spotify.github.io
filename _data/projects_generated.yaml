@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11345
+      stargazerCount: 11349
       forkCount: 1095
       url: https://github.com/spotify/annoy
       openIssues:
@@ -16,7 +16,7 @@
         totalCount: 317
     - name: echoprint-codegen
       description: Codegen for Echoprint
-      stargazerCount: 944
+      stargazerCount: 945
       forkCount: 288
       url: https://github.com/spotify/echoprint-codegen
       openIssues:
@@ -25,7 +25,7 @@
         totalCount: 117
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
-      stargazerCount: 388
+      stargazerCount: 389
       forkCount: 96
       url: https://github.com/spotify/echoprint-server
       openIssues:
@@ -72,10 +72,10 @@
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
       stargazerCount: 4179
-      forkCount: 186
+      forkCount: 187
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 16
+        totalCount: 17
       watchers:
         totalCount: 55
     - name: NFHTTP
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 21935
-      forkCount: 4073
+      stargazerCount: 21942
+      forkCount: 4076
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 355
+        totalCount: 352
       watchers:
         totalCount: 214
     - name: bucket-runner
@@ -419,7 +419,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 535
+      stargazerCount: 536
       forkCount: 56
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -503,7 +503,7 @@
     - name: ios-sdk
       description: Spotify SDK for iOS
       stargazerCount: 553
-      forkCount: 178
+      forkCount: 177
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 182
@@ -537,7 +537,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11345
+      stargazerCount: 11349
       forkCount: 1095
       url: https://github.com/spotify/annoy
       openIssues:
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16546
+      stargazerCount: 16547
       forkCount: 2373
       url: https://github.com/spotify/luigi
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3333
+      stargazerCount: 3335
       forkCount: 304
       url: https://github.com/spotify/chartify
       openIssues:
@@ -649,10 +649,10 @@
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
       stargazerCount: 4179
-      forkCount: 186
+      forkCount: 187
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 16
+        totalCount: 17
       watchers:
         totalCount: 55
     - name: confidence
@@ -775,7 +775,7 @@
         totalCount: 32
     - name: XCRemoteCache
       description: null
-      stargazerCount: 776
+      stargazerCount: 777
       forkCount: 43
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
