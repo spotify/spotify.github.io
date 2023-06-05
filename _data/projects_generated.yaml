@@ -7,13 +7,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11419
+      stargazerCount: 11424
       forkCount: 1099
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
       watchers:
-        totalCount: 317
+        totalCount: 318
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 945
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4208
+      stargazerCount: 4209
       forkCount: 189
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -353,8 +353,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22123
-      forkCount: 4134
+      stargazerCount: 22128
+      forkCount: 4136
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 362
@@ -419,7 +419,7 @@
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 536
+      stargazerCount: 537
       forkCount: 56
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -458,7 +458,7 @@
       description: A collection of base configs and CLI wrappers used to speed up
         development @ Spotify.
       stargazerCount: 366
-      forkCount: 69
+      forkCount: 68
       url: https://github.com/spotify/web-scripts
       openIssues:
         totalCount: 8
@@ -480,7 +480,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 946
+      stargazerCount: 947
       forkCount: 48
       url: https://github.com/spotify/ruler
       openIssues:
@@ -537,13 +537,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11419
+      stargazerCount: 11424
       forkCount: 1099
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
       watchers:
-        totalCount: 317
+        totalCount: 318
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 116
@@ -575,8 +575,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16561
-      forkCount: 2373
+      stargazerCount: 16560
+      forkCount: 2372
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 88
@@ -639,7 +639,7 @@
         totalCount: 87
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 781
+      stargazerCount: 782
       forkCount: 50
       url: https://github.com/spotify/klio
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4208
+      stargazerCount: 4209
       forkCount: 189
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -666,7 +666,7 @@
         totalCount: 14
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
-      stargazerCount: 573
+      stargazerCount: 574
       forkCount: 54
       url: https://github.com/spotify/postgresql-metrics
       openIssues:
@@ -757,7 +757,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 497
+      stargazerCount: 498
       forkCount: 42
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -798,7 +798,7 @@
   projects:
     - name: git-test
       description: test your commits
-      stargazerCount: 199
+      stargazerCount: 200
       forkCount: 45
       url: https://github.com/spotify/git-test
       openIssues:
