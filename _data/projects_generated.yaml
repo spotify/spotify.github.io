@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11424
+      stargazerCount: 11429
       forkCount: 1099
       url: https://github.com/spotify/annoy
       openIssues:
@@ -309,7 +309,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1152
+      stargazerCount: 1153
       forkCount: 84
       url: https://github.com/spotify/mobius
       openIssues:
@@ -353,13 +353,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22128
-      forkCount: 4136
+      stargazerCount: 22145
+      forkCount: 4139
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 359
       watchers:
-        totalCount: 217
+        totalCount: 216
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 20
@@ -502,7 +502,7 @@
         totalCount: 134
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 555
+      stargazerCount: 556
       forkCount: 177
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -537,7 +537,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11424
+      stargazerCount: 11429
       forkCount: 1099
       url: https://github.com/spotify/annoy
       openIssues:
@@ -570,13 +570,13 @@
       openIssues:
         totalCount: 31
       watchers:
-        totalCount: 43
+        totalCount: 42
     - name: luigi
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16560
-      forkCount: 2372
+      stargazerCount: 16561
+      forkCount: 2371
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 88
@@ -741,7 +741,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2452
+      stargazerCount: 2453
       forkCount: 501
       url: https://github.com/spotify/scio
       openIssues:
