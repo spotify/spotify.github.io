@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11474
+      stargazerCount: 11480
       forkCount: 1099
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,11 +71,11 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4241
+      stargazerCount: 4249
       forkCount: 191
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 15
+        totalCount: 16
       watchers:
         totalCount: 56
     - name: NFHTTP
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22288
-      forkCount: 4180
+      stargazerCount: 22308
+      forkCount: 4187
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 367
+        totalCount: 374
       watchers:
         totalCount: 216
     - name: bucket-runner
@@ -537,7 +537,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11474
+      stargazerCount: 11480
       forkCount: 1099
       url: https://github.com/spotify/annoy
       openIssues:
@@ -564,7 +564,7 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1566
+      stargazerCount: 1567
       forkCount: 189
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16581
+      stargazerCount: 16582
       forkCount: 2374
       url: https://github.com/spotify/luigi
       openIssues:
@@ -648,11 +648,11 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4241
+      stargazerCount: 4249
       forkCount: 191
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 15
+        totalCount: 16
       watchers:
         totalCount: 56
     - name: confidence
@@ -741,7 +741,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2459
+      stargazerCount: 2461
       forkCount: 500
       url: https://github.com/spotify/scio
       openIssues:
