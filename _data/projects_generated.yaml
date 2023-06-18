@@ -34,7 +34,7 @@
         totalCount: 30
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 567
+      stargazerCount: 566
       forkCount: 108
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4249
+      stargazerCount: 4254
       forkCount: 191
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -290,7 +290,7 @@
         totalCount: 61
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 567
+      stargazerCount: 566
       forkCount: 108
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22308
-      forkCount: 4187
+      stargazerCount: 22320
+      forkCount: 4188
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 374
+        totalCount: 372
       watchers:
         totalCount: 216
     - name: bucket-runner
@@ -458,7 +458,7 @@
       description: A collection of base configs and CLI wrappers used to speed up
         development @ Spotify.
       stargazerCount: 366
-      forkCount: 68
+      forkCount: 69
       url: https://github.com/spotify/web-scripts
       openIssues:
         totalCount: 8
@@ -576,7 +576,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 16582
-      forkCount: 2374
+      forkCount: 2375
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 89
@@ -630,7 +630,7 @@
         totalCount: 132
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3349
+      stargazerCount: 3350
       forkCount: 305
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4249
+      stargazerCount: 4254
       forkCount: 191
       url: https://github.com/spotify/pedalboard
       openIssues:
