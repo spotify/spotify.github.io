@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11482
-      forkCount: 1099
+      stargazerCount: 11487
+      forkCount: 1100
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4257
+      stargazerCount: 4260
       forkCount: 191
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -353,13 +353,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22325
-      forkCount: 4189
+      stargazerCount: 22343
+      forkCount: 4197
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 370
+        totalCount: 365
       watchers:
-        totalCount: 216
+        totalCount: 217
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 19
@@ -502,7 +502,7 @@
         totalCount: 134
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 557
+      stargazerCount: 559
       forkCount: 178
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -537,8 +537,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11482
-      forkCount: 1099
+      stargazerCount: 11487
+      forkCount: 1100
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16585
+      stargazerCount: 16587
       forkCount: 2375
       url: https://github.com/spotify/luigi
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4257
+      stargazerCount: 4260
       forkCount: 191
       url: https://github.com/spotify/pedalboard
       openIssues:
