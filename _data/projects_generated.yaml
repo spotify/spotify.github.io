@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11532
+      stargazerCount: 11536
       forkCount: 1105
       url: https://github.com/spotify/annoy
       openIssues:
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4291
+      stargazerCount: 4292
       forkCount: 192
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -152,7 +152,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 135
+        totalCount: 134
     - name: styx
       description: '"The path to execution", Styx is a service that schedules batch
         data processing jobs in Docker containers on Kubernetes.'
@@ -242,7 +242,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 135
+        totalCount: 134
     - name: ffwd
       description: a flexible metric forwarding agent
       stargazerCount: 78
@@ -309,13 +309,13 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1161
+      stargazerCount: 1160
       forkCount: 84
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 3
       watchers:
-        totalCount: 48
+        totalCount: 47
     - name: spydra
       description: Ephemeral Hadoop clusters using Google Compute Platform
       stargazerCount: 132
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22459
-      forkCount: 4247
+      stargazerCount: 22465
+      forkCount: 4248
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 388
+        totalCount: 387
       watchers:
         totalCount: 218
     - name: bucket-runner
@@ -390,7 +390,7 @@
     - name: NFGrapher
       description: Implementation and spec for the Native Format Score Library
       stargazerCount: 15
-      forkCount: 9
+      forkCount: 10
       url: https://github.com/nativeformat/NFGrapher
       openIssues:
         totalCount: 1
@@ -537,7 +537,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11532
+      stargazerCount: 11536
       forkCount: 1105
       url: https://github.com/spotify/annoy
       openIssues:
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16608
+      stargazerCount: 16609
       forkCount: 2376
       url: https://github.com/spotify/luigi
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4291
+      stargazerCount: 4292
       forkCount: 192
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -741,7 +741,7 @@
         totalCount: 34
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2462
+      stargazerCount: 2463
       forkCount: 500
       url: https://github.com/spotify/scio
       openIssues:
@@ -785,7 +785,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1026
+      stargazerCount: 1027
       forkCount: 69
       url: https://github.com/spotify/XCMetrics
       openIssues:
