@@ -7,13 +7,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11585
+      stargazerCount: 11592
       forkCount: 1109
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
       watchers:
-        totalCount: 320
+        totalCount: 319
     - name: echoprint-codegen
       description: Codegen for Echoprint
       stargazerCount: 946
@@ -71,8 +71,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4315
-      forkCount: 195
+      stargazerCount: 4316
+      forkCount: 194
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 17
@@ -181,7 +181,7 @@
       openIssues:
         totalCount: 9
       watchers:
-        totalCount: 22
+        totalCount: 21
 - config:
     id: java
     name: Java
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22570
-      forkCount: 4273
+      stargazerCount: 22586
+      forkCount: 4276
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 391
+        totalCount: 389
       watchers:
         totalCount: 219
     - name: bucket-runner
@@ -371,7 +371,7 @@
         totalCount: 12
     - name: coordinator
       description: A visual interface for turning an SVG into XY coördinates.
-      stargazerCount: 277
+      stargazerCount: 278
       forkCount: 23
       url: https://github.com/spotify/coordinator
       openIssues:
@@ -480,7 +480,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1037
+      stargazerCount: 1038
       forkCount: 50
       url: https://github.com/spotify/ruler
       openIssues:
@@ -537,13 +537,13 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11585
+      stargazerCount: 11592
       forkCount: 1109
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
       watchers:
-        totalCount: 320
+        totalCount: 319
     - name: crtauth
       description: a public key backed client/server authentication system
       stargazerCount: 117
@@ -564,19 +564,19 @@
         totalCount: 23
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1570
-      forkCount: 190
+      stargazerCount: 1571
+      forkCount: 191
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
         totalCount: 32
       watchers:
-        totalCount: 42
+        totalCount: 43
     - name: luigi
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16635
-      forkCount: 2378
+      stargazerCount: 16639
+      forkCount: 2377
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 90
@@ -639,7 +639,7 @@
         totalCount: 87
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 792
+      stargazerCount: 793
       forkCount: 51
       url: https://github.com/spotify/klio
       openIssues:
@@ -648,8 +648,8 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4315
-      forkCount: 195
+      stargazerCount: 4316
+      forkCount: 194
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 17
@@ -729,7 +729,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 26
+        totalCount: 25
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
       stargazerCount: 330
@@ -738,7 +738,7 @@
       openIssues:
         totalCount: 19
       watchers:
-        totalCount: 34
+        totalCount: 33
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2466
