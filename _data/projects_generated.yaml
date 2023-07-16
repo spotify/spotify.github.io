@@ -25,7 +25,7 @@
         totalCount: 117
     - name: echoprint-server
       description: Server for the Echoprint audio fingerprint system
-      stargazerCount: 391
+      stargazerCount: 392
       forkCount: 96
       url: https://github.com/spotify/echoprint-server
       openIssues:
@@ -34,7 +34,7 @@
         totalCount: 30
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 571
+      stargazerCount: 572
       forkCount: 108
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -71,11 +71,11 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4318
+      stargazerCount: 4320
       forkCount: 195
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 18
+        totalCount: 17
       watchers:
         totalCount: 53
     - name: NFHTTP
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2704
+      stargazerCount: 2705
       forkCount: 488
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -236,7 +236,7 @@
         totalCount: 19
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2704
+      stargazerCount: 2705
       forkCount: 488
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -272,7 +272,7 @@
         totalCount: 24
     - name: helios
       description: Docker container orchestration platform
-      stargazerCount: 2096
+      stargazerCount: 2097
       forkCount: 251
       url: https://github.com/spotify/helios
       openIssues:
@@ -290,7 +290,7 @@
         totalCount: 60
     - name: JniHelpers
       description: Tools for writing great JNI code
-      stargazerCount: 571
+      stargazerCount: 572
       forkCount: 108
       url: https://github.com/spotify/JniHelpers
       openIssues:
@@ -353,11 +353,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22602
-      forkCount: 4285
+      stargazerCount: 22608
+      forkCount: 4288
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 385
+        totalCount: 384
       watchers:
         totalCount: 219
     - name: bucket-runner
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16645
+      stargazerCount: 16648
       forkCount: 2376
       url: https://github.com/spotify/luigi
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 131
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3366
+      stargazerCount: 3367
       forkCount: 306
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,11 +648,11 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4318
+      stargazerCount: 4320
       forkCount: 195
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 18
+        totalCount: 17
       watchers:
         totalCount: 53
     - name: confidence
