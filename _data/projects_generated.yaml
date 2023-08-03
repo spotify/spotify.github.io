@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11691
-      forkCount: 1112
+      stargazerCount: 11697
+      forkCount: 1113
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
@@ -71,7 +71,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4347
+      stargazerCount: 4348
       forkCount: 198
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -146,7 +146,7 @@
         totalCount: 15
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2706
+      stargazerCount: 2707
       forkCount: 488
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -200,13 +200,13 @@
         totalCount: 34
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 421
-      forkCount: 120
+      stargazerCount: 422
+      forkCount: 122
       url: https://github.com/spotify/android-sdk
       openIssues:
         totalCount: 138
       watchers:
-        totalCount: 61
+        totalCount: 62
     - name: apollo
       description: Java libraries for writing composable microservices
       stargazerCount: 1652
@@ -236,7 +236,7 @@
         totalCount: 19
     - name: dockerfile-maven
       description: "MATURE: A set of Maven tools for dealing with Dockerfiles"
-      stargazerCount: 2706
+      stargazerCount: 2707
       forkCount: 488
       url: https://github.com/spotify/dockerfile-maven
       openIssues:
@@ -353,13 +353,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22752
-      forkCount: 4329
+      stargazerCount: 22758
+      forkCount: 4337
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 412
+        totalCount: 416
       watchers:
-        totalCount: 220
+        totalCount: 221
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 19
@@ -537,8 +537,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11691
-      forkCount: 1112
+      stargazerCount: 11697
+      forkCount: 1113
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 49
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16687
+      stargazerCount: 16692
       forkCount: 2374
       url: https://github.com/spotify/luigi
       openIssues:
@@ -631,7 +631,7 @@
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
       stargazerCount: 3373
-      forkCount: 307
+      forkCount: 308
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 43
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4347
+      stargazerCount: 4348
       forkCount: 198
       url: https://github.com/spotify/pedalboard
       openIssues:
