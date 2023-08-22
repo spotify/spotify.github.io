@@ -7,11 +7,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11774
-      forkCount: 1119
+      stargazerCount: 11780
+      forkCount: 1120
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 49
+        totalCount: 48
       watchers:
         totalCount: 319
     - name: echoprint-codegen
@@ -71,7 +71,7 @@
         totalCount: 15
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4389
+      stargazerCount: 4394
       forkCount: 200
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -192,7 +192,7 @@
       description: Spotify authentication and authorization for Android. Part of the
         Spotify Android SDK.
       stargazerCount: 137
-      forkCount: 68
+      forkCount: 67
       url: https://github.com/spotify/android-auth
       openIssues:
         totalCount: 0
@@ -204,7 +204,7 @@
       forkCount: 122
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 140
+        totalCount: 141
       watchers:
         totalCount: 60
     - name: apollo
@@ -353,13 +353,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 22934
-      forkCount: 4389
+      stargazerCount: 22942
+      forkCount: 4390
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 411
+        totalCount: 403
       watchers:
-        totalCount: 220
+        totalCount: 221
     - name: bucket-runner
       description: Run a command in parallel, distributing the input files to each.
       stargazerCount: 19
@@ -400,7 +400,7 @@
       description: A JavaScript/TypeScript audio engine for the Web and Server capable
         of multitrack time stretching, pitch shifting, declarative effects,
         faster than realtime processing, and more!
-      stargazerCount: 125
+      stargazerCount: 126
       forkCount: 9
       url: https://github.com/nativeformat/NFPlayerJS
       openIssues:
@@ -480,7 +480,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1052
+      stargazerCount: 1056
       forkCount: 49
       url: https://github.com/spotify/ruler
       openIssues:
@@ -502,7 +502,7 @@
         totalCount: 132
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 572
+      stargazerCount: 573
       forkCount: 181
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -537,11 +537,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 11774
-      forkCount: 1119
+      stargazerCount: 11780
+      forkCount: 1120
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 49
+        totalCount: 48
       watchers:
         totalCount: 319
     - name: crtauth
@@ -575,7 +575,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16726
+      stargazerCount: 16731
       forkCount: 2375
       url: https://github.com/spotify/luigi
       openIssues:
@@ -630,7 +630,7 @@
         totalCount: 130
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3376
+      stargazerCount: 3377
       forkCount: 306
       url: https://github.com/spotify/chartify
       openIssues:
@@ -648,7 +648,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4389
+      stargazerCount: 4394
       forkCount: 200
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -658,7 +658,7 @@
     - name: confidence
       description: null
       stargazerCount: 199
-      forkCount: 24
+      forkCount: 23
       url: https://github.com/spotify/confidence
       openIssues:
         totalCount: 7
@@ -681,7 +681,7 @@
   projects:
     - name: moob
       description: Control systems using Web-based out-of-band managers without a browser
-      stargazerCount: 84
+      stargazerCount: 83
       forkCount: 22
       url: https://github.com/spotify/moob
       openIssues:
@@ -732,7 +732,7 @@
         totalCount: 24
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 331
+      stargazerCount: 332
       forkCount: 61
       url: https://github.com/spotify/ratatool
       openIssues:
