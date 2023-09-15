@@ -88,7 +88,6 @@
     - url: https://github.com/spotify/chartify
     - url: https://github.com/spotify/klio
     - url: https://github.com/spotify/pedalboard
-    - url: https://github.com/spotify/confidence
     - url: https://github.com/spotify/postgresql-metrics
     - url: https://github.com/spotify/sparkey-python
 - config:
