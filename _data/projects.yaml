@@ -6,33 +6,10 @@
       <i class="devicon-c-plain"></i>
   projects:
     - url: https://github.com/spotify/annoy
-    - url: https://github.com/spotify/echoprint-codegen
-    - url: https://github.com/spotify/echoprint-server
-    - url: https://github.com/spotify/JniHelpers
+    - url: https://github.com/spotify/sparkey
     - url: https://github.com/spotify/spotify-json
-    - url: https://github.com/spotify/NFDriver
-    - url: https://github.com/spotify/NFParam
     - url: https://github.com/spotify/pedalboard
-    - url: https://github.com/spotify/NFHTTP
-- config:
-    id: cassandra
-    name: Cassandra
-  projects:
-    - url: https://github.com/spotify/cassandra-opstools
-    - url: https://github.com/spotify/cassandra-reaper
-    - url: https://github.com/spotify/cstar
-    - url: https://github.com/spotify/hdfs2cass
-- config:
-    id: docker
-    name: Docker
-    icons_html: >
-      <i class="devicon-docker-plain"></i>
-  projects:
-    - url: https://github.com/spotify/docker-bigtable
-    - url: https://github.com/spotify/dockerfile-maven
-    - url: https://github.com/spotify/styx
-    - url: https://github.com/spotify/docker_interface
-    - url: https://github.com/spotify/dockerfile-mode
+    - url: https://github.com/spotify/voyager
 - config:
     id: java
     name: Java
@@ -41,40 +18,38 @@
   projects:
     - url: https://github.com/spotify/android-auth
     - url: https://github.com/spotify/android-sdk
-    - url: https://github.com/spotify/apollo
     - url: https://github.com/spotify/completable-futures
     - url: https://github.com/spotify/dbeam
-    - url: https://github.com/spotify/dockerfile-maven
-    - url: https://github.com/spotify/ffwd
     - url: https://github.com/spotify/folsom
     - url: https://github.com/spotify/futures-extra
-    - url: https://github.com/spotify/helios
-    - url: https://github.com/spotify/heroic
-    - url: https://github.com/spotify/JniHelpers
     - url: https://github.com/spotify/missinglink
     - url: https://github.com/spotify/mobius
-    - url: https://github.com/spotify/spydra
-    - url: https://github.com/spotify/styx
     - url: https://github.com/spotify/zoltar
+    - url: https://github.com/spotify/github-java-client
+    - url: https://github.com/spotify/dataenum
+    - url: https://github.com/spotify/futuristic-feline
+    - url: https://github.com/spotify/logging-java
+    - url: https://github.com/spotify/java-hamcrest
+    - url: https://github.com/spotify/fmt-maven-plugin
+    - url: https://github.com/spotify/dns-java
+    - url: https://github.com/spotify/semantic-metrics
+    - url: https://github.com/spotify/Vandelay
 - config:
     id: javascript
-    name: JavaScript
+    name: TypeScript / JavaScript
     icons_html: >
       <i class="devicon-javascript-plain"></i>
   projects:
     - url: https://github.com/backstage/backstage
-    - url: https://github.com/spotify/bucket-runner
-    - url: https://github.com/spotify/coordinator
-    - url: https://github.com/spotify/lingon
-    - url: https://github.com/spotify/NFGrapher
-    - url: https://github.com/spotify/NFPlayerJS
-    - url: https://github.com/spotify/polly-jest-presets
     - url: https://github.com/spotify/reactochart
-    - url: https://github.com/spotify/redux-location-state
-    - url: https://github.com/spotify/ts-interface-loader
-    - url: https://github.com/spotify/web-audio-bench
     - url: https://github.com/spotify/web-scripts
-    - url: https://github.com/spotify/web-scripts-library-template
+    - url: https://github.com/spotify/should-up
+    - url: https://github.com/spotify/spotify-web-api-ts-sdk
+    - url: https://github.com/spotify/confidence-openfeature-provider-js
+    - url: https://github.com/spotify/lighthouse-audit-service
+    - url: https://github.com/spotify/basic-pitch-ts
+    - url: https://github.com/spotify/soa-reference-integration
+    - url: https://github.com/spotify/web-api-examples
 - config:
     id: kotlin
     name: Kotlin
@@ -82,14 +57,16 @@
       <i class="devicon-kotlin-plain"></i>
   projects:
     - url: https://github.com/spotify/ruler
+    - url: https://github.com/spotify/confidence-openfeature-provider-kotlin
 - config:
     id: objective-c
     name: Objective-C
     icons_html: >
-      <i class="devicon-objectivec-plain"></i>  
+      <i class="devicon-objectivec-plain"></i>
   projects:
     - url: https://github.com/spotify/ios-style
     - url: https://github.com/spotify/ios-sdk
+    - url: https://github.com/spotify/ios-auth
     - url: https://github.com/spotify/SPTDataLoader
     - url: https://github.com/spotify/SPTPersistentCache
 - config:
@@ -99,28 +76,29 @@
       <i class="devicon-python-plain alt-colored"></i>
   projects:
     - url: https://github.com/spotify/annoy
-    - url: https://github.com/spotify/crtauth
+    - url: https://github.com/spotify/basic-pitch
+    - url: https://github.com/spotify/confidence
+    - url: https://github.com/spotify/realbook
+    - url: https://github.com/spotify/ulogger
     - url: https://github.com/spotify/cstar
     - url: https://github.com/spotify/dh-virtualenv
     - url: https://github.com/spotify/luigi
-    - url: https://github.com/spotify/pyeos
-    - url: https://github.com/spotify/pyfg
-    - url: https://github.com/spotify/pyschema
-    - url: https://github.com/spotify/ramlfications
-    - url: https://github.com/spotify/snakebite
+    - url: https://github.com/spotify/pythonflow
+    - url: https://github.com/spotify/spotify-tensorflow
     - url: https://github.com/spotify/chartify
     - url: https://github.com/spotify/klio
     - url: https://github.com/spotify/pedalboard
     - url: https://github.com/spotify/confidence
     - url: https://github.com/spotify/postgresql-metrics
+    - url: https://github.com/spotify/sparkey-python
 - config:
     id: ruby
     name: Ruby
     icons_html: >
       <i class="devicon-ruby-plain"></i>
   projects:
-    - url: https://github.com/spotify/moob
-    - url: https://github.com/spotify/rspec-dns
+    - url: https://github.com/spotify/homebrew-public
+    - url: https://github.com/spotify/talos
 - config:
     id: scala
     name: Scala
@@ -132,6 +110,21 @@
     - url: https://github.com/spotify/noether
     - url: https://github.com/spotify/ratatool
     - url: https://github.com/spotify/scio
+    - url: https://github.com/spotify/magnolify
+    - url: https://github.com/spotify/tfreader
+    - url: https://github.com/spotify/scio-idea-plugin
+    - url: https://github.com/spotify/gcs-tools
+    - url: https://github.com/spotify/elitzur
+    - url: https://github.com/spotify/scio.g8
+- config:
+    id: go
+    name: Go
+    icons_html: >
+      <i class="devicon-go-original-wordmark"></i>
+  projects:
+    - url: https://github.com/spotify/flyte-flink-plugin
+    - url: https://github.com/spotify/flink-on-k8s-operator
+    - url: https://github.com/spotify/confidence-openfeature-provider-go
 - config:
     id: swift
     name: Swift
@@ -139,12 +132,16 @@
       <i class="devicon-swift-plain"></i>
   projects:
     - url: https://github.com/spotify/Mobius.swift
-    - url: https://github.com/spotify/SpotifyLogin
     - url: https://github.com/spotify/XCRemoteCache
     - url: https://github.com/spotify/XCMetrics
+    - url: https://github.com/spotify/confidence-openfeature-provider-swift
+    - url: https://github.com/spotify/diffuser
 
 - config:
     id: other
     name: Other
   projects:
     - url: https://github.com/spotify/git-test
+    - url: https://github.com/spotify/cstar
+    - url: https://github.com/spotify/dockerfile-mode
+    - url: https://github.com/spotify/foss-root
