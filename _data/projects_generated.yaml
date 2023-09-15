@@ -228,13 +228,13 @@
         totalCount: 8
 - config:
     id: javascript
-    name: TypeScript / JavaScript
+    name: JavaScript
     icons_html: |
       <i class="devicon-javascript-plain"></i>
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 23186
+      stargazerCount: 23187
       forkCount: 4496
       url: https://github.com/backstage/backstage
       openIssues:
