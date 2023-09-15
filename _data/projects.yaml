@@ -36,7 +36,7 @@
     - url: https://github.com/spotify/Vandelay
 - config:
     id: javascript
-    name: TypeScript / JavaScript
+    name: JavaScript
     icons_html: >
       <i class="devicon-javascript-plain"></i>
   projects:
