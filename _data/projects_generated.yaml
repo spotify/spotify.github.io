@@ -11,7 +11,7 @@
       forkCount: 1140
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 47
+        totalCount: 46
       watchers:
         totalCount: 318
     - name: sparkey
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4452
+      stargazerCount: 4453
       forkCount: 204
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -80,7 +80,7 @@
         totalCount: 60
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 367
+      stargazerCount: 368
       forkCount: 52
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -145,7 +145,7 @@
         totalCount: 27
     - name: github-java-client
       description: A Java client to Github API
-      stargazerCount: 92
+      stargazerCount: 93
       forkCount: 72
       url: https://github.com/spotify/github-java-client
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 23278
-      forkCount: 4512
+      stargazerCount: 23281
+      forkCount: 4513
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 419
+        totalCount: 417
       watchers:
         totalCount: 220
     - name: reactochart
@@ -318,7 +318,7 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1860
+      stargazerCount: 1861
       forkCount: 1581
       url: https://github.com/spotify/web-api-examples
       openIssues:
@@ -414,7 +414,7 @@
       forkCount: 1140
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 47
+        totalCount: 46
       watchers:
         totalCount: 318
     - name: basic-pitch
@@ -521,7 +521,7 @@
         totalCount: 24
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4452
+      stargazerCount: 4453
       forkCount: 204
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,8 +616,8 @@
         totalCount: 33
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2482
-      forkCount: 508
+      stargazerCount: 2484
+      forkCount: 509
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 119
@@ -740,7 +740,7 @@
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
       stargazerCount: 1041
-      forkCount: 71
+      forkCount: 72
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 10
