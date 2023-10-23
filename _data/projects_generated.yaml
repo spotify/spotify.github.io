@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12033
+      stargazerCount: 12036
       forkCount: 1148
       url: https://github.com/spotify/annoy
       openIssues:
@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1011
+      stargazerCount: 1012
       forkCount: 78
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4504
+      stargazerCount: 4505
       forkCount: 209
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -46,13 +46,13 @@
       description: 🛰️ Voyager is an approximate nearest-neighbor search library for
         Python and Java with a focus on ease of use, simplicity, and
         deployability.
-      stargazerCount: 341
-      forkCount: 5
+      stargazerCount: 400
+      forkCount: 6
       url: https://github.com/spotify/voyager
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 3
+        totalCount: 4
 - config:
     id: java
     name: Java
@@ -89,7 +89,7 @@
         totalCount: 106
     - name: dbeam
       description: DBeam exports SQL tables into Avro files using JDBC and Apache Beam
-      stargazerCount: 178
+      stargazerCount: 179
       forkCount: 56
       url: https://github.com/spotify/dbeam
       openIssues:
@@ -145,7 +145,7 @@
         totalCount: 27
     - name: github-java-client
       description: A Java client to Github API
-      stargazerCount: 95
+      stargazerCount: 96
       forkCount: 74
       url: https://github.com/spotify/github-java-client
       openIssues:
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 23583
-      forkCount: 4618
+      stargazerCount: 23588
+      forkCount: 4620
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 418
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1073
+      stargazerCount: 1072
       forkCount: 50
       url: https://github.com/spotify/ruler
       openIssues:
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12033
+      stargazerCount: 12036
       forkCount: 1148
       url: https://github.com/spotify/annoy
       openIssues:
@@ -421,7 +421,7 @@
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
       stargazerCount: 2410
-      forkCount: 162
+      forkCount: 163
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 17
@@ -503,7 +503,7 @@
         totalCount: 28
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3393
+      stargazerCount: 3392
       forkCount: 309
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4504
+      stargazerCount: 4505
       forkCount: 209
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -739,7 +739,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1044
+      stargazerCount: 1045
       forkCount: 71
       url: https://github.com/spotify/XCMetrics
       openIssues:
