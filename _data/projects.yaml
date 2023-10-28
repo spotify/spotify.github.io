@@ -102,7 +102,7 @@
     id: scala
     name: Scala
     icons_html: >
-      <i class=devicon-scala-plain"></i>
+      <i class="devicon-scala-plain"></i>
   projects:
     - url: https://github.com/spotify/big-data-rosetta-code
     - url: https://github.com/spotify/featran
