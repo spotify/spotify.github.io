@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4538
+      stargazerCount: 4539
       forkCount: 215
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -46,7 +46,7 @@
       description: 🛰️ Voyager is an approximate nearest-neighbor search library for
         Python and Java with a focus on ease of use, simplicity, and
         deployability.
-      stargazerCount: 726
+      stargazerCount: 727
       forkCount: 17
       url: https://github.com/spotify/voyager
       openIssues:
@@ -191,8 +191,8 @@
         totalCount: 21
     - name: fmt-maven-plugin
       description: Opinionated Maven Plugin that formats your Java code.
-      stargazerCount: 292
-      forkCount: 64
+      stargazerCount: 293
+      forkCount: 65
       url: https://github.com/spotify/fmt-maven-plugin
       openIssues:
         totalCount: 8
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 23802
-      forkCount: 4678
+      stargazerCount: 23816
+      forkCount: 4681
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 405
@@ -272,7 +272,7 @@
         totalCount: 12
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 157
+      stargazerCount: 158
       forkCount: 33
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 1871
-      forkCount: 1588
+      forkCount: 1589
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 47
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 2454
+      stargazerCount: 2455
       forkCount: 169
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,8 +476,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16882
-      forkCount: 2376
+      stargazerCount: 16883
+      forkCount: 2377
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 93
@@ -521,7 +521,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4538
+      stargazerCount: 4539
       forkCount: 215
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,7 +616,7 @@
         totalCount: 32
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2493
+      stargazerCount: 2494
       forkCount: 510
       url: https://github.com/spotify/scio
       openIssues:
