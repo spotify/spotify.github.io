@@ -35,19 +35,19 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4567
+      stargazerCount: 4568
       forkCount: 216
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 29
+        totalCount: 30
       watchers:
         totalCount: 56
     - name: voyager
       description: 🛰️ Voyager is an approximate nearest-neighbor search library for
         Python and Java with a focus on ease of use, simplicity, and
         deployability.
-      stargazerCount: 773
-      forkCount: 17
+      stargazerCount: 775
+      forkCount: 18
       url: https://github.com/spotify/voyager
       openIssues:
         totalCount: 7
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 24089
-      forkCount: 4741
+      stargazerCount: 24103
+      forkCount: 4750
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 397
+        totalCount: 400
       watchers:
         totalCount: 222
     - name: reactochart
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 165
+      stargazerCount: 166
       forkCount: 12
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -318,7 +318,7 @@
         totalCount: 8
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1875
+      stargazerCount: 1876
       forkCount: 1593
       url: https://github.com/spotify/web-api-examples
       openIssues:
@@ -384,7 +384,7 @@
         totalCount: 3
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
-      stargazerCount: 623
+      stargazerCount: 622
       forkCount: 78
       url: https://github.com/spotify/SPTDataLoader
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 2489
-      forkCount: 173
+      stargazerCount: 2493
+      forkCount: 175
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 17
@@ -476,11 +476,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 16904
+      stargazerCount: 16907
       forkCount: 2379
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 94
+        totalCount: 95
       watchers:
         totalCount: 479
     - name: pythonflow
@@ -521,11 +521,11 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4567
+      stargazerCount: 4568
       forkCount: 216
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 29
+        totalCount: 30
       watchers:
         totalCount: 56
     - name: postgresql-metrics
@@ -620,7 +620,7 @@
       forkCount: 511
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 117
+        totalCount: 119
       watchers:
         totalCount: 119
     - name: magnolify
@@ -710,7 +710,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 12
+        totalCount: 13
 - config:
     id: swift
     name: Swift
@@ -720,7 +720,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 521
+      stargazerCount: 522
       forkCount: 43
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -743,7 +743,7 @@
       forkCount: 71
       url: https://github.com/spotify/XCMetrics
       openIssues:
-        totalCount: 11
+        totalCount: 12
       watchers:
         totalCount: 26
     - name: confidence-openfeature-provider-swift
