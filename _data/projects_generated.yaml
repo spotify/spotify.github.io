@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12314
+      stargazerCount: 12316
       forkCount: 1169
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,18 +35,18 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4667
+      stargazerCount: 4668
       forkCount: 219
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 36
       watchers:
-        totalCount: 57
+        totalCount: 56
     - name: voyager
       description: 🛰️ Voyager is an approximate nearest-neighbor search library for
         Python and Java with a focus on ease of use, simplicity, and
         deployability.
-      stargazerCount: 1011
+      stargazerCount: 1013
       forkCount: 31
       url: https://github.com/spotify/voyager
       openIssues:
@@ -72,7 +72,7 @@
     - name: android-sdk
       description: Spotify SDK for Android
       stargazerCount: 435
-      forkCount: 123
+      forkCount: 124
       url: https://github.com/spotify/android-sdk
       openIssues:
         totalCount: 140
@@ -86,7 +86,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 104
+        totalCount: 103
     - name: dbeam
       description: DBeam exports SQL tables into Avro files using JDBC and Apache Beam
       stargazerCount: 179
@@ -126,7 +126,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1190
+      stargazerCount: 1191
       forkCount: 88
       url: https://github.com/spotify/mobius
       openIssues:
@@ -151,7 +151,7 @@
       openIssues:
         totalCount: 15
       watchers:
-        totalCount: 21
+        totalCount: 20
     - name: dataenum
       description: Algebraic data types in Java.
       stargazerCount: 158
@@ -170,7 +170,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 16
+        totalCount: 15
     - name: logging-java
       description: Utility classes to set up logging in a Spotify compatible way
       stargazerCount: 22
@@ -197,7 +197,7 @@
       openIssues:
         totalCount: 8
       watchers:
-        totalCount: 14
+        totalCount: 13
     - name: dns-java
       description: DNS wrapper library that provides SRV lookup functionality
       stargazerCount: 200
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 24622
-      forkCount: 4940
+      stargazerCount: 24624
+      forkCount: 4942
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 434
+        totalCount: 432
       watchers:
         totalCount: 226
     - name: reactochart
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 181
+      stargazerCount: 182
       forkCount: 13
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -318,8 +318,8 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1898
-      forkCount: 1606
+      stargazerCount: 1899
+      forkCount: 1607
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 47
@@ -339,7 +339,7 @@
       openIssues:
         totalCount: 11
       watchers:
-        totalCount: 23
+        totalCount: 22
     - name: confidence-openfeature-provider-kotlin
       description: null
       stargazerCount: 4
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12314
+      stargazerCount: 12316
       forkCount: 1169
       url: https://github.com/spotify/annoy
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 2630
+      stargazerCount: 2631
       forkCount: 183
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,8 +476,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17007
-      forkCount: 2387
+      stargazerCount: 17008
+      forkCount: 2388
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 95
@@ -521,13 +521,13 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4667
+      stargazerCount: 4668
       forkCount: 219
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 36
       watchers:
-        totalCount: 57
+        totalCount: 56
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
       stargazerCount: 582
@@ -640,7 +640,7 @@
       openIssues:
         totalCount: 2
       watchers:
-        totalCount: 22
+        totalCount: 21
     - name: scio-idea-plugin
       description: Scio IDEA plugin
       stargazerCount: 29
@@ -667,7 +667,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 17
+        totalCount: 16
     - name: scio.g8
       description: A Giter8 template for scio
       stargazerCount: 29
@@ -691,7 +691,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 22
+        totalCount: 21
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
@@ -720,7 +720,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 533
+      stargazerCount: 534
       forkCount: 42
       url: https://github.com/spotify/Mobius.swift
       openIssues:
@@ -735,7 +735,7 @@
       openIssues:
         totalCount: 21
       watchers:
-        totalCount: 25
+        totalCount: 24
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
@@ -788,7 +788,7 @@
         totalCount: 22
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 515
+      stargazerCount: 516
       forkCount: 78
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
