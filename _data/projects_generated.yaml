@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12351
+      stargazerCount: 12359
       forkCount: 1171
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4686
+      stargazerCount: 4688
       forkCount: 219
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -127,7 +127,7 @@
       description: A functional reactive framework for managing state evolution and
         side-effects.
       stargazerCount: 1192
-      forkCount: 88
+      forkCount: 89
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 3
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 24746
-      forkCount: 4990
+      stargazerCount: 24758
+      forkCount: 4995
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 435
+        totalCount: 429
       watchers:
         totalCount: 225
     - name: reactochart
@@ -272,7 +272,7 @@
         totalCount: 12
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 206
+      stargazerCount: 207
       forkCount: 40
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -318,8 +318,8 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1900
-      forkCount: 1608
+      stargazerCount: 1901
+      forkCount: 1610
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 48
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1080
+      stargazerCount: 1079
       forkCount: 50
       url: https://github.com/spotify/ruler
       openIssues:
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12351
+      stargazerCount: 12359
       forkCount: 1171
       url: https://github.com/spotify/annoy
       openIssues:
@@ -465,7 +465,7 @@
         totalCount: 22
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1592
+      stargazerCount: 1593
       forkCount: 194
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17025
+      stargazerCount: 17029
       forkCount: 2387
       url: https://github.com/spotify/luigi
       openIssues:
@@ -503,7 +503,7 @@
         totalCount: 28
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3436
+      stargazerCount: 3437
       forkCount: 313
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 23
     - name: pedalboard
       description: 🎛 🔊 A Python library for working with audio.
-      stargazerCount: 4686
+      stargazerCount: 4688
       forkCount: 219
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -617,10 +617,10 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2507
-      forkCount: 514
+      forkCount: 515
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 124
+        totalCount: 123
       watchers:
         totalCount: 118
     - name: magnolify
@@ -695,7 +695,7 @@
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
-      stargazerCount: 176
+      stargazerCount: 177
       forkCount: 70
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
@@ -739,11 +739,11 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1060
+      stargazerCount: 1061
       forkCount: 72
       url: https://github.com/spotify/XCMetrics
       openIssues:
-        totalCount: 13
+        totalCount: 14
       watchers:
         totalCount: 26
     - name: confidence-openfeature-provider-swift
