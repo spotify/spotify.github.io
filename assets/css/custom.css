@@ -97,7 +97,7 @@ a:not([style]) p {
 
 .jumbotron-hero fieldset ul > li {
   list-style: none;
-  margin-bottom: 15px;
+  margin-bottom: 1rem;
 }
 
 footer {
@@ -114,9 +114,9 @@ footer {
 
 #page h2 {
   font-weight: 700;
-  padding-top: 110px;
-  font-size: 44px;
-  margin-bottom: 24px;
+  padding-top: 6.8rem;
+  font-size: 3rem;
+  margin-bottom: 2rem;
 }
 
 #page h2,
@@ -131,7 +131,7 @@ footer {
 }
 
 #page h2:first-child {
-  padding-top: 55px;
+  padding-top: 3.4rem;
 }
 
 #page section a {
