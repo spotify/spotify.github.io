@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 4772
+      stargazerCount: 4775
       forkCount: 225
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -116,7 +116,7 @@
         totalCount: 25
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
-      stargazerCount: 141
+      stargazerCount: 142
       forkCount: 26
       url: https://github.com/spotify/missinglink
       openIssues:
@@ -145,7 +145,7 @@
         totalCount: 25
     - name: github-java-client
       description: A Java client to Github API
-      stargazerCount: 107
+      stargazerCount: 108
       forkCount: 76
       url: https://github.com/spotify/github-java-client
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 25803
-      forkCount: 5170
+      stargazerCount: 25806
+      forkCount: 5169
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 463
+        totalCount: 461
       watchers:
         totalCount: 224
     - name: reactochart
@@ -272,8 +272,8 @@
         totalCount: 12
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 246
-      forkCount: 44
+      stargazerCount: 247
+      forkCount: 45
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
         totalCount: 17
@@ -318,8 +318,8 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1908
-      forkCount: 1625
+      stargazerCount: 1909
+      forkCount: 1627
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 48
@@ -366,7 +366,7 @@
         totalCount: 132
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 615
+      stargazerCount: 614
       forkCount: 178
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 2797
-      forkCount: 199
+      stargazerCount: 2799
+      forkCount: 200
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 21
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17182
+      stargazerCount: 17185
       forkCount: 2358
       url: https://github.com/spotify/luigi
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 4772
+      stargazerCount: 4775
       forkCount: 225
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -579,7 +579,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 287
+      stargazerCount: 288
       forkCount: 32
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -739,7 +739,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1073
+      stargazerCount: 1074
       forkCount: 72
       url: https://github.com/spotify/XCMetrics
       openIssues:
