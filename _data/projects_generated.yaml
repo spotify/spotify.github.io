@@ -233,13 +233,13 @@
   projects:
     - name: backstage
       description: Backstage is an open platform for building developer portals
-      stargazerCount: 26149
-      forkCount: 5302
+      stargazerCount: 26162
+      forkCount: 5305
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 481
+        totalCount: 478
       watchers:
-        totalCount: 224
+        totalCount: 222
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -271,7 +271,7 @@
         totalCount: 12
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 268
+      stargazerCount: 269
       forkCount: 49
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -317,11 +317,11 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1928
-      forkCount: 1633
+      stargazerCount: 1929
+      forkCount: 1632
       url: https://github.com/spotify/web-api-examples
       openIssues:
-        totalCount: 48
+        totalCount: 49
       watchers:
         totalCount: 69
 - config:
@@ -383,8 +383,8 @@
         totalCount: 5
     - name: SPTDataLoader
       description: The HTTP library used by the Spotify iOS client
-      stargazerCount: 623
-      forkCount: 73
+      stargazerCount: 624
+      forkCount: 74
       url: https://github.com/spotify/SPTDataLoader
       openIssues:
         totalCount: 0
@@ -419,7 +419,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 2876
+      stargazerCount: 2880
       forkCount: 214
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -429,7 +429,7 @@
     - name: confidence
       description: null
       stargazerCount: 232
-      forkCount: 29
+      forkCount: 30
       url: https://github.com/spotify/confidence
       openIssues:
         totalCount: 6
@@ -475,11 +475,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17269
+      stargazerCount: 17275
       forkCount: 2370
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 98
+        totalCount: 99
       watchers:
         totalCount: 475
     - name: pythonflow
@@ -535,7 +535,7 @@
       openIssues:
         totalCount: 2
       watchers:
-        totalCount: 116
+        totalCount: 115
     - name: sparkey-python
       description: Python bindings for the sparkey key value store
       stargazerCount: 38
@@ -742,7 +742,7 @@
       forkCount: 74
       url: https://github.com/spotify/XCMetrics
       openIssues:
-        totalCount: 13
+        totalCount: 14
       watchers:
         totalCount: 26
     - name: confidence-openfeature-provider-swift
