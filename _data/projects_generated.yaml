@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12980
+      stargazerCount: 12984
       forkCount: 1153
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,11 +35,11 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5031
+      stargazerCount: 5032
       forkCount: 253
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 50
+        totalCount: 51
       watchers:
         totalCount: 56
     - name: voyager
@@ -94,7 +94,7 @@
       openIssues:
         totalCount: 11
       watchers:
-        totalCount: 21
+        totalCount: 20
     - name: folsom
       description: An asynchronous memcache client for Java
       stargazerCount: 146
@@ -144,8 +144,8 @@
         totalCount: 25
     - name: github-java-client
       description: A Java client to Github API
-      stargazerCount: 119
-      forkCount: 78
+      stargazerCount: 120
+      forkCount: 79
       url: https://github.com/spotify/github-java-client
       openIssues:
         totalCount: 16
@@ -200,7 +200,7 @@
     - name: dns-java
       description: DNS wrapper library that provides SRV lookup functionality
       stargazerCount: 204
-      forkCount: 46
+      forkCount: 47
       url: https://github.com/spotify/dns-java
       openIssues:
         totalCount: 4
@@ -233,13 +233,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 27210
-      forkCount: 5710
+      stargazerCount: 27217
+      forkCount: 5713
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 392
       watchers:
-        totalCount: 223
+        totalCount: 222
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -409,7 +409,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 12980
+      stargazerCount: 12984
       forkCount: 1153
       url: https://github.com/spotify/annoy
       openIssues:
@@ -419,8 +419,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 3178
-      forkCount: 247
+      stargazerCount: 3180
+      forkCount: 246
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 20
@@ -475,7 +475,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17594
+      stargazerCount: 17598
       forkCount: 2383
       url: https://github.com/spotify/luigi
       openIssues:
@@ -520,11 +520,11 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5031
+      stargazerCount: 5032
       forkCount: 253
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 50
+        totalCount: 51
       watchers:
         totalCount: 56
     - name: postgresql-metrics
@@ -630,7 +630,7 @@
       openIssues:
         totalCount: 19
       watchers:
-        totalCount: 22
+        totalCount: 21
     - name: tfreader
       description: TensorFlow TFRecord reader CLI tool
       stargazerCount: 61
