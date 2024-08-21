@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13021
+      stargazerCount: 13025
       forkCount: 1152
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5074
+      stargazerCount: 5075
       forkCount: 256
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -45,7 +45,7 @@
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
-      stargazerCount: 1252
+      stargazerCount: 1254
       forkCount: 51
       url: https://github.com/spotify/voyager
       openIssues:
@@ -70,7 +70,7 @@
         totalCount: 33
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 458
+      stargazerCount: 459
       forkCount: 119
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -79,7 +79,7 @@
         totalCount: 60
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 385
+      stargazerCount: 386
       forkCount: 53
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -125,7 +125,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1219
+      stargazerCount: 1220
       forkCount: 97
       url: https://github.com/spotify/mobius
       openIssues:
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 27323
-      forkCount: 5765
+      stargazerCount: 27334
+      forkCount: 5769
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 390
+        totalCount: 391
       watchers:
         totalCount: 222
     - name: reactochart
@@ -272,7 +272,7 @@
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
       stargazerCount: 347
-      forkCount: 63
+      forkCount: 64
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
         totalCount: 28
@@ -409,7 +409,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13021
+      stargazerCount: 13025
       forkCount: 1152
       url: https://github.com/spotify/annoy
       openIssues:
@@ -419,7 +419,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 3228
+      stargazerCount: 3233
       forkCount: 251
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -455,7 +455,7 @@
         totalCount: 16
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 254
+      stargazerCount: 255
       forkCount: 36
       url: https://github.com/spotify/cstar
       openIssues:
@@ -475,7 +475,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17627
+      stargazerCount: 17629
       forkCount: 2385
       url: https://github.com/spotify/luigi
       openIssues:
@@ -520,7 +520,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5074
+      stargazerCount: 5075
       forkCount: 256
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -621,7 +621,7 @@
       openIssues:
         totalCount: 116
       watchers:
-        totalCount: 117
+        totalCount: 118
     - name: magnolify
       description: A collection of Magnolia add-on modules
       stargazerCount: 163
@@ -630,7 +630,7 @@
       openIssues:
         totalCount: 19
       watchers:
-        totalCount: 21
+        totalCount: 22
     - name: tfreader
       description: TensorFlow TFRecord reader CLI tool
       stargazerCount: 61
@@ -648,7 +648,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 24
+        totalCount: 25
     - name: gcs-tools
       description: GCS support for avro-tools, parquet-tools and protobuf
       stargazerCount: 73
@@ -657,7 +657,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 17
+        totalCount: 18
     - name: elitzur
       description: null
       stargazerCount: 21
@@ -703,7 +703,7 @@
         totalCount: 12
     - name: confidence-sdk-go
       description: null
-      stargazerCount: 1
+      stargazerCount: 2
       forkCount: 1
       url: https://github.com/spotify/confidence-sdk-go
       openIssues:
@@ -778,7 +778,7 @@
         totalCount: 112
     - name: cstar
       description: Apache Cassandra cluster orchestration tool for the command line
-      stargazerCount: 254
+      stargazerCount: 255
       forkCount: 36
       url: https://github.com/spotify/cstar
       openIssues:
