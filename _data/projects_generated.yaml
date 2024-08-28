@@ -35,7 +35,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5097
+      stargazerCount: 5101
       forkCount: 260
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -191,7 +191,7 @@
     - name: fmt-maven-plugin
       description: Opinionated Maven Plugin that formats your Java code.
       stargazerCount: 328
-      forkCount: 63
+      forkCount: 62
       url: https://github.com/spotify/fmt-maven-plugin
       openIssues:
         totalCount: 11
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 27379
-      forkCount: 5785
+      stargazerCount: 27390
+      forkCount: 5787
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 384
+        totalCount: 378
       watchers:
         totalCount: 221
     - name: reactochart
@@ -271,7 +271,7 @@
         totalCount: 13
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 348
+      stargazerCount: 349
       forkCount: 66
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -280,7 +280,7 @@
         totalCount: 11
     - name: confidence-sdk-js
       description: null
-      stargazerCount: 8
+      stargazerCount: 9
       forkCount: 1
       url: https://github.com/spotify/confidence-sdk-js
       openIssues:
@@ -318,7 +318,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 1975
-      forkCount: 1652
+      forkCount: 1651
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 50
@@ -419,7 +419,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 3251
+      stargazerCount: 3255
       forkCount: 253
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -428,7 +428,7 @@
         totalCount: 50
     - name: confidence
       description: null
-      stargazerCount: 253
+      stargazerCount: 254
       forkCount: 32
       url: https://github.com/spotify/confidence
       openIssues:
@@ -475,8 +475,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17643
-      forkCount: 2386
+      stargazerCount: 17648
+      forkCount: 2387
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 107
@@ -520,7 +520,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5097
+      stargazerCount: 5101
       forkCount: 260
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -729,7 +729,7 @@
     - name: XCRemoteCache
       description: null
       stargazerCount: 830
-      forkCount: 52
+      forkCount: 53
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
         totalCount: 24
@@ -787,7 +787,7 @@
         totalCount: 23
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 534
+      stargazerCount: 535
       forkCount: 78
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
