@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13099
+      stargazerCount: 13100
       forkCount: 1156
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5126
+      stargazerCount: 5127
       forkCount: 259
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -79,7 +79,7 @@
         totalCount: 59
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 387
+      stargazerCount: 389
       forkCount: 51
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 27534
-      forkCount: 5830
+      stargazerCount: 27542
+      forkCount: 5835
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 341
+        totalCount: 338
       watchers:
         totalCount: 223
     - name: reactochart
@@ -272,7 +272,7 @@
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
       stargazerCount: 355
-      forkCount: 68
+      forkCount: 69
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
         totalCount: 29
@@ -317,8 +317,8 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1979
-      forkCount: 1652
+      stargazerCount: 1980
+      forkCount: 1653
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 50
@@ -409,7 +409,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13099
+      stargazerCount: 13100
       forkCount: 1156
       url: https://github.com/spotify/annoy
       openIssues:
@@ -432,7 +432,7 @@
       forkCount: 32
       url: https://github.com/spotify/confidence
       openIssues:
-        totalCount: 7
+        totalCount: 8
       watchers:
         totalCount: 15
     - name: realbook
@@ -475,7 +475,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17705
+      stargazerCount: 17704
       forkCount: 2390
       url: https://github.com/spotify/luigi
       openIssues:
@@ -520,7 +520,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5126
+      stargazerCount: 5127
       forkCount: 259
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -639,7 +639,7 @@
       openIssues:
         totalCount: 2
       watchers:
-        totalCount: 19
+        totalCount: 18
     - name: scio-idea-plugin
       description: Scio IDEA plugin
       stargazerCount: 30
