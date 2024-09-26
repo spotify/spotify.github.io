@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1162
+      stargazerCount: 1169
       forkCount: 80
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -172,7 +172,7 @@
         totalCount: 15
     - name: logging-java
       description: Utility classes to set up logging in a Spotify compatible way
-      stargazerCount: 22
+      stargazerCount: 23
       forkCount: 23
       url: https://github.com/spotify/logging-java
       openIssues:
@@ -233,13 +233,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 27596
-      forkCount: 5845
+      stargazerCount: 27612
+      forkCount: 5849
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 344
+        totalCount: 348
       watchers:
-        totalCount: 226
+        totalCount: 227
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -262,7 +262,7 @@
         totalCount: 6
     - name: should-up
       description: Remove most of the "should" noise from your tests
-      stargazerCount: 157
+      stargazerCount: 158
       forkCount: 23
       url: https://github.com/spotify/should-up
       openIssues:
@@ -271,11 +271,11 @@
         totalCount: 12
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 357
+      stargazerCount: 359
       forkCount: 69
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
-        totalCount: 29
+        totalCount: 30
       watchers:
         totalCount: 10
     - name: confidence-sdk-js
@@ -332,7 +332,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1131
+      stargazerCount: 1130
       forkCount: 58
       url: https://github.com/spotify/ruler
       openIssues:
@@ -365,7 +365,7 @@
         totalCount: 130
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 654
+      stargazerCount: 656
       forkCount: 185
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -419,7 +419,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 3353
+      stargazerCount: 3355
       forkCount: 258
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -475,7 +475,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17729
+      stargazerCount: 17734
       forkCount: 2393
       url: https://github.com/spotify/luigi
       openIssues:
@@ -502,7 +502,7 @@
         totalCount: 27
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3522
+      stargazerCount: 3523
       forkCount: 323
       url: https://github.com/spotify/chartify
       openIssues:
