@@ -46,7 +46,7 @@
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
       stargazerCount: 1302
-      forkCount: 52
+      forkCount: 53
       url: https://github.com/spotify/voyager
       openIssues:
         totalCount: 11
@@ -70,7 +70,7 @@
         totalCount: 32
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 467
+      stargazerCount: 468
       forkCount: 119
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -79,7 +79,7 @@
         totalCount: 59
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 393
+      stargazerCount: 392
       forkCount: 51
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -233,17 +233,17 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 28083
-      forkCount: 5941
+      stargazerCount: 28090
+      forkCount: 5943
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 360
       watchers:
         totalCount: 231
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
-      stargazerCount: 552
+      stargazerCount: 551
       forkCount: 55
       url: https://github.com/spotify/reactochart
       openIssues:
@@ -423,7 +423,7 @@
       forkCount: 268
       url: https://github.com/spotify/basic-pitch
       openIssues:
-        totalCount: 28
+        totalCount: 29
       watchers:
         totalCount: 49
     - name: confidence
@@ -503,7 +503,7 @@
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
       stargazerCount: 3526
-      forkCount: 323
+      forkCount: 324
       url: https://github.com/spotify/chartify
       openIssues:
         totalCount: 43
@@ -728,7 +728,7 @@
         totalCount: 27
     - name: XCRemoteCache
       description: null
-      stargazerCount: 837
+      stargazerCount: 838
       forkCount: 52
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
