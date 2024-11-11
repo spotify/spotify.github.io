@@ -36,10 +36,10 @@
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
       stargazerCount: 5226
-      forkCount: 261
+      forkCount: 262
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 59
+        totalCount: 60
       watchers:
         totalCount: 57
     - name: voyager
@@ -70,7 +70,7 @@
         totalCount: 32
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 470
+      stargazerCount: 472
       forkCount: 120
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -233,13 +233,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 28195
-      forkCount: 5989
+      stargazerCount: 28202
+      forkCount: 5991
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 359
       watchers:
-        totalCount: 231
+        totalCount: 232
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -419,7 +419,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 3452
+      stargazerCount: 3455
       forkCount: 273
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -475,8 +475,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17862
-      forkCount: 2393
+      stargazerCount: 17863
+      forkCount: 2394
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 106
@@ -502,7 +502,7 @@
         totalCount: 27
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3531
+      stargazerCount: 3532
       forkCount: 324
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,10 +521,10 @@
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
       stargazerCount: 5226
-      forkCount: 261
+      forkCount: 262
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 59
+        totalCount: 60
       watchers:
         totalCount: 57
     - name: postgresql-metrics
