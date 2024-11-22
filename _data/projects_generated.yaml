@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13265
+      stargazerCount: 13267
       forkCount: 1174
       url: https://github.com/spotify/annoy
       openIssues:
@@ -39,7 +39,7 @@
       forkCount: 262
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 60
+        totalCount: 61
       watchers:
         totalCount: 58
     - name: voyager
@@ -74,7 +74,7 @@
       forkCount: 120
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 155
+        totalCount: 157
       watchers:
         totalCount: 59
     - name: completable-futures
@@ -85,7 +85,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 101
+        totalCount: 102
     - name: dbeam
       description: DBeam exports SQL tables into Avro files using JDBC and Apache Beam
       stargazerCount: 191
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 28524
-      forkCount: 6051
+      stargazerCount: 28538
+      forkCount: 6054
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 360
       watchers:
         totalCount: 234
     - name: reactochart
@@ -262,7 +262,7 @@
         totalCount: 6
     - name: should-up
       description: Remove most of the "should" noise from your tests
-      stargazerCount: 158
+      stargazerCount: 159
       forkCount: 23
       url: https://github.com/spotify/should-up
       openIssues:
@@ -317,8 +317,8 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 1992
-      forkCount: 1668
+      stargazerCount: 1993
+      forkCount: 1669
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 50
@@ -409,7 +409,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13265
+      stargazerCount: 13267
       forkCount: 1174
       url: https://github.com/spotify/annoy
       openIssues:
@@ -464,7 +464,7 @@
         totalCount: 22
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1617
+      stargazerCount: 1618
       forkCount: 185
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -475,7 +475,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17889
+      stargazerCount: 17891
       forkCount: 2398
       url: https://github.com/spotify/luigi
       openIssues:
@@ -524,7 +524,7 @@
       forkCount: 262
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 60
+        totalCount: 61
       watchers:
         totalCount: 58
     - name: postgresql-metrics
@@ -619,7 +619,7 @@
       forkCount: 513
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 123
+        totalCount: 122
       watchers:
         totalCount: 115
     - name: magnolify
@@ -738,7 +738,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1110
+      stargazerCount: 1111
       forkCount: 77
       url: https://github.com/spotify/XCMetrics
       openIssues:
