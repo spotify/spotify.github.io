@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13367
-      forkCount: 1181
+      stargazerCount: 13372
+      forkCount: 1182
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 58
@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1179
+      stargazerCount: 1180
       forkCount: 81
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5309
+      stargazerCount: 5310
       forkCount: 268
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -45,7 +45,7 @@
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
-      stargazerCount: 1355
+      stargazerCount: 1356
       forkCount: 58
       url: https://github.com/spotify/voyager
       openIssues:
@@ -61,7 +61,7 @@
     - name: android-auth
       description: Spotify authentication and authorization for Android. Part of the
         Spotify Android SDK.
-      stargazerCount: 143
+      stargazerCount: 144
       forkCount: 66
       url: https://github.com/spotify/android-auth
       openIssues:
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 28921
-      forkCount: 6136
+      stargazerCount: 28925
+      forkCount: 6135
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 350
+        totalCount: 345
       watchers:
         totalCount: 233
     - name: reactochart
@@ -318,7 +318,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2000
-      forkCount: 1676
+      forkCount: 1677
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 50
@@ -409,8 +409,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13367
-      forkCount: 1181
+      stargazerCount: 13372
+      forkCount: 1182
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 58
@@ -475,7 +475,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17996
+      stargazerCount: 17999
       forkCount: 2403
       url: https://github.com/spotify/luigi
       openIssues:
@@ -502,7 +502,7 @@
         totalCount: 27
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3551
+      stargazerCount: 3552
       forkCount: 325
       url: https://github.com/spotify/chartify
       openIssues:
@@ -520,7 +520,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5309
+      stargazerCount: 5310
       forkCount: 268
       url: https://github.com/spotify/pedalboard
       openIssues:
