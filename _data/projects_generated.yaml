@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13376
+      stargazerCount: 13379
       forkCount: 1182
       url: https://github.com/spotify/annoy
       openIssues:
@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1180
+      stargazerCount: 1179
       forkCount: 81
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5309
+      stargazerCount: 5308
       forkCount: 268
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -45,7 +45,7 @@
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
-      stargazerCount: 1361
+      stargazerCount: 1362
       forkCount: 59
       url: https://github.com/spotify/voyager
       openIssues:
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 28931
-      forkCount: 6138
+      stargazerCount: 28943
+      forkCount: 6143
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 345
+        totalCount: 350
       watchers:
         totalCount: 233
     - name: reactochart
@@ -332,7 +332,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1143
+      stargazerCount: 1144
       forkCount: 58
       url: https://github.com/spotify/ruler
       openIssues:
@@ -409,7 +409,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13376
+      stargazerCount: 13379
       forkCount: 1182
       url: https://github.com/spotify/annoy
       openIssues:
@@ -475,8 +475,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 17999
-      forkCount: 2403
+      stargazerCount: 18001
+      forkCount: 2402
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 108
@@ -520,7 +520,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5309
+      stargazerCount: 5308
       forkCount: 268
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,7 +616,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2568
-      forkCount: 514
+      forkCount: 513
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 123
@@ -728,7 +728,7 @@
         totalCount: 27
     - name: XCRemoteCache
       description: null
-      stargazerCount: 841
+      stargazerCount: 842
       forkCount: 52
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
