@@ -7,11 +7,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13406
+      stargazerCount: 13409
       forkCount: 1182
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 58
+        totalCount: 57
       watchers:
         totalCount: 318
     - name: sparkey
@@ -35,7 +35,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5314
+      stargazerCount: 5319
       forkCount: 270
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -45,7 +45,7 @@
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
-      stargazerCount: 1371
+      stargazerCount: 1372
       forkCount: 59
       url: https://github.com/spotify/voyager
       openIssues:
@@ -70,8 +70,8 @@
         totalCount: 32
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 478
-      forkCount: 120
+      stargazerCount: 479
+      forkCount: 121
       url: https://github.com/spotify/android-sdk
       openIssues:
         totalCount: 157
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 28998
-      forkCount: 6170
+      stargazerCount: 29003
+      forkCount: 6174
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 347
+        totalCount: 348
       watchers:
         totalCount: 233
     - name: reactochart
@@ -409,11 +409,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13406
+      stargazerCount: 13409
       forkCount: 1182
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 58
+        totalCount: 57
       watchers:
         totalCount: 318
     - name: basic-pitch
@@ -475,13 +475,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18014
-      forkCount: 2403
+      stargazerCount: 18016
+      forkCount: 2404
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 108
       watchers:
-        totalCount: 471
+        totalCount: 470
     - name: pythonflow
       description: ":snake: Dataflow programming for python."
       stargazerCount: 288
@@ -502,7 +502,7 @@
         totalCount: 26
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3558
+      stargazerCount: 3559
       forkCount: 325
       url: https://github.com/spotify/chartify
       openIssues:
@@ -520,7 +520,7 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5314
+      stargazerCount: 5319
       forkCount: 270
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -615,11 +615,11 @@
         totalCount: 27
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2569
+      stargazerCount: 2570
       forkCount: 513
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 123
+        totalCount: 122
       watchers:
         totalCount: 115
     - name: magnolify
@@ -698,7 +698,7 @@
       forkCount: 71
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
-        totalCount: 34
+        totalCount: 33
       watchers:
         totalCount: 13
     - name: confidence-sdk-go
@@ -719,7 +719,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 557
+      stargazerCount: 558
       forkCount: 42
       url: https://github.com/spotify/Mobius.swift
       openIssues:
