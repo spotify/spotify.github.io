@@ -35,11 +35,11 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5323
-      forkCount: 271
+      stargazerCount: 5328
+      forkCount: 272
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 62
+        totalCount: 63
       watchers:
         totalCount: 60
     - name: voyager
@@ -70,7 +70,7 @@
         totalCount: 32
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 480
+      stargazerCount: 479
       forkCount: 121
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -145,7 +145,7 @@
     - name: github-java-client
       description: A Java client to Github API
       stargazerCount: 136
-      forkCount: 85
+      forkCount: 87
       url: https://github.com/spotify/github-java-client
       openIssues:
         totalCount: 16
@@ -233,11 +233,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 29029
-      forkCount: 6189
+      stargazerCount: 29035
+      forkCount: 6192
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 345
+        totalCount: 346
       watchers:
         totalCount: 233
     - name: reactochart
@@ -369,7 +369,7 @@
       forkCount: 189
       url: https://github.com/spotify/ios-sdk
       openIssues:
-        totalCount: 215
+        totalCount: 216
       watchers:
         totalCount: 59
     - name: ios-auth
@@ -420,10 +420,10 @@
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
       stargazerCount: 3606
-      forkCount: 289
+      forkCount: 290
       url: https://github.com/spotify/basic-pitch
       openIssues:
-        totalCount: 36
+        totalCount: 37
       watchers:
         totalCount: 51
     - name: confidence
@@ -475,11 +475,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18028
-      forkCount: 2405
+      stargazerCount: 18030
+      forkCount: 2406
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 108
+        totalCount: 109
       watchers:
         totalCount: 470
     - name: pythonflow
@@ -520,11 +520,11 @@
         totalCount: 21
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5323
-      forkCount: 271
+      stargazerCount: 5328
+      forkCount: 272
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 62
+        totalCount: 63
       watchers:
         totalCount: 60
     - name: postgresql-metrics
