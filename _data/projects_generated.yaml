@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13570
+      stargazerCount: 13573
       forkCount: 1186
       url: https://github.com/spotify/annoy
       openIssues:
@@ -45,7 +45,7 @@
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
-      stargazerCount: 1403
+      stargazerCount: 1404
       forkCount: 67
       url: https://github.com/spotify/voyager
       openIssues:
@@ -74,7 +74,7 @@
       forkCount: 123
       url: https://github.com/spotify/android-sdk
       openIssues:
-        totalCount: 160
+        totalCount: 161
       watchers:
         totalCount: 57
     - name: completable-futures
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 29501
-      forkCount: 6330
+      stargazerCount: 29512
+      forkCount: 6328
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 355
+        totalCount: 350
       watchers:
         totalCount: 231
     - name: reactochart
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13570
+      stargazerCount: 13573
       forkCount: 1186
       url: https://github.com/spotify/annoy
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 3743
-      forkCount: 306
+      stargazerCount: 3749
+      forkCount: 305
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 39
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18152
+      stargazerCount: 18155
       forkCount: 2414
       url: https://github.com/spotify/luigi
       openIssues:
@@ -485,7 +485,7 @@
         totalCount: 466
     - name: pythonflow
       description: ":snake: Dataflow programming for python."
-      stargazerCount: 289
+      stargazerCount: 290
       forkCount: 48
       url: https://github.com/spotify/pythonflow
       openIssues:
