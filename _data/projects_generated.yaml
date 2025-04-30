@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13701
+      stargazerCount: 13706
       forkCount: 1186
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5485
+      stargazerCount: 5486
       forkCount: 287
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 30190
-      forkCount: 6473
+      stargazerCount: 30198
+      forkCount: 6471
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 359
       watchers:
         totalCount: 234
     - name: reactochart
@@ -263,7 +263,7 @@
         totalCount: 4
     - name: should-up
       description: Remove most of the "should" noise from your tests
-      stargazerCount: 163
+      stargazerCount: 164
       forkCount: 23
       url: https://github.com/spotify/should-up
       openIssues:
@@ -318,7 +318,7 @@
         totalCount: 8
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 2028
+      stargazerCount: 2030
       forkCount: 1689
       url: https://github.com/spotify/web-api-examples
       openIssues:
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13701
+      stargazerCount: 13706
       forkCount: 1186
       url: https://github.com/spotify/annoy
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 3874
+      stargazerCount: 3877
       forkCount: 323
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,8 +476,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18245
-      forkCount: 2417
+      stargazerCount: 18248
+      forkCount: 2418
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 112
@@ -485,7 +485,7 @@
         totalCount: 466
     - name: pythonflow
       description: ":snake: Dataflow programming for python."
-      stargazerCount: 289
+      stargazerCount: 290
       forkCount: 48
       url: https://github.com/spotify/pythonflow
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5485
+      stargazerCount: 5486
       forkCount: 287
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -579,7 +579,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 291
+      stargazerCount: 292
       forkCount: 34
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -617,7 +617,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2592
-      forkCount: 517
+      forkCount: 518
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 127
@@ -739,7 +739,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1123
+      stargazerCount: 1122
       forkCount: 80
       url: https://github.com/spotify/XCMetrics
       openIssues:
