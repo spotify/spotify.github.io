@@ -7,11 +7,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13719
-      forkCount: 1188
+      stargazerCount: 13720
+      forkCount: 1189
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 58
+        totalCount: 59
       watchers:
         totalCount: 315
     - name: sparkey
@@ -35,11 +35,11 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5491
+      stargazerCount: 5492
       forkCount: 287
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 75
+        totalCount: 76
       watchers:
         totalCount: 63
     - name: voyager
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 30223
-      forkCount: 6481
+      stargazerCount: 30235
+      forkCount: 6482
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 359
+        totalCount: 358
       watchers:
         totalCount: 234
     - name: reactochart
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2031
-      forkCount: 1689
+      forkCount: 1688
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 49
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1179
+      stargazerCount: 1181
       forkCount: 57
       url: https://github.com/spotify/ruler
       openIssues:
@@ -410,11 +410,11 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13719
-      forkCount: 1188
+      stargazerCount: 13720
+      forkCount: 1189
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 58
+        totalCount: 59
       watchers:
         totalCount: 315
     - name: basic-pitch
@@ -476,11 +476,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18252
+      stargazerCount: 18255
       forkCount: 2419
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 112
+        totalCount: 113
       watchers:
         totalCount: 466
     - name: pythonflow
@@ -521,11 +521,11 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5491
+      stargazerCount: 5492
       forkCount: 287
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 75
+        totalCount: 76
       watchers:
         totalCount: 63
     - name: postgresql-metrics
