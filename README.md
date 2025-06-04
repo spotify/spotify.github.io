@@ -51,19 +51,20 @@ bundle exec jekyll serve
 Open your browser at [localhost](http://localhost:4000)
 
 ## File Structure
-```text
+```
+text
 .
-├── [_data/](./_data/)
-│   ├── [_data/projects.yml](./_data/projects.yml)     # Hand-picked projects (you can add here!)
-│   └── [_data/projects_generated.yaml](./_data/projects_generated.yaml)   # Auto-generated (DO NOT EDIT)
-├── [scripts/](./scripts/)
-│   └── [scripts/nightly.js](./scripts/nightly.js)              # GitHub API fetcher
-├── [_includes/](./_includes/)
-├── [_layouts/](./_layouts/)
-├── [_site/](./_site/)                        # Generated site output (ignored)
-├── [assets/](./assets/)
-├── [index.html](./index.html)
-└── [README.md](./README.md)
+├── [_data/]
+│   ├── [_data/projects.yml]    # Hand-picked projects (you can add here!)
+│   └── [_data/projects_generated.yaml]   # Auto-generated (DO NOT EDIT)
+├── [scripts/]
+│   └── [scripts/nightly.js]         # GitHub API fetcher
+├── [_includes/]
+├── [_layouts/]
+├── [_site/]                      # Generated site output (ignored)
+├── [assets/]
+├── [index.html]
+└── [README.md]
 ```
 
 
