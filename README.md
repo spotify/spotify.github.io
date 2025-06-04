@@ -54,7 +54,7 @@ Open your browser at [localhost](http://localhost:4000)
 ```text
 .
 ├── [_data/](./_data/)
-│   ├── [_data/projects.yml](./_data/projects.yml)              # Hand-picked projects (you can add here!)
+│   ├── [_data/projects.yml](./_data/projects.yml)     # Hand-picked projects (you can add here!)
 │   └── [_data/projects_generated.yaml](./_data/projects_generated.yaml)   # Auto-generated (DO NOT EDIT)
 ├── [scripts/](./scripts/)
 │   └── [scripts/nightly.js](./scripts/nightly.js)              # GitHub API fetcher
@@ -64,7 +64,7 @@ Open your browser at [localhost](http://localhost:4000)
 ├── [assets/](./assets/)
 ├── [index.html](./index.html)
 └── [README.md](./README.md)
-
+```
 
 
 This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
