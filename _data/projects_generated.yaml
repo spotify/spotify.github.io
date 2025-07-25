@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5666
+      stargazerCount: 5668
       forkCount: 299
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -126,7 +126,7 @@
       description: A functional reactive framework for managing state evolution and
         side-effects.
       stargazerCount: 1243
-      forkCount: 101
+      forkCount: 102
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 5
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 30803
-      forkCount: 6677
+      stargazerCount: 30805
+      forkCount: 6682
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 351
+        totalCount: 356
       watchers:
-        totalCount: 237
+        totalCount: 238
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 280
+      stargazerCount: 279
       forkCount: 28
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -394,7 +394,7 @@
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
-      stargazerCount: 1245
+      stargazerCount: 1246
       forkCount: 76
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4095
-      forkCount: 351
+      stargazerCount: 4096
+      forkCount: 352
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 43
@@ -476,8 +476,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18389
-      forkCount: 2427
+      stargazerCount: 18395
+      forkCount: 2429
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 118
@@ -521,7 +521,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5666
+      stargazerCount: 5668
       forkCount: 299
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,7 +616,7 @@
         totalCount: 27
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2605
+      stargazerCount: 2606
       forkCount: 520
       url: https://github.com/spotify/scio
       openIssues:
