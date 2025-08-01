@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1190
+      stargazerCount: 1191
       forkCount: 80
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -35,8 +35,8 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5692
-      forkCount: 299
+      stargazerCount: 5696
+      forkCount: 300
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 79
@@ -115,7 +115,7 @@
         totalCount: 26
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
-      stargazerCount: 148
+      stargazerCount: 149
       forkCount: 28
       url: https://github.com/spotify/missinglink
       openIssues:
@@ -163,7 +163,7 @@
     - name: futuristic-feline
       description: futuristic-feline is a library for detecting blocking Java futures
         at runtime
-      stargazerCount: 12
+      stargazerCount: 13
       forkCount: 9
       url: https://github.com/spotify/futuristic-feline
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 30832
-      forkCount: 6695
+      stargazerCount: 30842
+      forkCount: 6696
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 358
+        totalCount: 361
       watchers:
         totalCount: 239
     - name: reactochart
@@ -366,8 +366,8 @@
         totalCount: 130
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 701
-      forkCount: 197
+      stargazerCount: 702
+      forkCount: 198
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 221
@@ -420,13 +420,13 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4108
-      forkCount: 352
+      stargazerCount: 4111
+      forkCount: 353
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 43
       watchers:
-        totalCount: 57
+        totalCount: 58
     - name: confidence
       description: null
       stargazerCount: 275
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18406
+      stargazerCount: 18407
       forkCount: 2429
       url: https://github.com/spotify/luigi
       openIssues:
@@ -521,8 +521,8 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5692
-      forkCount: 299
+      stargazerCount: 5696
+      forkCount: 300
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 79
@@ -788,7 +788,7 @@
         totalCount: 21
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
-      stargazerCount: 546
+      stargazerCount: 547
       forkCount: 80
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
