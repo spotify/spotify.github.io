@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5696
+      stargazerCount: 5699
       forkCount: 301
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -70,8 +70,8 @@
         totalCount: 31
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 494
-      forkCount: 129
+      stargazerCount: 495
+      forkCount: 128
       url: https://github.com/spotify/android-sdk
       openIssues:
         totalCount: 163
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 30846
-      forkCount: 6698
+      stargazerCount: 30849
+      forkCount: 6696
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 364
+        totalCount: 365
       watchers:
         totalCount: 238
     - name: reactochart
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 279
+      stargazerCount: 280
       forkCount: 29
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2044
-      forkCount: 1695
+      forkCount: 1694
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 50
@@ -367,7 +367,7 @@
     - name: ios-sdk
       description: Spotify SDK for iOS
       stargazerCount: 702
-      forkCount: 198
+      forkCount: 197
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 221
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4112
+      stargazerCount: 4114
       forkCount: 354
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 18408
-      forkCount: 2429
+      forkCount: 2430
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 119
@@ -521,7 +521,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5696
+      stargazerCount: 5699
       forkCount: 301
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,7 +616,7 @@
         totalCount: 27
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2608
+      stargazerCount: 2609
       forkCount: 520
       url: https://github.com/spotify/scio
       openIssues:
@@ -789,7 +789,7 @@
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
       stargazerCount: 545
-      forkCount: 80
+      forkCount: 81
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
         totalCount: 11
