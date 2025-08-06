@@ -39,7 +39,7 @@
       forkCount: 301
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 79
+        totalCount: 80
       watchers:
         totalCount: 64
     - name: voyager
@@ -70,7 +70,7 @@
         totalCount: 31
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 495
+      stargazerCount: 496
       forkCount: 128
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -107,10 +107,10 @@
     - name: futures-extra
       description: Java library for working with Guava futures
       stargazerCount: 139
-      forkCount: 34
+      forkCount: 35
       url: https://github.com/spotify/futures-extra
       openIssues:
-        totalCount: 0
+        totalCount: 1
       watchers:
         totalCount: 26
     - name: missinglink
@@ -192,10 +192,10 @@
     - name: fmt-maven-plugin
       description: Opinionated Maven Plugin that formats your Java code.
       stargazerCount: 360
-      forkCount: 71
+      forkCount: 72
       url: https://github.com/spotify/fmt-maven-plugin
       openIssues:
-        totalCount: 12
+        totalCount: 13
       watchers:
         totalCount: 12
     - name: dns-java
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 30861
-      forkCount: 6701
+      stargazerCount: 30865
+      forkCount: 6705
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 369
+        totalCount: 358
       watchers:
         totalCount: 238
     - name: reactochart
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2045
-      forkCount: 1694
+      forkCount: 1693
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 50
@@ -333,11 +333,11 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1200
+      stargazerCount: 1201
       forkCount: 57
       url: https://github.com/spotify/ruler
       openIssues:
-        totalCount: 16
+        totalCount: 17
       watchers:
         totalCount: 23
     - name: confidence-sdk-android
@@ -366,11 +366,11 @@
         totalCount: 130
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 702
+      stargazerCount: 698
       forkCount: 197
       url: https://github.com/spotify/ios-sdk
       openIssues:
-        totalCount: 221
+        totalCount: 222
       watchers:
         totalCount: 57
     - name: ios-auth
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4118
+      stargazerCount: 4120
       forkCount: 354
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -465,7 +465,7 @@
         totalCount: 21
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
-      stargazerCount: 1624
+      stargazerCount: 1625
       forkCount: 185
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18410
+      stargazerCount: 18411
       forkCount: 2430
       url: https://github.com/spotify/luigi
       openIssues:
@@ -525,7 +525,7 @@
       forkCount: 301
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 79
+        totalCount: 80
       watchers:
         totalCount: 64
     - name: postgresql-metrics
@@ -739,7 +739,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1135
+      stargazerCount: 1136
       forkCount: 80
       url: https://github.com/spotify/XCMetrics
       openIssues:
