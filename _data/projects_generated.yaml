@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5732
+      stargazerCount: 5733
       forkCount: 303
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31169
-      forkCount: 6735
+      stargazerCount: 31177
+      forkCount: 6738
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 366
+        totalCount: 364
       watchers:
         totalCount: 240
     - name: reactochart
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1206
+      stargazerCount: 1205
       forkCount: 57
       url: https://github.com/spotify/ruler
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4172
+      stargazerCount: 4176
       forkCount: 362
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5732
+      stargazerCount: 5733
       forkCount: 303
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -539,7 +539,7 @@
         totalCount: 113
     - name: sparkey-python
       description: Python bindings for the sparkey key value store
-      stargazerCount: 37
+      stargazerCount: 38
       forkCount: 8
       url: https://github.com/spotify/sparkey-python
       openIssues:
@@ -729,7 +729,7 @@
         totalCount: 26
     - name: XCRemoteCache
       description: null
-      stargazerCount: 867
+      stargazerCount: 868
       forkCount: 52
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
