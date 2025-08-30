@@ -145,7 +145,7 @@
     - name: github-java-client
       description: A Java client to Github API
       stargazerCount: 147
-      forkCount: 96
+      forkCount: 97
       url: https://github.com/spotify/github-java-client
       openIssues:
         totalCount: 11
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31219
-      forkCount: 6746
+      stargazerCount: 31228
+      forkCount: 6748
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 365
+        totalCount: 363
       watchers:
         totalCount: 240
     - name: reactochart
@@ -272,7 +272,7 @@
         totalCount: 11
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 425
+      stargazerCount: 427
       forkCount: 83
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2049
-      forkCount: 1694
+      forkCount: 1695
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 50
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4195
+      stargazerCount: 4197
       forkCount: 363
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18450
+      stargazerCount: 18453
       forkCount: 2435
       url: https://github.com/spotify/luigi
       openIssues:
