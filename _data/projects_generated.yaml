@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13964
-      forkCount: 1210
+      stargazerCount: 13965
+      forkCount: 1209
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 60
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5765
+      stargazerCount: 5767
       forkCount: 306
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -88,7 +88,7 @@
         totalCount: 104
     - name: dbeam
       description: DBeam exports SQL tables into Avro files using JDBC and Apache Beam
-      stargazerCount: 195
+      stargazerCount: 194
       forkCount: 57
       url: https://github.com/spotify/dbeam
       openIssues:
@@ -191,7 +191,7 @@
         totalCount: 18
     - name: fmt-maven-plugin
       description: Opinionated Maven Plugin that formats your Java code.
-      stargazerCount: 360
+      stargazerCount: 361
       forkCount: 73
       url: https://github.com/spotify/fmt-maven-plugin
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31442
-      forkCount: 6813
+      stargazerCount: 31448
+      forkCount: 6818
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 361
+        totalCount: 362
       watchers:
         totalCount: 240
     - name: reactochart
@@ -410,8 +410,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13964
-      forkCount: 1210
+      stargazerCount: 13965
+      forkCount: 1209
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 60
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4263
+      stargazerCount: 4264
       forkCount: 375
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,13 +476,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18495
-      forkCount: 2433
+      stargazerCount: 18498
+      forkCount: 2432
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 119
       watchers:
-        totalCount: 467
+        totalCount: 466
     - name: pythonflow
       description: ":snake: Dataflow programming for python."
       stargazerCount: 292
@@ -521,7 +521,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5765
+      stargazerCount: 5767
       forkCount: 306
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -608,7 +608,7 @@
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
       stargazerCount: 344
-      forkCount: 54
+      forkCount: 55
       url: https://github.com/spotify/ratatool
       openIssues:
         totalCount: 18
@@ -644,7 +644,7 @@
     - name: scio-idea-plugin
       description: Scio IDEA plugin
       stargazerCount: 30
-      forkCount: 18
+      forkCount: 19
       url: https://github.com/spotify/scio-idea-plugin
       openIssues:
         totalCount: 2
@@ -739,8 +739,8 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1138
-      forkCount: 79
+      stargazerCount: 1137
+      forkCount: 80
       url: https://github.com/spotify/XCMetrics
       openIssues:
         totalCount: 16
