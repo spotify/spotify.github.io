@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13965
+      stargazerCount: 13966
       forkCount: 1209
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5777
+      stargazerCount: 5781
       forkCount: 306
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -125,7 +125,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1248
+      stargazerCount: 1249
       forkCount: 102
       url: https://github.com/spotify/mobius
       openIssues:
@@ -192,7 +192,7 @@
     - name: fmt-maven-plugin
       description: Opinionated Maven Plugin that formats your Java code.
       stargazerCount: 361
-      forkCount: 73
+      forkCount: 74
       url: https://github.com/spotify/fmt-maven-plugin
       openIssues:
         totalCount: 12
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31452
-      forkCount: 6817
+      stargazerCount: 31454
+      forkCount: 6818
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 354
+        totalCount: 352
       watchers:
         totalCount: 240
     - name: reactochart
@@ -273,7 +273,7 @@
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
       stargazerCount: 431
-      forkCount: 85
+      forkCount: 84
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
         totalCount: 42
@@ -318,7 +318,7 @@
         totalCount: 8
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 2052
+      stargazerCount: 2053
       forkCount: 1696
       url: https://github.com/spotify/web-api-examples
       openIssues:
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 13965
+      stargazerCount: 13966
       forkCount: 1209
       url: https://github.com/spotify/annoy
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4268
+      stargazerCount: 4269
       forkCount: 375
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,11 +476,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18498
+      stargazerCount: 18501
       forkCount: 2432
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 120
+        totalCount: 121
       watchers:
         totalCount: 466
     - name: pythonflow
@@ -521,7 +521,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5777
+      stargazerCount: 5781
       forkCount: 306
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -695,7 +695,7 @@
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
-      stargazerCount: 216
+      stargazerCount: 217
       forkCount: 74
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
