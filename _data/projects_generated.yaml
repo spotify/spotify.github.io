@@ -18,7 +18,7 @@
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
       stargazerCount: 1191
-      forkCount: 82
+      forkCount: 81
       url: https://github.com/spotify/sparkey
       openIssues:
         totalCount: 3
@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5785
+      stargazerCount: 5788
       forkCount: 308
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31498
-      forkCount: 6843
+      stargazerCount: 31499
+      forkCount: 6842
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 343
+        totalCount: 342
       watchers:
         totalCount: 240
     - name: reactochart
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 295
+      stargazerCount: 297
       forkCount: 32
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1207
+      stargazerCount: 1206
       forkCount: 58
       url: https://github.com/spotify/ruler
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4283
-      forkCount: 378
+      stargazerCount: 4291
+      forkCount: 379
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 43
@@ -438,7 +438,7 @@
         totalCount: 15
     - name: realbook
       description: Easier audio-based machine learning with TensorFlow.
-      stargazerCount: 126
+      stargazerCount: 127
       forkCount: 9
       url: https://github.com/spotify/realbook
       openIssues:
@@ -466,7 +466,7 @@
     - name: dh-virtualenv
       description: Python virtualenvs in Debian packages
       stargazerCount: 1625
-      forkCount: 185
+      forkCount: 186
       url: https://github.com/spotify/dh-virtualenv
       openIssues:
         totalCount: 37
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18512
+      stargazerCount: 18514
       forkCount: 2434
       url: https://github.com/spotify/luigi
       openIssues:
@@ -503,7 +503,7 @@
         totalCount: 25
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3614
+      stargazerCount: 3615
       forkCount: 335
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 18
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5785
+      stargazerCount: 5788
       forkCount: 308
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -617,7 +617,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2612
-      forkCount: 526
+      forkCount: 527
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 131
