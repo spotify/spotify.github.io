@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31530
-      forkCount: 6846
+      stargazerCount: 31532
+      forkCount: 6845
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 350
@@ -366,7 +366,7 @@
         totalCount: 129
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 706
+      stargazerCount: 705
       forkCount: 199
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4307
-      forkCount: 380
+      stargazerCount: 4308
+      forkCount: 379
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 43
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18524
+      stargazerCount: 18523
       forkCount: 2437
       url: https://github.com/spotify/luigi
       openIssues:
@@ -695,7 +695,7 @@
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
-      stargazerCount: 217
+      stargazerCount: 218
       forkCount: 74
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
@@ -771,7 +771,7 @@
     - name: git-test
       description: test your commits
       stargazerCount: 207
-      forkCount: 41
+      forkCount: 42
       url: https://github.com/spotify/git-test
       openIssues:
         totalCount: 1
