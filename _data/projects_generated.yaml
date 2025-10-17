@@ -35,8 +35,8 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5804
-      forkCount: 308
+      stargazerCount: 5805
+      forkCount: 309
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 80
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31563
-      forkCount: 6851
+      stargazerCount: 31569
+      forkCount: 6852
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 352
+        totalCount: 354
       watchers:
         totalCount: 240
     - name: reactochart
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4320
+      stargazerCount: 4321
       forkCount: 382
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,11 +476,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18527
+      stargazerCount: 18528
       forkCount: 2436
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 121
+        totalCount: 123
       watchers:
         totalCount: 465
     - name: pythonflow
@@ -521,8 +521,8 @@
         totalCount: 18
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5804
-      forkCount: 308
+      stargazerCount: 5805
+      forkCount: 309
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 80
@@ -616,7 +616,7 @@
         totalCount: 26
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2611
+      stargazerCount: 2612
       forkCount: 527
       url: https://github.com/spotify/scio
       openIssues:
