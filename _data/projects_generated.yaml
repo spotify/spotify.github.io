@@ -8,7 +8,7 @@
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
       stargazerCount: 13997
-      forkCount: 1209
+      forkCount: 1210
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 60
@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1191
+      stargazerCount: 1194
       forkCount: 82
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31602
-      forkCount: 6858
+      stargazerCount: 31612
+      forkCount: 6859
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 344
+        totalCount: 345
       watchers:
-        totalCount: 240
+        totalCount: 241
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -411,7 +411,7 @@
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
       stargazerCount: 13997
-      forkCount: 1209
+      forkCount: 1210
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 60
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4331
+      stargazerCount: 4334
       forkCount: 386
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18536
+      stargazerCount: 18537
       forkCount: 2437
       url: https://github.com/spotify/luigi
       openIssues:
@@ -512,7 +512,7 @@
         totalCount: 88
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 859
+      stargazerCount: 860
       forkCount: 52
       url: https://github.com/spotify/klio
       openIssues:
