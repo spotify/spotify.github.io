@@ -11,13 +11,13 @@
       forkCount: 1210
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 60
+        totalCount: 61
       watchers:
         totalCount: 312
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1194
+      stargazerCount: 1196
       forkCount: 82
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5812
+      stargazerCount: 5815
       forkCount: 308
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -70,7 +70,7 @@
         totalCount: 30
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 499
+      stargazerCount: 500
       forkCount: 128
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -115,7 +115,7 @@
         totalCount: 25
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
-      stargazerCount: 150
+      stargazerCount: 151
       forkCount: 28
       url: https://github.com/spotify/missinglink
       openIssues:
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31612
-      forkCount: 6859
+      stargazerCount: 31625
+      forkCount: 6860
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 345
+        totalCount: 348
       watchers:
-        totalCount: 241
+        totalCount: 240
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -414,7 +414,7 @@
       forkCount: 1210
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 60
+        totalCount: 61
       watchers:
         totalCount: 312
     - name: basic-pitch
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18537
+      stargazerCount: 18539
       forkCount: 2437
       url: https://github.com/spotify/luigi
       openIssues:
@@ -512,7 +512,7 @@
         totalCount: 88
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 860
+      stargazerCount: 861
       forkCount: 52
       url: https://github.com/spotify/klio
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 18
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5812
+      stargazerCount: 5815
       forkCount: 308
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -620,7 +620,7 @@
       forkCount: 527
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 131
+        totalCount: 130
       watchers:
         totalCount: 111
     - name: magnolify
@@ -629,7 +629,7 @@
       forkCount: 26
       url: https://github.com/spotify/magnolify
       openIssues:
-        totalCount: 19
+        totalCount: 18
       watchers:
         totalCount: 20
     - name: tfreader
@@ -789,7 +789,7 @@
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
       stargazerCount: 551
-      forkCount: 80
+      forkCount: 81
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
         totalCount: 11
