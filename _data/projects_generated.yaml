@@ -234,7 +234,7 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31645
+      stargazerCount: 31648
       forkCount: 6869
       url: https://github.com/backstage/backstage
       openIssues:
@@ -318,7 +318,7 @@
         totalCount: 7
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 2056
+      stargazerCount: 2055
       forkCount: 1693
       url: https://github.com/spotify/web-api-examples
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4341
-      forkCount: 387
+      stargazerCount: 4345
+      forkCount: 388
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 43
@@ -476,8 +476,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18540
-      forkCount: 2438
+      stargazerCount: 18539
+      forkCount: 2439
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 123
@@ -685,7 +685,7 @@
   projects:
     - name: flyte-flink-plugin
       description: Flyte Flink k8s plugin.
-      stargazerCount: 19
+      stargazerCount: 20
       forkCount: 13
       url: https://github.com/spotify/flyte-flink-plugin
       openIssues:
@@ -695,7 +695,7 @@
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
-      stargazerCount: 218
+      stargazerCount: 219
       forkCount: 74
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
@@ -704,7 +704,7 @@
         totalCount: 11
     - name: confidence-sdk-go
       description: null
-      stargazerCount: 2
+      stargazerCount: 3
       forkCount: 1
       url: https://github.com/spotify/confidence-sdk-go
       openIssues:
