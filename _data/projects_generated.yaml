@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5817
+      stargazerCount: 5820
       forkCount: 308
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -89,7 +89,7 @@
     - name: dbeam
       description: DBeam exports SQL tables into Avro files using JDBC and Apache Beam
       stargazerCount: 194
-      forkCount: 58
+      forkCount: 57
       url: https://github.com/spotify/dbeam
       openIssues:
         totalCount: 8
@@ -145,10 +145,10 @@
     - name: github-java-client
       description: A Java client to Github API
       stargazerCount: 147
-      forkCount: 97
+      forkCount: 98
       url: https://github.com/spotify/github-java-client
       openIssues:
-        totalCount: 11
+        totalCount: 12
       watchers:
         totalCount: 19
     - name: dataenum
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31653
-      forkCount: 6871
+      stargazerCount: 31661
+      forkCount: 6875
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 350
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4348
+      stargazerCount: 4350
       forkCount: 388
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 18540
-      forkCount: 2439
+      forkCount: 2441
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 123
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5817
+      stargazerCount: 5820
       forkCount: 308
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -554,7 +554,7 @@
   projects:
     - name: homebrew-public
       description: Homebrew formula for open-source software developed by Spotify
-      stargazerCount: 57
+      stargazerCount: 58
       forkCount: 21
       url: https://github.com/spotify/homebrew-public
       openIssues:
