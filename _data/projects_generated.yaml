@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14027
+      stargazerCount: 14031
       forkCount: 1213
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,11 +35,11 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5847
+      stargazerCount: 5849
       forkCount: 312
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 80
+        totalCount: 81
       watchers:
         totalCount: 62
     - name: voyager
@@ -163,7 +163,7 @@
     - name: futuristic-feline
       description: futuristic-feline is a library for detecting blocking Java futures
         at runtime
-      stargazerCount: 16
+      stargazerCount: 17
       forkCount: 12
       url: https://github.com/spotify/futuristic-feline
       openIssues:
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31870
-      forkCount: 6934
+      stargazerCount: 31881
+      forkCount: 6939
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 357
+        totalCount: 359
       watchers:
-        totalCount: 236
+        totalCount: 235
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -272,7 +272,7 @@
         totalCount: 10
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 444
+      stargazerCount: 445
       forkCount: 85
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14027
+      stargazerCount: 14031
       forkCount: 1213
       url: https://github.com/spotify/annoy
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4430
-      forkCount: 398
+      stargazerCount: 4434
+      forkCount: 399
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 40
@@ -476,8 +476,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18560
-      forkCount: 2444
+      stargazerCount: 18562
+      forkCount: 2446
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 123
@@ -521,11 +521,11 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5847
+      stargazerCount: 5849
       forkCount: 312
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 80
+        totalCount: 81
       watchers:
         totalCount: 62
     - name: postgresql-metrics
