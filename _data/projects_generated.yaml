@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14035
+      stargazerCount: 14038
       forkCount: 1214
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5850
+      stargazerCount: 5851
       forkCount: 312
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31893
-      forkCount: 6938
+      stargazerCount: 31902
+      forkCount: 6941
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 362
+        totalCount: 363
       watchers:
         totalCount: 235
     - name: reactochart
@@ -272,7 +272,7 @@
         totalCount: 10
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 445
+      stargazerCount: 446
       forkCount: 85
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 301
+      stargazerCount: 302
       forkCount: 33
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2057
-      forkCount: 1694
+      forkCount: 1693
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 51
@@ -334,10 +334,10 @@
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
       stargazerCount: 1214
-      forkCount: 59
+      forkCount: 60
       url: https://github.com/spotify/ruler
       openIssues:
-        totalCount: 18
+        totalCount: 19
       watchers:
         totalCount: 22
     - name: confidence-sdk-android
@@ -367,7 +367,7 @@
     - name: ios-sdk
       description: Spotify SDK for iOS
       stargazerCount: 710
-      forkCount: 203
+      forkCount: 204
       url: https://github.com/spotify/ios-sdk
       openIssues:
         totalCount: 226
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14035
+      stargazerCount: 14038
       forkCount: 1214
       url: https://github.com/spotify/annoy
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4436
-      forkCount: 398
+      stargazerCount: 4437
+      forkCount: 400
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 40
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5850
+      stargazerCount: 5851
       forkCount: 312
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,7 +616,7 @@
         totalCount: 26
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2611
+      stargazerCount: 2610
       forkCount: 526
       url: https://github.com/spotify/scio
       openIssues:
@@ -729,8 +729,8 @@
         totalCount: 25
     - name: XCRemoteCache
       description: null
-      stargazerCount: 871
-      forkCount: 52
+      stargazerCount: 872
+      forkCount: 53
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
         totalCount: 25
