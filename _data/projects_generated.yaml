@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14038
+      stargazerCount: 14039
       forkCount: 1214
       url: https://github.com/spotify/annoy
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5851
+      stargazerCount: 5852
       forkCount: 312
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -79,7 +79,7 @@
         totalCount: 56
     - name: completable-futures
       description: Utilities for working with futures in Java 8
-      stargazerCount: 406
+      stargazerCount: 405
       forkCount: 50
       url: https://github.com/spotify/completable-futures
       openIssues:
@@ -125,7 +125,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1250
+      stargazerCount: 1251
       forkCount: 102
       url: https://github.com/spotify/mobius
       openIssues:
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 31902
-      forkCount: 6941
+      stargazerCount: 31907
+      forkCount: 6942
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 363
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14038
+      stargazerCount: 14039
       forkCount: 1214
       url: https://github.com/spotify/annoy
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18563
+      stargazerCount: 18569
       forkCount: 2447
       url: https://github.com/spotify/luigi
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5851
+      stargazerCount: 5852
       forkCount: 312
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -695,7 +695,7 @@
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
-      stargazerCount: 220
+      stargazerCount: 221
       forkCount: 75
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
@@ -729,7 +729,7 @@
         totalCount: 25
     - name: XCRemoteCache
       description: null
-      stargazerCount: 872
+      stargazerCount: 871
       forkCount: 53
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
@@ -739,7 +739,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1147
+      stargazerCount: 1146
       forkCount: 78
       url: https://github.com/spotify/XCMetrics
       openIssues:
