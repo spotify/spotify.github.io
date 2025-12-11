@@ -35,13 +35,13 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5874
-      forkCount: 310
+      stargazerCount: 5877
+      forkCount: 311
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 80
+        totalCount: 81
       watchers:
-        totalCount: 63
+        totalCount: 64
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
@@ -67,10 +67,10 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 30
+        totalCount: 29
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 501
+      stargazerCount: 502
       forkCount: 127
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32057
-      forkCount: 6967
+      stargazerCount: 32063
+      forkCount: 6969
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 338
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1214
+      stargazerCount: 1213
       forkCount: 59
       url: https://github.com/spotify/ruler
       openIssues:
@@ -363,7 +363,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 128
+        totalCount: 127
     - name: ios-sdk
       description: Spotify SDK for iOS
       stargazerCount: 712
@@ -390,7 +390,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 111
+        totalCount: 110
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
@@ -400,7 +400,7 @@
       openIssues:
         totalCount: 10
       watchers:
-        totalCount: 54
+        totalCount: 53
 - config:
     id: python
     name: Python
@@ -420,11 +420,11 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4479
+      stargazerCount: 4482
       forkCount: 401
       url: https://github.com/spotify/basic-pitch
       openIssues:
-        totalCount: 40
+        totalCount: 41
       watchers:
         totalCount: 60
     - name: confidence
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18595
+      stargazerCount: 18598
       forkCount: 2445
       url: https://github.com/spotify/luigi
       openIssues:
@@ -503,7 +503,7 @@
         totalCount: 25
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3624
+      stargazerCount: 3623
       forkCount: 334
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,13 +521,13 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5874
-      forkCount: 310
+      stargazerCount: 5877
+      forkCount: 311
       url: https://github.com/spotify/pedalboard
       openIssues:
-        totalCount: 80
+        totalCount: 81
       watchers:
-        totalCount: 63
+        totalCount: 64
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
       stargazerCount: 598
@@ -607,7 +607,7 @@
         totalCount: 21
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 345
+      stargazerCount: 344
       forkCount: 53
       url: https://github.com/spotify/ratatool
       openIssues:
