@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32224
+      stargazerCount: 32233
       forkCount: 6996
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 302
+        totalCount: 296
       watchers:
         totalCount: 236
     - name: reactochart
@@ -272,7 +272,7 @@
         totalCount: 10
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 449
+      stargazerCount: 450
       forkCount: 86
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4564
+      stargazerCount: 4565
       forkCount: 403
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18616
+      stargazerCount: 18615
       forkCount: 2446
       url: https://github.com/spotify/luigi
       openIssues:
@@ -503,7 +503,7 @@
         totalCount: 25
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3625
+      stargazerCount: 3624
       forkCount: 331
       url: https://github.com/spotify/chartify
       openIssues:
@@ -616,7 +616,7 @@
         totalCount: 26
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2614
+      stargazerCount: 2613
       forkCount: 525
       url: https://github.com/spotify/scio
       openIssues:
