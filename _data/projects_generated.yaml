@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32268
-      forkCount: 7009
+      stargazerCount: 32276
+      forkCount: 7010
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 304
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2070
-      forkCount: 1689
+      forkCount: 1690
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 52
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 18612
-      forkCount: 2445
+      forkCount: 2444
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 124
@@ -617,7 +617,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2613
-      forkCount: 524
+      forkCount: 523
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 130
