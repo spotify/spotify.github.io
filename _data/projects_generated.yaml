@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5941
+      stargazerCount: 5943
       forkCount: 313
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32392
-      forkCount: 7047
+      stargazerCount: 32403
+      forkCount: 7051
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 286
+        totalCount: 284
       watchers:
-        totalCount: 235
+        totalCount: 231
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -318,7 +318,7 @@
         totalCount: 7
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 2070
+      stargazerCount: 2069
       forkCount: 1690
       url: https://github.com/spotify/web-api-examples
       openIssues:
@@ -366,7 +366,7 @@
         totalCount: 127
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 719
+      stargazerCount: 720
       forkCount: 202
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4609
+      stargazerCount: 4612
       forkCount: 414
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -503,7 +503,7 @@
         totalCount: 25
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3624
+      stargazerCount: 3623
       forkCount: 331
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5941
+      stargazerCount: 5943
       forkCount: 313
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -696,7 +696,7 @@
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
       stargazerCount: 222
-      forkCount: 74
+      forkCount: 73
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
         totalCount: 31
