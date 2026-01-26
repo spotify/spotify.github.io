@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5943
+      stargazerCount: 5944
       forkCount: 313
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -191,7 +191,7 @@
         totalCount: 17
     - name: fmt-maven-plugin
       description: Opinionated Maven Plugin that formats your Java code.
-      stargazerCount: 368
+      stargazerCount: 369
       forkCount: 74
       url: https://github.com/spotify/fmt-maven-plugin
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32403
+      stargazerCount: 32409
       forkCount: 7051
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 284
+        totalCount: 278
       watchers:
         totalCount: 231
     - name: reactochart
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18628
+      stargazerCount: 18630
       forkCount: 2449
       url: https://github.com/spotify/luigi
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5943
+      stargazerCount: 5944
       forkCount: 313
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -720,7 +720,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 577
+      stargazerCount: 578
       forkCount: 41
       url: https://github.com/spotify/Mobius.swift
       openIssues:
