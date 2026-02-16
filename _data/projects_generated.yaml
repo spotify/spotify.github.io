@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5964
+      stargazerCount: 5966
       forkCount: 316
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -191,7 +191,7 @@
         totalCount: 17
     - name: fmt-maven-plugin
       description: Opinionated Maven Plugin that formats your Java code.
-      stargazerCount: 369
+      stargazerCount: 370
       forkCount: 74
       url: https://github.com/spotify/fmt-maven-plugin
       openIssues:
@@ -234,7 +234,7 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32600
+      stargazerCount: 32607
       forkCount: 7090
       url: https://github.com/backstage/backstage
       openIssues:
@@ -273,7 +273,7 @@
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
       stargazerCount: 459
-      forkCount: 86
+      forkCount: 87
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
         totalCount: 43
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2073
-      forkCount: 1691
+      forkCount: 1690
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 52
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4675
+      stargazerCount: 4677
       forkCount: 415
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -477,10 +477,10 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 18661
-      forkCount: 2449
+      forkCount: 2450
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 126
+        totalCount: 125
       watchers:
         totalCount: 453
     - name: pythonflow
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5964
+      stargazerCount: 5966
       forkCount: 316
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -607,7 +607,7 @@
         totalCount: 21
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 344
+      stargazerCount: 345
       forkCount: 53
       url: https://github.com/spotify/ratatool
       openIssues:
@@ -616,7 +616,7 @@
         totalCount: 26
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2613
+      stargazerCount: 2614
       forkCount: 521
       url: https://github.com/spotify/scio
       openIssues:
