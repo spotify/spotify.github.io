@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14157
+      stargazerCount: 14159
       forkCount: 1218
       url: https://github.com/spotify/annoy
       openIssues:
@@ -45,7 +45,7 @@
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
-      stargazerCount: 1543
+      stargazerCount: 1545
       forkCount: 78
       url: https://github.com/spotify/voyager
       openIssues:
@@ -125,8 +125,8 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1255
-      forkCount: 100
+      stargazerCount: 1256
+      forkCount: 99
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 4
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32647
-      forkCount: 7104
+      stargazerCount: 32651
+      forkCount: 7103
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 279
+        totalCount: 277
       watchers:
         totalCount: 229
     - name: reactochart
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14157
+      stargazerCount: 14159
       forkCount: 1218
       url: https://github.com/spotify/annoy
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18672
+      stargazerCount: 18676
       forkCount: 2450
       url: https://github.com/spotify/luigi
       openIssues:
