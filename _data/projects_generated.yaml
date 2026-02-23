@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5974
+      stargazerCount: 5976
       forkCount: 317
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32651
-      forkCount: 7103
+      stargazerCount: 32653
+      forkCount: 7109
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 277
+        totalCount: 274
       watchers:
         totalCount: 229
     - name: reactochart
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4694
+      stargazerCount: 4698
       forkCount: 419
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,11 +476,11 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18676
+      stargazerCount: 18677
       forkCount: 2450
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 125
+        totalCount: 123
       watchers:
         totalCount: 453
     - name: pythonflow
@@ -503,7 +503,7 @@
         totalCount: 25
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3621
+      stargazerCount: 3622
       forkCount: 330
       url: https://github.com/spotify/chartify
       openIssues:
@@ -512,7 +512,7 @@
         totalCount: 86
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 867
+      stargazerCount: 868
       forkCount: 54
       url: https://github.com/spotify/klio
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 5974
+      stargazerCount: 5976
       forkCount: 317
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -589,7 +589,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 473
+      stargazerCount: 474
       forkCount: 67
       url: https://github.com/spotify/featran
       openIssues:
@@ -729,7 +729,7 @@
         totalCount: 25
     - name: XCRemoteCache
       description: null
-      stargazerCount: 871
+      stargazerCount: 870
       forkCount: 52
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
@@ -789,7 +789,7 @@
     - name: dockerfile-mode
       description: An emacs mode for handling Dockerfiles
       stargazerCount: 561
-      forkCount: 82
+      forkCount: 83
       url: https://github.com/spotify/dockerfile-mode
       openIssues:
         totalCount: 11
