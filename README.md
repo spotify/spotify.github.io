@@ -1,47 +1,74 @@
 # spotify.github.io
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/8904624/127524940-37bd6001-647d-40ac-86ec-bb22d1a100c8.gif">
+  <img src="https://user-images.githubusercontent.com/8904624/127524940-37bd6001-647d-40ac-86ec-bb22d1a100c8.gif" alt="Spotify Open Source">
 </p>
 
-Showcase site for hand-picked open-source projects by Spotify. It is built using Jekyll & GitHub Actions with a Node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
+A showcase site for hand-picked open-source projects by Spotify.  
+It is built using [Jekyll](https://jekyllrb.com/) and GitHub Actions, with a Node.js script that fetches data from the GitHub GraphQL API and stores it in a YAML file.
 
-## Development
+---
 
-**Install Jekyll & bundler gems**
+## Features
 
+- Automatically updated list of Spotify OSS projects
+- Categorized by programming language
+- Fast static site built with Jekyll
+- Easy to contribute via YAML config
+
+---
+
+## Local Development
+
+### 1. Install Requirements
+
+
+Install [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/):
 ```sh
 gem install jekyll bundler
 ```
-
-**Install yarn**
+Install Yarn:
 
 ```sh
 npm install --global yarn
 ```
 
-**Install dependencies** inside of the project folder
+### 2. Install Dependencies
+
+Run inside the project root:
 
 ```sh
-yarn & bundle install
+yarn
+bundle install
 ```
 
-**Build & serve**
+### 3. Run the Local Server
 
 ```sh
 bundle exec jekyll serve
 ```
 
-**(Optional) Test & update data**
+Open your browser at [localhost](http://localhost:4000)
 
-[Create a personal GitHub Access Token](https://github.com/settings/tokens) to fetch & update the repository data locally. As the data is updated automatically using GitHub Actions `_data/projects_generated.yaml` should not be added to Git.
-
-```sh
-GH_TOKEN=YOUR_TOKEN node ./scripts/nightly.js
+## File Structure
+```
+text
+.
+├── [_data/]
+│   ├── [_data/projects.yml]    # Hand-picked projects (you can add here!)
+│   └── [_data/projects_generated.yaml]   # Auto-generated (DO NOT EDIT)
+├── [scripts/]
+│   └── [scripts/nightly.js]         # GitHub API fetcher
+├── [_includes/]
+├── [_layouts/]
+├── [_site/]                      # Generated site output (ignored)
+├── [assets/]
+├── [index.html]
+└── [README.md]
 ```
 
----
 
 This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
 
 [code-of-conduct]: https://github.com/spotify/code-of-conduct/blob/master/code-of-conduct.md
+
