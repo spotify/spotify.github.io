@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32752
-      forkCount: 7147
+      stargazerCount: 32756
+      forkCount: 7152
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 301
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2075
-      forkCount: 1686
+      forkCount: 1685
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 52
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4743
+      stargazerCount: 4745
       forkCount: 418
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18686
+      stargazerCount: 18687
       forkCount: 2452
       url: https://github.com/spotify/luigi
       openIssues:
@@ -729,7 +729,7 @@
         totalCount: 25
     - name: XCRemoteCache
       description: null
-      stargazerCount: 870
+      stargazerCount: 869
       forkCount: 52
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
