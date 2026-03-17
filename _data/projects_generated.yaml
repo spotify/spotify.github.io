@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6011
+      stargazerCount: 6014
       forkCount: 317
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32814
-      forkCount: 7169
+      stargazerCount: 32822
+      forkCount: 7173
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 306
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 4779
+      stargazerCount: 4780
       forkCount: 424
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18697
+      stargazerCount: 18699
       forkCount: 2454
       url: https://github.com/spotify/luigi
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6011
+      stargazerCount: 6014
       forkCount: 317
       url: https://github.com/spotify/pedalboard
       openIssues:
