@@ -26,7 +26,7 @@
         totalCount: 141
     - name: spotify-json
       description: Fast and nice to use C++ JSON library.
-      stargazerCount: 208
+      stargazerCount: 206
       forkCount: 41
       url: https://github.com/spotify/spotify-json
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6040
+      stargazerCount: 6041
       forkCount: 320
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 32966
-      forkCount: 7211
+      stargazerCount: 32973
+      forkCount: 7217
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 296
+        totalCount: 290
       watchers:
         totalCount: 231
     - name: reactochart
@@ -375,7 +375,7 @@
         totalCount: 54
     - name: ios-auth
       description: Spotify authentication and authorization for iOS.
-      stargazerCount: 11
+      stargazerCount: 12
       forkCount: 4
       url: https://github.com/spotify/ios-auth
       openIssues:
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 18708
-      forkCount: 2453
+      forkCount: 2454
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 123
@@ -503,7 +503,7 @@
         totalCount: 25
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3627
+      stargazerCount: 3628
       forkCount: 330
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6040
+      stargazerCount: 6041
       forkCount: 320
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -589,7 +589,7 @@
     - name: featran
       description: A Scala feature transformation library for data science and machine
         learning
-      stargazerCount: 473
+      stargazerCount: 472
       forkCount: 67
       url: https://github.com/spotify/featran
       openIssues:
@@ -695,7 +695,7 @@
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
-      stargazerCount: 221
+      stargazerCount: 222
       forkCount: 76
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
