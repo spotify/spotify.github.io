@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6113
+      stargazerCount: 6116
       forkCount: 325
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33348
-      forkCount: 7326
+      stargazerCount: 33356
+      forkCount: 7328
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 262
+        totalCount: 266
       watchers:
         totalCount: 231
     - name: reactochart
@@ -273,7 +273,7 @@
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
       stargazerCount: 470
-      forkCount: 92
+      forkCount: 93
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
         totalCount: 46
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 332
+      stargazerCount: 333
       forkCount: 34
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -395,7 +395,7 @@
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
       stargazerCount: 1245
-      forkCount: 75
+      forkCount: 74
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
         totalCount: 10
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5018
+      stargazerCount: 5022
       forkCount: 451
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6113
+      stargazerCount: 6116
       forkCount: 325
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -617,7 +617,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2623
-      forkCount: 526
+      forkCount: 527
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 112
@@ -695,7 +695,7 @@
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
-      stargazerCount: 224
+      stargazerCount: 225
       forkCount: 77
       url: https://github.com/spotify/flink-on-k8s-operator
       openIssues:
