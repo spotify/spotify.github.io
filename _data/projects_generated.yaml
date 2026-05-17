@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6116
+      stargazerCount: 6117
       forkCount: 325
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33356
-      forkCount: 7328
+      stargazerCount: 33355
+      forkCount: 7331
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 266
+        totalCount: 267
       watchers:
-        totalCount: 231
+        totalCount: 232
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2075
-      forkCount: 1677
+      forkCount: 1676
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 52
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5022
+      stargazerCount: 5028
       forkCount: 451
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18717
+      stargazerCount: 18720
       forkCount: 2451
       url: https://github.com/spotify/luigi
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6116
+      stargazerCount: 6117
       forkCount: 325
       url: https://github.com/spotify/pedalboard
       openIssues:
