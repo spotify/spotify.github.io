@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6117
+      stargazerCount: 6118
       forkCount: 325
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33355
-      forkCount: 7331
+      stargazerCount: 33360
+      forkCount: 7334
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 267
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2075
-      forkCount: 1676
+      forkCount: 1675
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 52
@@ -343,7 +343,7 @@
     - name: confidence-sdk-android
       description: null
       stargazerCount: 13
-      forkCount: 1
+      forkCount: 2
       url: https://github.com/spotify/confidence-sdk-android
       openIssues:
         totalCount: 1
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5028
-      forkCount: 451
+      stargazerCount: 5035
+      forkCount: 452
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 42
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6117
+      stargazerCount: 6118
       forkCount: 325
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,7 +616,7 @@
         totalCount: 26
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2623
+      stargazerCount: 2624
       forkCount: 527
       url: https://github.com/spotify/scio
       openIssues:
@@ -749,7 +749,7 @@
     - name: confidence-sdk-swift
       description: null
       stargazerCount: 20
-      forkCount: 6
+      forkCount: 7
       url: https://github.com/spotify/confidence-sdk-swift
       openIssues:
         totalCount: 1
