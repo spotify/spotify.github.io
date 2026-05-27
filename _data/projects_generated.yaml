@@ -35,8 +35,8 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6133
-      forkCount: 326
+      stargazerCount: 6135
+      forkCount: 327
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 88
@@ -89,7 +89,7 @@
     - name: dbeam
       description: DBeam exports SQL tables into Avro files using JDBC and Apache Beam
       stargazerCount: 196
-      forkCount: 56
+      forkCount: 57
       url: https://github.com/spotify/dbeam
       openIssues:
         totalCount: 8
@@ -98,7 +98,7 @@
     - name: folsom
       description: An asynchronous memcache client for Java
       stargazerCount: 155
-      forkCount: 68
+      forkCount: 69
       url: https://github.com/spotify/folsom
       openIssues:
         totalCount: 12
@@ -107,7 +107,7 @@
     - name: futures-extra
       description: Java library for working with Guava futures
       stargazerCount: 140
-      forkCount: 33
+      forkCount: 34
       url: https://github.com/spotify/futures-extra
       openIssues:
         totalCount: 1
@@ -154,7 +154,7 @@
     - name: dataenum
       description: Algebraic data types in Java.
       stargazerCount: 175
-      forkCount: 14
+      forkCount: 15
       url: https://github.com/spotify/dataenum
       openIssues:
         totalCount: 4
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33431
-      forkCount: 7345
+      stargazerCount: 33438
+      forkCount: 7348
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 239
+        totalCount: 242
       watchers:
         totalCount: 232
     - name: reactochart
@@ -272,7 +272,7 @@
         totalCount: 10
     - name: spotify-web-api-ts-sdk
       description: A Typescript SDK for the Spotify Web API with types for returned data.
-      stargazerCount: 470
+      stargazerCount: 469
       forkCount: 93
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
@@ -343,7 +343,7 @@
     - name: confidence-sdk-android
       description: null
       stargazerCount: 13
-      forkCount: 2
+      forkCount: 1
       url: https://github.com/spotify/confidence-sdk-android
       openIssues:
         totalCount: 1
@@ -366,7 +366,7 @@
         totalCount: 127
     - name: ios-sdk
       description: Spotify SDK for iOS
-      stargazerCount: 738
+      stargazerCount: 739
       forkCount: 205
       url: https://github.com/spotify/ios-sdk
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5069
+      stargazerCount: 5076
       forkCount: 452
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
       stargazerCount: 18723
-      forkCount: 2453
+      forkCount: 2452
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 120
@@ -521,8 +521,8 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6133
-      forkCount: 326
+      stargazerCount: 6135
+      forkCount: 327
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 88
@@ -616,7 +616,7 @@
         totalCount: 26
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2626
+      stargazerCount: 2627
       forkCount: 527
       url: https://github.com/spotify/scio
       openIssues:
@@ -739,7 +739,7 @@
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
-      stargazerCount: 1165
+      stargazerCount: 1164
       forkCount: 81
       url: https://github.com/spotify/XCMetrics
       openIssues:
@@ -749,7 +749,7 @@
     - name: confidence-sdk-swift
       description: null
       stargazerCount: 20
-      forkCount: 7
+      forkCount: 6
       url: https://github.com/spotify/confidence-sdk-swift
       openIssues:
         totalCount: 1
