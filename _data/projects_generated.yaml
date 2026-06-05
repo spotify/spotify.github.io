@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6148
+      stargazerCount: 6149
       forkCount: 332
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -70,7 +70,7 @@
         totalCount: 29
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 513
+      stargazerCount: 514
       forkCount: 128
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -234,8 +234,8 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33514
-      forkCount: 7359
+      stargazerCount: 33522
+      forkCount: 7363
       url: https://github.com/backstage/backstage
       openIssues:
         totalCount: 230
@@ -282,7 +282,7 @@
     - name: confidence-sdk-js
       description: null
       stargazerCount: 19
-      forkCount: 3
+      forkCount: 4
       url: https://github.com/spotify/confidence-sdk-js
       openIssues:
         totalCount: 8
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 335
+      stargazerCount: 337
       forkCount: 34
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5115
+      stargazerCount: 5120
       forkCount: 458
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -509,7 +509,7 @@
       openIssues:
         totalCount: 44
       watchers:
-        totalCount: 87
+        totalCount: 88
     - name: klio
       description: Smarter data pipelines for audio.
       stargazerCount: 870
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6148
+      stargazerCount: 6149
       forkCount: 332
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -616,8 +616,8 @@
         totalCount: 26
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2627
-      forkCount: 527
+      stargazerCount: 2628
+      forkCount: 528
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 112
