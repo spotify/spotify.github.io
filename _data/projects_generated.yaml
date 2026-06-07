@@ -7,7 +7,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14250
+      stargazerCount: 14248
       forkCount: 1223
       url: https://github.com/spotify/annoy
       openIssues:
@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1207
+      stargazerCount: 1206
       forkCount: 83
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -35,7 +35,7 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6149
+      stargazerCount: 6151
       forkCount: 332
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -70,7 +70,7 @@
         totalCount: 29
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 514
+      stargazerCount: 515
       forkCount: 128
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -106,7 +106,7 @@
         totalCount: 91
     - name: futures-extra
       description: Java library for working with Guava futures
-      stargazerCount: 140
+      stargazerCount: 139
       forkCount: 34
       url: https://github.com/spotify/futures-extra
       openIssues:
@@ -173,7 +173,7 @@
     - name: logging-java
       description: DEPRECATED! - utility classes to set up logging in a Spotify
         compatible way
-      stargazerCount: 24
+      stargazerCount: 23
       forkCount: 23
       url: https://github.com/spotify/logging-java
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33530
-      forkCount: 7363
+      stargazerCount: 33540
+      forkCount: 7365
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 228
+        totalCount: 227
       watchers:
         totalCount: 231
     - name: reactochart
@@ -410,7 +410,7 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14250
+      stargazerCount: 14248
       forkCount: 1223
       url: https://github.com/spotify/annoy
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5125
+      stargazerCount: 5134
       forkCount: 458
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,8 +476,8 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18734
-      forkCount: 2449
+      stargazerCount: 18732
+      forkCount: 2448
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 121
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6149
+      stargazerCount: 6151
       forkCount: 332
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -579,7 +579,7 @@
     - name: big-data-rosetta-code
       description: Code snippets for solving common big data problems in various
         platforms. Inspired by Rosetta Code
-      stargazerCount: 298
+      stargazerCount: 297
       forkCount: 32
       url: https://github.com/spotify/big-data-rosetta-code
       openIssues:
@@ -607,7 +607,7 @@
         totalCount: 8
     - name: ratatool
       description: A tool for data sampling, data generation, and data diffing
-      stargazerCount: 350
+      stargazerCount: 349
       forkCount: 54
       url: https://github.com/spotify/ratatool
       openIssues:
