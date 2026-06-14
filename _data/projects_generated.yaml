@@ -35,8 +35,8 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6159
-      forkCount: 335
+      stargazerCount: 6160
+      forkCount: 336
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 89
@@ -116,7 +116,7 @@
     - name: missinglink
       description: Build time tool for detecting link problems in java projects
       stargazerCount: 156
-      forkCount: 29
+      forkCount: 30
       url: https://github.com/spotify/missinglink
       openIssues:
         totalCount: 16
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33598
-      forkCount: 7392
+      stargazerCount: 33601
+      forkCount: 7393
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 220
+        totalCount: 219
       watchers:
         totalCount: 231
     - name: reactochart
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2081
-      forkCount: 1675
+      forkCount: 1674
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 52
@@ -358,7 +358,7 @@
     - name: ios-style
       description: Guidelines for iOS development in use at Spotify
       stargazerCount: 244
-      forkCount: 33
+      forkCount: 34
       url: https://github.com/spotify/ios-style
       openIssues:
         totalCount: 0
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5161
+      stargazerCount: 5166
       forkCount: 462
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,7 +476,7 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18741
+      stargazerCount: 18742
       forkCount: 2448
       url: https://github.com/spotify/luigi
       openIssues:
@@ -521,8 +521,8 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6159
-      forkCount: 335
+      stargazerCount: 6160
+      forkCount: 336
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 89
@@ -720,7 +720,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 579
+      stargazerCount: 580
       forkCount: 43
       url: https://github.com/spotify/Mobius.swift
       openIssues:
