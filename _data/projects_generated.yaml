@@ -35,8 +35,8 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6180
-      forkCount: 342
+      stargazerCount: 6184
+      forkCount: 341
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 89
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33728
-      forkCount: 7436
+      stargazerCount: 33741
+      forkCount: 7438
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 187
+        totalCount: 185
       watchers:
         totalCount: 231
     - name: reactochart
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5229
+      stargazerCount: 5233
       forkCount: 471
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,13 +476,13 @@
       description: "Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in. "
-      stargazerCount: 18749
-      forkCount: 2448
+      stargazerCount: 18748
+      forkCount: 2450
       url: https://github.com/spotify/luigi
       openIssues:
-        totalCount: 122
+        totalCount: 123
       watchers:
-        totalCount: 447
+        totalCount: 446
     - name: pythonflow
       description: ":snake: Dataflow programming for python."
       stargazerCount: 291
@@ -503,7 +503,7 @@
         totalCount: 25
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3636
+      stargazerCount: 3637
       forkCount: 330
       url: https://github.com/spotify/chartify
       openIssues:
@@ -512,7 +512,7 @@
         totalCount: 88
     - name: klio
       description: Smarter data pipelines for audio.
-      stargazerCount: 870
+      stargazerCount: 871
       forkCount: 53
       url: https://github.com/spotify/klio
       openIssues:
@@ -521,8 +521,8 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6180
-      forkCount: 342
+      stargazerCount: 6184
+      forkCount: 341
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 89
@@ -620,7 +620,7 @@
       forkCount: 527
       url: https://github.com/spotify/scio
       openIssues:
-        totalCount: 112
+        totalCount: 111
       watchers:
         totalCount: 107
     - name: magnolify
