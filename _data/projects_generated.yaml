@@ -17,7 +17,7 @@
     - name: sparkey
       description: Simple constant key/value storage library, for read-heavy systems
         with infrequent large bulk inserts.
-      stargazerCount: 1208
+      stargazerCount: 1209
       forkCount: 82
       url: https://github.com/spotify/sparkey
       openIssues:
@@ -35,13 +35,13 @@
         totalCount: 19
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6200
+      stargazerCount: 6202
       forkCount: 342
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 89
       watchers:
-        totalCount: 63
+        totalCount: 62
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
@@ -150,7 +150,7 @@
       openIssues:
         totalCount: 11
       watchers:
-        totalCount: 18
+        totalCount: 17
     - name: dataenum
       description: Algebraic data types in Java.
       stargazerCount: 175
@@ -169,7 +169,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 14
+        totalCount: 13
     - name: logging-java
       description: DEPRECATED! - utility classes to set up logging in a Spotify
         compatible way
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33802
-      forkCount: 7453
+      stargazerCount: 33803
+      forkCount: 7455
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 182
+        totalCount: 179
       watchers:
         totalCount: 231
     - name: reactochart
@@ -285,7 +285,7 @@
       forkCount: 6
       url: https://github.com/spotify/confidence-sdk-js
       openIssues:
-        totalCount: 9
+        totalCount: 8
       watchers:
         totalCount: 7
     - name: lighthouse-audit-service
@@ -296,7 +296,7 @@
       openIssues:
         totalCount: 17
       watchers:
-        totalCount: 17
+        totalCount: 16
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
@@ -339,7 +339,7 @@
       openIssues:
         totalCount: 20
       watchers:
-        totalCount: 22
+        totalCount: 21
     - name: confidence-sdk-android
       description: null
       stargazerCount: 13
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5261
+      stargazerCount: 5268
       forkCount: 473
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -435,7 +435,7 @@
       openIssues:
         totalCount: 10
       watchers:
-        totalCount: 15
+        totalCount: 14
     - name: realbook
       description: Easier audio-based machine learning with TensorFlow.
       stargazerCount: 130
@@ -476,7 +476,7 @@
       description: Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in.
-      stargazerCount: 18744
+      stargazerCount: 18746
       forkCount: 2454
       url: https://github.com/spotify/luigi
       openIssues:
@@ -518,16 +518,16 @@
       openIssues:
         totalCount: 5
       watchers:
-        totalCount: 17
+        totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6200
+      stargazerCount: 6202
       forkCount: 342
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 89
       watchers:
-        totalCount: 63
+        totalCount: 62
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
       stargazerCount: 598
@@ -640,7 +640,7 @@
       openIssues:
         totalCount: 2
       watchers:
-        totalCount: 16
+        totalCount: 15
     - name: scio-idea-plugin
       description: Scio IDEA plugin
       stargazerCount: 30
@@ -667,7 +667,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 13
+        totalCount: 12
     - name: scio.g8
       description: A Giter8 template for scio
       stargazerCount: 31
@@ -691,7 +691,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 19
+        totalCount: 18
     - name: flink-on-k8s-operator
       description: Kubernetes operator for managing the lifecycle of Apache Flink and
         Beam applications.
@@ -735,7 +735,7 @@
       openIssues:
         totalCount: 25
       watchers:
-        totalCount: 20
+        totalCount: 19
     - name: XCMetrics
       description: XCMetrics is the easiest way to collect Xcode build metrics and
         improve developer productivity.
@@ -745,7 +745,7 @@
       openIssues:
         totalCount: 16
       watchers:
-        totalCount: 20
+        totalCount: 19
     - name: confidence-sdk-swift
       description: null
       stargazerCount: 20
@@ -763,7 +763,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 12
+        totalCount: 11
 - config:
     id: other
     name: Other
