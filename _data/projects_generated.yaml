@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33824
-      forkCount: 7468
+      stargazerCount: 33828
+      forkCount: 7470
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 182
+        totalCount: 179
       watchers:
         totalCount: 231
     - name: reactochart
@@ -276,7 +276,7 @@
       forkCount: 93
       url: https://github.com/spotify/spotify-web-api-ts-sdk
       openIssues:
-        totalCount: 46
+        totalCount: 47
       watchers:
         totalCount: 9
     - name: confidence-sdk-js
@@ -394,7 +394,7 @@
     - name: SPTPersistentCache
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
-      stargazerCount: 1247
+      stargazerCount: 1246
       forkCount: 74
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5278
+      stargazerCount: 5279
       forkCount: 474
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in.
       stargazerCount: 18744
-      forkCount: 2454
+      forkCount: 2455
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 122
@@ -617,7 +617,7 @@
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
       stargazerCount: 2626
-      forkCount: 529
+      forkCount: 530
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 111
