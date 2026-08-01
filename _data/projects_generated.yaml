@@ -7,8 +7,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14274
-      forkCount: 1226
+      stargazerCount: 14275
+      forkCount: 1227
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 68
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6225
+      stargazerCount: 6227
       forkCount: 347
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 33987
-      forkCount: 7516
+      stargazerCount: 33992
+      forkCount: 7519
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 186
+        totalCount: 189
       watchers:
         totalCount: 232
     - name: reactochart
@@ -285,7 +285,7 @@
       forkCount: 10
       url: https://github.com/spotify/confidence-sdk-js
       openIssues:
-        totalCount: 8
+        totalCount: 7
       watchers:
         totalCount: 8
     - name: lighthouse-audit-service
@@ -319,7 +319,7 @@
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
       stargazerCount: 2080
-      forkCount: 1668
+      forkCount: 1666
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 52
@@ -410,8 +410,8 @@
     - name: annoy
       description: Approximate Nearest Neighbors in C++/Python optimized for memory
         usage and loading/saving to disk
-      stargazerCount: 14274
-      forkCount: 1226
+      stargazerCount: 14275
+      forkCount: 1227
       url: https://github.com/spotify/annoy
       openIssues:
         totalCount: 68
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5356
+      stargazerCount: 5357
       forkCount: 485
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 17
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6225
+      stargazerCount: 6227
       forkCount: 347
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -720,7 +720,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 581
+      stargazerCount: 582
       forkCount: 44
       url: https://github.com/spotify/Mobius.swift
       openIssues:
