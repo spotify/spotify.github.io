@@ -27,7 +27,7 @@
     - name: spotify-json
       description: Fast and nice to use C++ JSON library.
       stargazerCount: 207
-      forkCount: 44
+      forkCount: 43
       url: https://github.com/spotify/spotify-json
       openIssues:
         totalCount: 4
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6278
+      stargazerCount: 6280
       forkCount: 350
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -89,7 +89,7 @@
     - name: dbeam
       description: DBeam exports SQL tables into Avro files using JDBC and Apache Beam
       stargazerCount: 197
-      forkCount: 55
+      forkCount: 56
       url: https://github.com/spotify/dbeam
       openIssues:
         totalCount: 8
@@ -126,7 +126,7 @@
       description: A functional reactive framework for managing state evolution and
         side-effects.
       stargazerCount: 1263
-      forkCount: 104
+      forkCount: 105
       url: https://github.com/spotify/mobius
       openIssues:
         totalCount: 3
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34251
-      forkCount: 7586
+      stargazerCount: 34263
+      forkCount: 7590
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 183
+        totalCount: 184
       watchers:
         totalCount: 232
     - name: reactochart
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1219
+      stargazerCount: 1220
       forkCount: 61
       url: https://github.com/spotify/ruler
       openIssues:
@@ -395,7 +395,7 @@
       description: Everyone tries to implement a cache at some point in their iOS
         app’s lifecycle, and this is ours.
       stargazerCount: 1246
-      forkCount: 75
+      forkCount: 74
       url: https://github.com/spotify/SPTPersistentCache
       openIssues:
         totalCount: 10
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5485
-      forkCount: 499
+      stargazerCount: 5489
+      forkCount: 501
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 44
@@ -429,7 +429,7 @@
         totalCount: 66
     - name: confidence
       description: Python library for AB test analysis
-      stargazerCount: 299
+      stargazerCount: 300
       forkCount: 34
       url: https://github.com/spotify/confidence
       openIssues:
@@ -518,10 +518,10 @@
       openIssues:
         totalCount: 5
       watchers:
-        totalCount: 17
+        totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6278
+      stargazerCount: 6280
       forkCount: 350
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -730,7 +730,7 @@
     - name: XCRemoteCache
       description: null
       stargazerCount: 871
-      forkCount: 55
+      forkCount: 54
       url: https://github.com/spotify/XCRemoteCache
       openIssues:
         totalCount: 25
