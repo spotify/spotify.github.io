@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6284
+      stargazerCount: 6285
       forkCount: 350
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -235,12 +235,12 @@
     - name: backstage
       description: Backstage is an open framework for building developer portals
       stargazerCount: 34274
-      forkCount: 7597
+      forkCount: 7593
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 188
+        totalCount: 186
       watchers:
-        totalCount: 232
+        totalCount: 233
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 351
+      stargazerCount: 352
       forkCount: 37
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5499
-      forkCount: 501
+      stargazerCount: 5501
+      forkCount: 502
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 44
@@ -482,7 +482,7 @@
       openIssues:
         totalCount: 123
       watchers:
-        totalCount: 446
+        totalCount: 447
     - name: pythonflow
       description: ":snake: Dataflow programming for python."
       stargazerCount: 291
@@ -521,7 +521,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6284
+      stargazerCount: 6285
       forkCount: 350
       url: https://github.com/spotify/pedalboard
       openIssues:
