@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6325
+      stargazerCount: 6328
       forkCount: 357
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34505
-      forkCount: 7656
+      stargazerCount: 34512
+      forkCount: 7653
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 246
+        totalCount: 250
       watchers:
         totalCount: 239
     - name: reactochart
@@ -300,8 +300,8 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 354
-      forkCount: 37
+      stargazerCount: 355
+      forkCount: 36
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
         totalCount: 8
@@ -318,7 +318,7 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 2075
+      stargazerCount: 2074
       forkCount: 1660
       url: https://github.com/spotify/web-api-examples
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5633
-      forkCount: 515
+      stargazerCount: 5638
+      forkCount: 516
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 45
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in.
       stargazerCount: 18779
-      forkCount: 2465
+      forkCount: 2466
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 123
@@ -521,7 +521,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6325
+      stargazerCount: 6328
       forkCount: 357
       url: https://github.com/spotify/pedalboard
       openIssues:
