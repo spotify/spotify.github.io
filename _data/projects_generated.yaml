@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6366
+      stargazerCount: 6367
       forkCount: 364
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34647
+      stargazerCount: 34659
       forkCount: 7702
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 318
+        totalCount: 317
       watchers:
-        totalCount: 239
+        totalCount: 240
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 364
+      stargazerCount: 365
       forkCount: 36
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1223
+      stargazerCount: 1222
       forkCount: 61
       url: https://github.com/spotify/ruler
       openIssues:
@@ -370,7 +370,7 @@
       forkCount: 206
       url: https://github.com/spotify/ios-sdk
       openIssues:
-        totalCount: 230
+        totalCount: 231
       watchers:
         totalCount: 53
     - name: ios-auth
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5933
+      stargazerCount: 5939
       forkCount: 541
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in.
       stargazerCount: 18783
-      forkCount: 2473
+      forkCount: 2474
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 125
@@ -521,7 +521,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6366
+      stargazerCount: 6367
       forkCount: 364
       url: https://github.com/spotify/pedalboard
       openIssues:
