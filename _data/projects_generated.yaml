@@ -11,7 +11,7 @@
       forkCount: 1229
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 76
+        totalCount: 78
       watchers:
         totalCount: 305
     - name: sparkey
@@ -35,7 +35,7 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6369
+      stargazerCount: 6370
       forkCount: 363
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -45,7 +45,7 @@
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
-      stargazerCount: 1605
+      stargazerCount: 1604
       forkCount: 89
       url: https://github.com/spotify/voyager
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34683
-      forkCount: 7704
+      stargazerCount: 34695
+      forkCount: 7706
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 327
+        totalCount: 323
       watchers:
         totalCount: 239
     - name: reactochart
@@ -300,7 +300,7 @@
     - name: basic-pitch-ts
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection.
-      stargazerCount: 365
+      stargazerCount: 364
       forkCount: 36
       url: https://github.com/spotify/basic-pitch-ts
       openIssues:
@@ -318,8 +318,8 @@
         totalCount: 9
     - name: web-api-examples
       description: Basic examples to authenticate and fetch data using the Spotify Web API
-      stargazerCount: 2074
-      forkCount: 1658
+      stargazerCount: 2075
+      forkCount: 1657
       url: https://github.com/spotify/web-api-examples
       openIssues:
         totalCount: 53
@@ -414,13 +414,13 @@
       forkCount: 1229
       url: https://github.com/spotify/annoy
       openIssues:
-        totalCount: 76
+        totalCount: 78
       watchers:
         totalCount: 305
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5944
+      stargazerCount: 5948
       forkCount: 540
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -521,7 +521,7 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6369
+      stargazerCount: 6370
       forkCount: 363
       url: https://github.com/spotify/pedalboard
       openIssues:
@@ -749,7 +749,7 @@
     - name: confidence-sdk-swift
       description: null
       stargazerCount: 21
-      forkCount: 8
+      forkCount: 9
       url: https://github.com/spotify/confidence-sdk-swift
       openIssues:
         totalCount: 4
