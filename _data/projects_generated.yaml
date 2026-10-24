@@ -35,8 +35,8 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6374
-      forkCount: 363
+      stargazerCount: 6376
+      forkCount: 364
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 86
@@ -70,7 +70,7 @@
         totalCount: 29
     - name: android-sdk
       description: Spotify SDK for Android
-      stargazerCount: 523
+      stargazerCount: 524
       forkCount: 129
       url: https://github.com/spotify/android-sdk
       openIssues:
@@ -234,13 +234,13 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34701
-      forkCount: 7710
+      stargazerCount: 34705
+      forkCount: 7715
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 411
+        totalCount: 419
       watchers:
-        totalCount: 239
+        totalCount: 238
     - name: reactochart
       description: ":chart_with_upwards_trend: React chart component library
         :chart_with_downwards_trend:"
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 5954
-      forkCount: 541
+      stargazerCount: 5956
+      forkCount: 543
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 48
@@ -429,7 +429,7 @@
         totalCount: 67
     - name: confidence
       description: Python library for AB test analysis
-      stargazerCount: 310
+      stargazerCount: 311
       forkCount: 34
       url: https://github.com/spotify/confidence
       openIssues:
@@ -521,8 +521,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6374
-      forkCount: 363
+      stargazerCount: 6376
+      forkCount: 364
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 86
