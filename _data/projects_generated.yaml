@@ -35,8 +35,8 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6412
-      forkCount: 367
+      stargazerCount: 6428
+      forkCount: 369
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 86
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34778
-      forkCount: 7731
+      stargazerCount: 34783
+      forkCount: 7728
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 398
+        totalCount: 396
       watchers:
         totalCount: 233
     - name: reactochart
@@ -333,7 +333,7 @@
   projects:
     - name: ruler
       description: Gradle plugin which helps you analyze the size of your Android apps.
-      stargazerCount: 1222
+      stargazerCount: 1221
       forkCount: 61
       url: https://github.com/spotify/ruler
       openIssues:
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 6019
-      forkCount: 549
+      stargazerCount: 6024
+      forkCount: 551
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 49
@@ -429,7 +429,7 @@
         totalCount: 66
     - name: confidence
       description: Python library for AB test analysis
-      stargazerCount: 313
+      stargazerCount: 314
       forkCount: 34
       url: https://github.com/spotify/confidence
       openIssues:
@@ -477,7 +477,7 @@
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in.
       stargazerCount: 18782
-      forkCount: 2475
+      forkCount: 2476
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 125
@@ -503,7 +503,7 @@
         totalCount: 26
     - name: chartify
       description: Python library that makes it easy for data scientists to create charts.
-      stargazerCount: 3656
+      stargazerCount: 3657
       forkCount: 337
       url: https://github.com/spotify/chartify
       openIssues:
@@ -521,8 +521,8 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6412
-      forkCount: 367
+      stargazerCount: 6428
+      forkCount: 369
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 86
