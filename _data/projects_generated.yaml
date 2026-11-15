@@ -125,7 +125,7 @@
     - name: mobius
       description: A functional reactive framework for managing state evolution and
         side-effects.
-      stargazerCount: 1266
+      stargazerCount: 1265
       forkCount: 106
       url: https://github.com/spotify/mobius
       openIssues:
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34844
-      forkCount: 7758
+      stargazerCount: 34849
+      forkCount: 7761
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 360
+        totalCount: 357
       watchers:
         totalCount: 235
     - name: reactochart
@@ -420,8 +420,8 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 6054
-      forkCount: 557
+      stargazerCount: 6063
+      forkCount: 561
       url: https://github.com/spotify/basic-pitch
       openIssues:
         totalCount: 49
