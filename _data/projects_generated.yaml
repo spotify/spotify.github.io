@@ -35,13 +35,13 @@
         totalCount: 20
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6501
-      forkCount: 381
+      stargazerCount: 6503
+      forkCount: 382
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 85
       watchers:
-        totalCount: 64
+        totalCount: 63
     - name: voyager
       description: 🛰️ An approximate nearest-neighbor search library for Python and
         Java with a focus on ease of use, simplicity, and deployability.
@@ -234,11 +234,11 @@
   projects:
     - name: backstage
       description: Backstage is an open framework for building developer portals
-      stargazerCount: 34902
-      forkCount: 7786
+      stargazerCount: 34908
+      forkCount: 7791
       url: https://github.com/backstage/backstage
       openIssues:
-        totalCount: 348
+        totalCount: 356
       watchers:
         totalCount: 236
     - name: reactochart
@@ -420,7 +420,7 @@
     - name: basic-pitch
       description: A lightweight yet powerful audio-to-MIDI converter with pitch bend
         detection
-      stargazerCount: 6112
+      stargazerCount: 6115
       forkCount: 570
       url: https://github.com/spotify/basic-pitch
       openIssues:
@@ -476,8 +476,8 @@
       description: Luigi is a Python module that helps you build complex pipelines of
         batch jobs. It handles dependency resolution, workflow management,
         visualization etc. It also comes with Hadoop support built in.
-      stargazerCount: 18793
-      forkCount: 2477
+      stargazerCount: 18794
+      forkCount: 2478
       url: https://github.com/spotify/luigi
       openIssues:
         totalCount: 124
@@ -521,13 +521,13 @@
         totalCount: 16
     - name: pedalboard
       description: 🎛 🔊 A Python library for audio.
-      stargazerCount: 6501
-      forkCount: 381
+      stargazerCount: 6503
+      forkCount: 382
       url: https://github.com/spotify/pedalboard
       openIssues:
         totalCount: 85
       watchers:
-        totalCount: 64
+        totalCount: 63
     - name: postgresql-metrics
       description: Tool that extracts and provides metrics on your PostgreSQL database
       stargazerCount: 598
@@ -616,8 +616,8 @@
         totalCount: 27
     - name: scio
       description: A Scala API for Apache Beam and Google Cloud Dataflow.
-      stargazerCount: 2631
-      forkCount: 540
+      stargazerCount: 2632
+      forkCount: 539
       url: https://github.com/spotify/scio
       openIssues:
         totalCount: 113
@@ -720,7 +720,7 @@
     - name: Mobius.swift
       description: A functional reactive framework for managing state evolution and
         side-effects [Swift implementation]
-      stargazerCount: 583
+      stargazerCount: 582
       forkCount: 43
       url: https://github.com/spotify/Mobius.swift
       openIssues:
