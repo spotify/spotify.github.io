@@ -23,7 +23,7 @@ npm install --global yarn
 **Install dependencies** inside of the project folder
 
 ```sh
-yarn & bundle install
+yarn && bundle install
 ```
 
 **Build & serve**
